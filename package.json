@@ -4,8 +4,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --env-file=.env",
-    "dev": "nodemon --env-file=.env"
+    "start": "node --env-file=.env --ignore *.json server",
+    "dev": "nodemon --env-file=.env --ignore *.json server"
   },
     "proxy": "http://127.0.0.1:5000",
   "keywords": [],
