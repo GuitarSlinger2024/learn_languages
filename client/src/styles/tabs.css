@@ -1,0 +1,172 @@
+.tabs {
+  --tab-count: 3;
+  --active: 0;
+
+  position: relative;
+  isolation: isolate;
+  display: flex;
+  block-size: 2.5em;
+  /* This creates an underline */
+  border-block-end: 0.01em solid hsl(var(--primary-hue), 4%, 72%);
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  background: var(--bk-ground);
+  box-sizing: border-box;
+}
+
+.tabs input:not(.indexInput) {
+  display: none;
+}
+
+
+.tabs label {
+  position: relative;
+  flex-direction: column;
+  line-height: 1.2;
+  margin-block-start: 0.2em;
+  flex: 1 1;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  font-size: 1.25em;
+  font-weight: 600;
+  color: #656d7b;
+  cursor: pointer;
+  transition: all 0.5s linear;
+}
+
+.tabs label.show-index {
+  font-size: 0.9em;
+}
+
+.index {
+  transition: all 0.3s linear;
+  font-size: 0.6em;
+}
+
+.show-index .index {
+  font-size: 1.3em;
+}
+
+.tabs .index span:first-child {
+  text-align: end;
+}
+
+.tabs .index span.slash {
+  display: inline-block;
+  inline-size: 1em;
+  text-align: center;
+}
+
+.tabs input:checked + label {
+  color: #101010;
+}
+
+.tabs::after {
+  pointer-events: none;
+  position: absolute;
+  content: '';
+  z-index: -1;
+  inset: 0 0 -0.1em;
+  inline-size: calc((100% / var(--tab-count)) - 0.1em);
+  border-block-end: none;
+  /* background-image: linear-gradient(var(--bk-ground), #fff); */
+  background: white;
+  border: 0.01em solid hsl(var(--primary-hue), 7%, 50%);
+  border-block-end: none;
+  border-radius: 0.5em 0.5em 0 0;
+  /*
+    1st = 0 * 100% = 0%
+    2nd = 1 * 100% = 100%
+    3rd = 2 * 100% = 200%
+  */
+  translate: calc(var(--active) * 100%);
+  transition: translate 0.5s ease-in-out;
+}
+
+.tabs:has(:checked:nth-of-type(1)) {
+  --active: 0;
+}
+
+.tabs:has(:checked:nth-of-type(2)) {
+  --active: 1;
+}
+
+.tabs:has(:checked:nth-of-type(3)) {
+  --active: 2;
+}
+
+.tab-content {
+  background-color: white;
+  border: 0.01em solid hsl(var(--primary-hue), 7%, 50%);
+  border-block-start: none;
+  border-block-end: 0;
+  block-size: 100% !important;
+}
+
+.tab-content > div {
+  position: relative;
+}
+
+/*  
+        This is used in the index_input.js component.
+        When enter is pressed, <br> is inserted into the DOM.
+        This removes it.  Might not be needed later if removed with JS.
+*/
+
+.indexInput {
+  display: inline-block;
+  inline-size: 2em;
+  text-align: end;
+  font-size: 1em;
+  white-space: nowrap;
+  inline-size: -moz-min-content;
+  inline-size: min-content;
+  border: none;
+  outline: none;
+}
+
+#indexInput br {
+  display: none;
+}
+
+#indexInput {
+  pointer-events: none;
+  transition: 1s;
+}
+
+#indexInput:focus {
+  pointer-events: all;
+}
+
+/* #indexInput.focus + span, 
+#indexInput.focus + span + span {
+  display: inline-block;
+  inline-size: 0;
+  opacity: 0;
+} */
+
+.blinkingCursor {
+  animation: blinkingCursor 1s linear  infinite ;
+  transition: 0s;
+  font-size: .9em;
+  position: relative;
+  top: -.2em;
+  color: #aaa;
+}
+
+@keyframes blinkingCursor {
+  0%, 100% {
+    opacity: 1
+  }
+  49% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  99% {
+    opacity: 0;
+  }
+}

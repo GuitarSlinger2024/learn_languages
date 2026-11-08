@@ -1,0 +1,60 @@
+.tab-content-0 {
+  display: flex;
+  inset-block-end: 0;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  /* bottom: .5em; */
+  border: none !important;
+}
+
+#key-pad {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+  align-items: space-evenly;
+  position: absolute;
+  inline-size: 13em;
+  block-size: 10em;
+  background-color: whitesmoke;
+  opacity: 0;
+  pointer-events: none;
+  transform: scale(.8);
+  transition: .5s;
+  z-index: 10000000000000;
+  /* inset-inline-start: 200px; */
+  padding: .1em;
+  border-radius: .2em;
+  inset-block-start: 0;
+}
+
+
+#key-pad.active {
+  transform: scale(1);
+  opacity: 1;
+  pointer-events: all;
+  inset-block-start: .4em;
+}
+
+#key-pad button {
+  inline-size: 31.1%;
+  block-size: 22%;
+  margin: .1em;
+  text-align: center;
+  font-weight: 700;
+  line-height: .5;
+  cursor: pointer;
+}
+
+#key-pad button:active {
+  box-shadow: 0 0 0 0;
+}
+
+#key-pad .numb {
+  font-size: 1.3em;
+}
+
+#key-pad button:not(.numb) {
+  font-size: 1rem
+}

@@ -1,0 +1,319 @@
+/* Delay times are separated - some may be set to 0 */
+.container-outer {
+  inline-size: 70%;
+  block-size: 80%;
+  display: flex;
+  align-self: center;
+  background-color: white;
+  margin: auto;
+  padding-block-start: 0.7em;
+  flex-direction: column;
+  justify-content: center;
+  transition: 0.5s 0.2s;
+}
+
+.showingDefs .container-outer {
+  block-size: 35%;
+}
+
+.noClipsMsg {
+  justify-self: center;
+  position: absolute;
+  inset-block-start: 30%;
+  color: #777;
+}
+
+.english {
+  animation-delay: 0.2s;
+}
+
+.phonetic {
+  animation-delay: var(--phone-delay);
+}
+
+.phraseText {
+  animation-delay: var(--chin-delay);
+  inline-size: 100%;
+}
+
+.phraseText.chinese {
+  padding-inline-start: 0.5em;
+}
+
+.chinese {
+  letter-spacing: 0.5em;
+}
+
+.hidingDefs .english {
+  transition: 0.3s 0.6s !important;
+}
+
+.showingDefs .english {
+  transition: 0.3s 0s !important;
+}
+
+.english,
+.phonetic,
+.phraseText {
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: 0s;
+  border-radius: 0.2em;
+  color: transparent;
+  transition: color 0s 0.4s;
+  z-index: 10;
+  width: 100%;
+  height: 100%;
+}
+
+.english.fadeIn,
+.phonetic.fadeIn,
+.phraseText.fadeIn {
+  /* transition: color 1s .2s, background .5s, opacity 1s 1s; */
+  transition: color 1s 0s;
+  color: black;
+  background: transparent;
+}
+
+/* .english:active {
+  background-color: transparent;
+} */
+
+.english::after,
+.phonetic::after,
+.phraseText::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background: linear-gradient(
+    to right,
+    hsl(var(--primary-hue), 40%, 95%) 8%,
+    hsl(var(--primary-hue), 40%, 92%) 18%,
+    hsl(var(--primary-hue), 40%, 95%) 33%
+  );
+  background-size: 400% 800%;
+  /* transform: rotate(10deg); */
+  overflow: hidden;
+  transition: 0s;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.english.showTextBackground::after,
+.phonetic.showTextBackground::after,
+.phraseText.showTextBackground::after {
+  transition: 0s 0s !important;
+  opacity: 1 !important;
+}
+
+.split-line {
+  text-wrap: balance !important;
+  white-space: wrap;
+}
+
+.fit-my-Text {
+  block-size: fit-content !important;
+  min-block-size: fit-content !important;
+}
+
+@keyframes placeHolderShimmer {
+  0% {
+    background-position: -25em 0;
+  }
+  100% {
+    background-position: 25em 0;
+  }
+}
+
+.linear-background {
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background: #f6f7f8;
+  background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+  background-size: 62.5em 6.5em;
+  block-size: 21.125;
+  position: relative;
+  overflow: hidden;
+}
+
+.singlePhonetic {
+  animation-delay: var(--singlePhon-delay);
+}
+
+.definition {
+  animation-delay: var(--def-delay);
+}
+
+.phraseTextChar {
+  cursor: pointer;
+}
+
+.button-container,
+.character,
+.english,
+.phonetic,
+.phraseText,
+.singlePhonetic {
+  font-size: 1.5em;
+  text-align: center;
+  overflow: hidden;
+  margin: 0.3em 0;
+  white-space: nowrap;
+  min-block-size: 1.2em;
+  line-height: 1.2;
+}
+
+.hidingDefs .english {
+  transition-delay: 0.5s;
+}
+
+.showingDefs .english {
+  opacity: 0 !important;
+  pointer-events: none;
+  transition: 0.2s;
+}
+
+.multipleDefs {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 1.25em;
+  block-size: 4em;
+  padding: 0 0.6em;
+
+  transition: 0.2s;
+  line-height: 1.3;
+  transition-delay: 0s;
+  opacity: 0;
+  inset-block-end: 0.7em !important;
+  inline-size: 75%;
+  margin: 0 auto;
+  inset-inline-start: 0;
+  inset-inline-end: 0;
+  text-wrap: balance;
+}
+
+.multipleDefs span:first-of-type {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.showingDefs .multipleDefs {
+  position: absolute;
+  transition: 0.5s;
+  transition-delay: 0.5s;
+  opacity: 1;
+  inset-block-end: 0.7em;
+}
+
+.extraPlayBtn,
+#hideDefsBtn {
+  opacity: 0;
+  pointer-events: none;
+  position: absolute;
+  font-size: 0.9em;
+  inset-block-start: 5em;
+  transition: opacity 0.3s;
+}
+
+#hideDefsBtn {
+  inset-inline-start: 0.6em;
+}
+
+.extraPlayBtn {
+  inset-inline-end: 0.6em;
+}
+
+.extraPlayBtn {
+  inset-inline-end: 0.6em !important;
+}
+
+.showingDefs .extraPlayBtn {
+  opacity: 1;
+}
+
+.extraPlayBtn img {
+  block-size: 1em;
+}
+
+.extraPlayBtn img:nth-child(1) {
+  display: block;
+}
+
+.showingDefs .extraPlayBtn,
+.showingDefs #hideDefsBtn {
+  opacity: 1;
+  pointer-events: all;
+  transition-delay: 0.3s;
+}
+
+#hideDefsBtn {
+  transition-delay: 0s;
+}
+
+.right-arrow,
+.left-arrow {
+  position: absolute;
+  inline-size: 2em;
+  inset-block-end: 3.5em;
+  opacity: 0;
+  transition: 0.3s 0.2s;
+  cursor: pointer;
+}
+
+.showingDefs .right-arrow,
+.showingDefs .left-arrow {
+  opacity: 1;
+}
+
+.right-arrow {
+  inset-inline-end: 0.9em;
+}
+
+.left-arrow {
+  inset-inline-start: 0.9em;
+}
+
+/*  
+              OfflineMsg is a component used in ReportError.jsx
+*/
+
+.offlineMsg {
+  position: absolute;
+  width: 96%;
+  height: 90%;
+  text-align: center;
+  padding: 2.5em 2em;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0);
+  pointer-events: none;
+  background-color: black;
+  color: hsl(200, 24%, 70%);
+  font-weight: 900;
+  z-index: 10000000000;
+  font-size: 1.5em;
+  box-shadow: 0 0 0.2em 0.2em hsl(var(--primary-hue), 24%, 63%);
+  transition: 0.5s;
+}
+
+.offlineMsg.show {
+  transform: translate(-50%, -50%) scale(1);
+  pointer-events: all;
+  cursor: pointer;
+}

@@ -1,0 +1,316 @@
+[
+  {
+    "phraseId": 1,
+    "eng": "newspaper",
+    "phon": "bào zhǐ",
+    "chin": "报纸",
+    "vocals": [
+      { "clipId": 0, "title": "01_1_Vocabulary_clipId-0-0" },
+      { "clipId": 15, "title": "01_2_Vocabulary_clipId-15-0" },
+      { "clipId": 18, "title": "01_3_Vocabulary_clipId-18-0" },
+      { "clipId": 5, "title": "01_4_Vocabulary_clipId-5-0" },
+      { "clipId": 24, "title": "02_1_Vocabulary_clipId-24-0" },
+      { "clipId": 25, "title": "02_2_Vocabulary_clipId-25-0" },
+      { "clipId": 29, "title": "05_1_Vocabulary_clipId-29-0" }
+    ]
+  },
+  {
+    "phraseId": 2,
+    "eng": "girl(s)",
+    "phon": "nǚ hái zǐ",
+    "chin": "女孩子",
+    "vocals": [
+      { "clipId": 1, "title": "01_1_Vocabulary_clipId-1-0" },
+      { "clipId": 9, "title": "01_2_Vocabulary_clipId-9-0" },
+      { "clipId": 6, "title": "01_3_Vocabulary_clipId-6-0" },
+      { "clipId": 21, "title": "01_4_Vocabulary_clipId-21-0" },
+      { "clipId": 17, "title": "02_1_Vocabulary_clipId-17-0" },
+      { "clipId": 8, "title": "02_2_Vocabulary_clipId-8-0" },
+      { "clipId": 5, "title": "02_3_Vocabulary_clipId-5-0" },
+      { "clipId": 18, "title": "03_1_Vocabulary_clipId-18-0" },
+      { "clipId": 5, "title": "04_1_Vocabulary_clipId-5-0" },
+      { "clipId": 32, "title": "05_1_Vocabulary_clipId-32-0" },
+      { "clipId": 23, "title": "05_4_Vocabulary_clipId-23-0" }
+    ]
+  },
+  {
+    "phraseId": 3,
+    "eng": "water",
+    "phon": "shuǐ",
+    "chin": "水",
+    "vocals": [
+      { "clipId": 2, "title": "01_1_Vocabulary_clipId-2-0" },
+      { "clipId": 3, "title": "01_2_Vocabulary_clipId-3-0" },
+      { "clipId": 1, "title": "01_3_Vocabulary_clipId-1-0" },
+      { "clipId": 23, "title": "01_4_Vocabulary_clipId-23-0" },
+      { "clipId": 22, "title": "02_1_Vocabulary_clipId-22-0" },
+      { "clipId": 20, "title": "02_2_Vocabulary_clipId-20-0" },
+      { "clipId": 0, "title": "04_1_Vocabulary_clipId-0-0" },
+      { "clipId": 4, "title": "05_4_Vocabulary_clipId-4-0" }
+    ]
+  },
+  {
+    "phraseId": 4,
+    "eng": "tea",
+    "phon": "chá",
+    "chin": "茶",
+    "vocals": [
+      { "clipId": 3, "title": "01_1_Vocabulary_clipId-3-0" },
+      { "clipId": 4, "title": "01_2_Vocabulary_clipId-4-0" },
+      { "clipId": 26, "title": "01_3_Vocabulary_clipId-26-0" },
+      { "clipId": 17, "title": "01_4_Vocabulary_clipId-17-0" },
+      { "clipId": 28, "title": "02_1_Vocabulary_clipId-28-0" },
+      { "clipId": 13, "title": "02_2_Vocabulary_clipId-13-0" },
+      { "clipId": 10, "title": "04_2_Vocabulary_clipId-10-0" },
+      { "clipId": 6, "title": "04_3_Vocabulary_clipId-6-0" },
+      { "clipId": 17, "title": "04_4_Vocabulary_clipId-17-0" },
+      { "clipId": 14, "title": "05_1_Vocabulary_clipId-14-0" },
+      { "clipId": 0, "title": "06_4_Vocabulary_clipId-0-0" },
+      { "clipId": 7, "title": "07_1_Vocabulary_clipId-7-0" },
+      { "clipId": 24, "title": "08_1_Vocabulary_clipId-24-0" }
+    ]
+  },
+  {
+    "phraseId": 5,
+    "eng": "woman / women",
+    "phon": "nǚ rén",
+    "chin": "女人",
+    "vocals": [
+      { "clipId": 4, "title": "01_1_Vocabulary_clipId-4-0" },
+      { "clipId": 18, "title": "01_2_Vocabulary_clipId-18-0" },
+      { "clipId": 24, "title": "01_3_Vocabulary_clipId-24-0" },
+      { "clipId": 20, "title": "01_4_Vocabulary_clipId-20-0" },
+      { "clipId": 16, "title": "02_1_Vocabulary_clipId-16-0" },
+      { "clipId": 12, "title": "02_2_Vocabulary_clipId-12-0" },
+      { "clipId": 22, "title": "02_3_Vocabulary_clipId-22-0" },
+      { "clipId": 1, "title": "03_1_Vocabulary_clipId-1-0" },
+      { "clipId": 20, "title": "04_1_Vocabulary_clipId-20-0" },
+      { "clipId": 25, "title": "05_1_Vocabulary_clipId-25-0" },
+      { "clipId": 21, "title": "05_2_Vocabulary_clipId-21-0" },
+      { "clipId": 1, "title": "05_4_Vocabulary_clipId-1-0" }
+    ]
+  },
+  {
+    "phraseId": 6,
+    "eng": "boy(s)",
+    "phon": "nán hái zǐ",
+    "chin": "男孩子",
+    "vocals": [
+      { "clipId": 5, "title": "01_1_Vocabulary_clipId-5-0" },
+      { "clipId": 16, "title": "01_2_Vocabulary_clipId-16-0" },
+      { "clipId": 14, "title": "01_3_Vocabulary_clipId-14-0" },
+      { "clipId": 15, "title": "01_4_Vocabulary_clipId-15-0" },
+      { "clipId": 20, "title": "02_1_Vocabulary_clipId-20-0" },
+      { "clipId": 34, "title": "02_2_Vocabulary_clipId-34-0" },
+      { "clipId": 18, "title": "02_3_Vocabulary_clipId-18-0" },
+      { "clipId": 4, "title": "03_1_Vocabulary_clipId-4-0" },
+      { "clipId": 34, "title": "04_1_Vocabulary_clipId-34-0" },
+      { "clipId": 30, "title": "05_1_Vocabulary_clipId-30-0" },
+      { "clipId": 0, "title": "05_4_Vocabulary_clipId-0-0" }
+    ]
+  },
+  {
+    "phraseId": 7,
+    "eng": "man / men",
+    "phon": "nán rén",
+    "chin": "男人",
+    "vocals": [
+      { "clipId": 6, "title": "01_1_Vocabulary_clipId-6-0" },
+      { "clipId": 2, "title": "01_2_Vocabulary_clipId-2-0" },
+      { "clipId": 8, "title": "01_3_Vocabulary_clipId-8-0" },
+      { "clipId": 25, "title": "01_4_Vocabulary_clipId-25-0" },
+      { "clipId": 29, "title": "02_1_Vocabulary_clipId-29-0" },
+      { "clipId": 0, "title": "02_2_Vocabulary_clipId-0-0" },
+      { "clipId": 0, "title": "02_3_Vocabulary_clipId-0-0" },
+      { "clipId": 10, "title": "03_1_Vocabulary_clipId-10-0" },
+      { "clipId": 13, "title": "04_1_Vocabulary_clipId-13-0" },
+      { "clipId": 20, "title": "04_4_Vocabulary_clipId-20-0" },
+      { "clipId": 27, "title": "05_1_Vocabulary_clipId-27-0" },
+      { "clipId": 25, "title": "05_2_Vocabulary_clipId-25-0" },
+      { "clipId": 8, "title": "05_4_Vocabulary_clipId-8-0" }
+    ]
+  },
+  {
+    "phraseId": 8,
+    "eng": "juice",
+    "phon": "guǒ zhī",
+    "chin": "果汁",
+    "vocals": [
+      { "clipId": 7, "title": "01_1_Vocabulary_clipId-7-0" },
+      { "clipId": 13, "title": "01_2_Vocabulary_clipId-13-0" },
+      { "clipId": 25, "title": "01_3_Vocabulary_clipId-25-0" },
+      { "clipId": 33, "title": "01_4_Vocabulary_clipId-33-0" },
+      { "clipId": 31, "title": "02_1_Vocabulary_clipId-31-0" },
+      { "clipId": 24, "title": "02_2_Vocabulary_clipId-24-0" },
+      { "clipId": 10, "title": "02_3_Vocabulary_clipId-10-0" },
+      { "clipId": 14, "title": "04_2_Vocabulary_clipId-14-0" },
+      { "clipId": 21, "title": "04_3_Vocabulary_clipId-21-0" },
+      { "clipId": 22, "title": "04_4_Vocabulary_clipId-22-0" },
+      { "clipId": 0, "title": "05_1_Vocabulary_clipId-0-0" },
+      { "clipId": 31, "title": "05_2_Vocabulary_clipId-31-0" },
+      { "clipId": 8, "title": "06_4_Vocabulary_clipId-8-0" },
+      { "clipId": 1, "title": "07_1_Vocabulary_clipId-1-0" },
+      { "clipId": 0, "title": "07_4_Vocabulary_clipId-0-0" }
+    ]
+  },
+  {
+    "phraseId": 9,
+    "eng": "book(s)",
+    "phon": "shū",
+    "chin": "书",
+    "vocals": [
+      { "clipId": 8, "title": "01_1_Vocabulary_clipId-8-0" },
+      { "clipId": 12, "title": "01_2_Vocabulary_clipId-12-0" },
+      { "clipId": 17, "title": "01_3_Vocabulary_clipId-17-0" },
+      { "clipId": 6, "title": "01_4_Vocabulary_clipId-6-0" },
+      { "clipId": 27, "title": "02_1_Vocabulary_clipId-27-0" },
+      { "clipId": 32, "title": "02_2_Vocabulary_clipId-32-0" },
+      { "clipId": 34, "title": "03_1_Vocabulary_clipId-34-0" },
+      { "clipId": 19, "title": "04_1_Vocabulary_clipId-19-0" },
+      { "clipId": 7, "title": "05_1_Vocabulary_clipId-7-0" },
+      { "clipId": 12, "title": "05_2_Vocabulary_clipId-12-0" },
+      { "clipId": 3, "title": "05_4_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 10,
+    "eng": "a book",
+    "phon": "yī běn shū",
+    "chin": "一本书",
+    "vocals": [
+      { "clipId": 0, "title": "01_2_Vocabulary_clipId-0-0" },
+      { "clipId": 2, "title": "01_3_Vocabulary_clipId-2-0" },
+      { "clipId": 24, "title": "01_4_Vocabulary_clipId-24-0" },
+      { "clipId": 2, "title": "03_1_Vocabulary_clipId-2-0" },
+      { "clipId": 4, "title": "04_1_Vocabulary_clipId-4-0" }
+    ]
+  },
+  {
+    "phraseId": 11,
+    "eng": "coffee",
+    "phon": "kā fēi",
+    "chin": "咖啡",
+    "vocals": [
+      { "clipId": 1, "title": "01_2_Vocabulary_clipId-1-0" },
+      { "clipId": 7, "title": "01_3_Vocabulary_clipId-7-0" },
+      { "clipId": 27, "title": "01_4_Vocabulary_clipId-27-0" },
+      { "clipId": 30, "title": "02_1_Vocabulary_clipId-30-0" },
+      { "clipId": 16, "title": "02_2_Vocabulary_clipId-16-0" },
+      { "clipId": 22, "title": "03_1_Vocabulary_clipId-22-0" },
+      { "clipId": 13, "title": "05_1_Vocabulary_clipId-13-0" }
+    ]
+  },
+  {
+    "phraseId": 12,
+    "eng": "grown-ups / adults",
+    "phon": "dà rén",
+    "chin": "大人",
+    "vocals": [
+      { "clipId": 5, "title": "01_2_Vocabulary_clipId-5-0" },
+      { "clipId": 13, "title": "01_3_Vocabulary_clipId-13-0" }
+    ]
+  },
+  {
+    "phraseId": 13,
+    "eng": "bread",
+    "phon": "miàn bāo",
+    "chin": "面包",
+    "vocals": [
+      { "clipId": 6, "title": "01_2_Vocabulary_clipId-6-0" },
+      { "clipId": 23, "title": "01_3_Vocabulary_clipId-23-0" },
+      { "clipId": 9, "title": "01_4_Vocabulary_clipId-9-0" },
+      { "clipId": 33, "title": "02_1_Vocabulary_clipId-33-0" },
+      { "clipId": 28, "title": "02_2_Vocabulary_clipId-28-0" },
+      { "clipId": 17, "title": "04_1_Vocabulary_clipId-17-0" }
+    ]
+  },
+  {
+    "phraseId": 14,
+    "eng": "milk",
+    "phon": "niú nǎi",
+    "chin": "牛奶",
+    "vocals": [
+      { "clipId": 7, "title": "01_2_Vocabulary_clipId-7-0" },
+      { "clipId": 5, "title": "01_3_Vocabulary_clipId-5-0" },
+      { "clipId": 30, "title": "01_4_Vocabulary_clipId-30-0" },
+      { "clipId": 1, "title": "02_2_Vocabulary_clipId-1-0" },
+      { "clipId": 9, "title": "05_1_Vocabulary_clipId-9-0" }
+    ]
+  },
+  {
+    "phraseId": 15,
+    "eng": "a horse",
+    "phon": "yī pǐ mǎ",
+    "chin": "一匹马",
+    "vocals": [
+      { "clipId": 8, "title": "01_2_Vocabulary_clipId-8-0" },
+      { "clipId": 15, "title": "01_3_Vocabulary_clipId-15-0" },
+      { "clipId": 14, "title": "02_1_Vocabulary_clipId-14-0" },
+      { "clipId": 14, "title": "02_2_Vocabulary_clipId-14-0" }
+    ]
+  },
+  {
+    "phraseId": 16,
+    "eng": "a cat",
+    "phon": "yī zhǐ māo",
+    "chin": "一只猫",
+    "vocals": [
+      { "clipId": 10, "title": "01_2_Vocabulary_clipId-10-0" },
+      { "clipId": 20, "title": "01_3_Vocabulary_clipId-20-0" },
+      { "clipId": 33, "title": "02_2_Vocabulary_clipId-33-0" }
+    ]
+  },
+  {
+    "phraseId": 17,
+    "eng": "a dog",
+    "phon": "yī zhǐ gǒu",
+    "chin": "一只狗",
+    "vocals": [
+      { "clipId": 11, "title": "01_2_Vocabulary_clipId-11-0" },
+      { "clipId": 16, "title": "01_3_Vocabulary_clipId-16-0" },
+      { "clipId": 7, "title": "02_1_Vocabulary_clipId-7-0" },
+      { "clipId": 11, "title": "02_2_Vocabulary_clipId-11-0" }
+    ]
+  },
+  {
+    "phraseId": 18,
+    "eng": "child / children",
+    "phon": "hái zǐ",
+    "chin": "孩子",
+    "vocals": [
+      { "clipId": 14, "title": "01_2_Vocabulary_clipId-14-0" },
+      { "clipId": 12, "title": "01_3_Vocabulary_clipId-12-0" },
+      { "clipId": 26, "title": "01_4_Vocabulary_clipId-26-0" },
+      { "clipId": 32, "title": "02_1_Vocabulary_clipId-32-0" },
+      { "clipId": 27, "title": "02_2_Vocabulary_clipId-27-0" },
+      { "clipId": 21, "title": "02_3_Vocabulary_clipId-21-0" },
+      { "clipId": 14, "title": "03_1_Vocabulary_clipId-14-0" },
+      { "clipId": 29, "title": "04_1_Vocabulary_clipId-29-0" },
+      { "clipId": 20, "title": "05_1_Vocabulary_clipId-20-0" },
+      { "clipId": 10, "title": "05_2_Vocabulary_clipId-10-0" },
+      { "clipId": 33, "title": "05_4_Vocabulary_clipId-33-0" }
+    ]
+  },
+  {
+    "phraseId": 19,
+    "eng": "a pen",
+    "phon": "yī zhī bǐ",
+    "chin": "一支笔",
+    "vocals": [
+      { "clipId": 17, "title": "01_2_Vocabulary_clipId-17-0" },
+      { "clipId": 21, "title": "01_3_Vocabulary_clipId-21-0" }
+    ]
+  },
+  {
+    "phraseId": 20,
+    "eng": "a fish",
+    "phon": "yī tiáo yú",
+    "chin": "一条鱼",
+    "vocals": [
+      { "clipId": 19, "title": "01_2_Vocabulary_clipId-19-0" },
+      { "clipId": 3, "title": "01_3_Vocabulary_clipId-3-0" },
+      { "clipId": 0, "title": "01_4_Vocabulary_clipId-0-0" },
+      { "clipId": 5, "title": "10_4_Vocabulary_clipId-5-0" }
+    ]
+  }
+]

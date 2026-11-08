@@ -1,0 +1,197 @@
+*,
+*>* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  block-size: 100vh;
+  inline-size: 100vw;
+  overflow-x: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--bk-ground1);
+  /* background-color: white; */
+  /* background-color: rgb(227, 227, 227); */
+
+  line-height: 1.7;
+  border-block-start: .7em solid #f1d23a;
+
+  /* Delay Values (css variables) */
+  --delay-time: 2s;
+  /* --eng-delay: 0;
+  --phone-delay: 0;
+  --chin-delay: 0; */
+  --char-delay: 0;
+  --singlePhon-delay: 0;
+  --def-delay: 0;
+  --duration: .5s;
+
+  --primary-hue: 214;
+  --primary-saturation: 43%;
+
+  --bk-ground1: hsla(var(--primary-hue), var(--primary-saturation), 63%, 0.05);
+  --bk-ground: hsla(var(--primary-hue), var(--primary-saturation), 63%, 0.4);
+  --btn-hover: hsla(var(--primary-hue), var(--primary-saturation), 63%, 0.6);
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+
+  --card-border-radius: 10%;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 2.605vw;
+  }
+}
+
+main {
+  position: relative;
+  inline-size: 37em;
+  block-size: 17.5em;
+  box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.2);
+  padding: 0.5em;
+  background-color: var(--bk-ground);
+}
+
+.tab-div {
+  block-size: 14em !important;
+}
+
+
+.tab-content-0,
+.tab-content-1,
+.tab-content-2,
+.tab-content-3,
+.tab-content-search,
+.tab-content-info {
+  position: absolute;
+  padding: 0.5em 0;
+  inline-size: 97.4%;
+  background-color: white;
+  border: 0.01em solid hsl(var(--primary-hue), 4%, 72%);
+  border-block-start: none;
+}
+
+.tab-content-0 {
+  background-color: transparent;
+}
+
+/*
+          Common
+*/
+
+.noSelect {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.noSelect:focus {
+  outline: none !important;
+}
+
+.disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.disableEverything:not(#key-pad) {
+  pointer-events: none !important;
+}
+
+.dim {
+  opacity: .5
+}
+
+.hidden {
+  opacity: 0;
+  pointer-events: none;
+  position: absolute;
+}
+
+.incorrect {
+  opacity: 0.2;
+}
+
+.hide {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.gold {
+  color: rgb(177, 150, 0);
+}
+
+.blue {
+  color: blue;
+}
+
+.highlight {
+  position: relative;
+  color: hsl(var(--primary-hue), 60%, 33%);
+  /* text-shadow: 0 0 .1em gold; */
+  /* font-weight: 700; */
+}
+
+.fadeIn {
+  opacity: 1 !important;
+  transition: opacity 1s;
+}
+
+.button {
+  position: relative;
+  display: inline-flex;
+  font-size: 0.6em;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  padding: 0.2em 0;
+  block-size: 1.7em;
+  align-self: flex-end;
+  inline-size: 4em;
+  border: .05em solid rgb(221, 221, 221);
+  border-radius: 0.2em;
+  flex-grow: 0;
+  cursor: pointer;
+  outline: none;
+  background: linear-gradient(var(
+--bk-ground), white, var(--bk-ground));
+}
+
+
+.button:hover {
+  background-color: var(--btn-hover);
+}
+
+.button:disabled {
+  opacity: .3;
+  pointer-events: none;
+}
+
+.hidePage {
+  opacity: 0;
+  pointer-events: none;
+  transition: opactiy .5s;
+}
+
+aside h1 {
+  line-height: 1.25;
+}
+
+#loadingProgressBar {
+  display: block;
+  width: 0;
+  height: .2em;
+  background-color: black;
+  transition: width .5s;
+  margin: 0;
+}

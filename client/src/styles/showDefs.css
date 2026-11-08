@@ -1,0 +1,66 @@
+.chineseChar {
+  cursor: pointer;
+}
+
+.chineseChar:not(.highlight):hover {
+  color: hsl(var(--primary-hue), 100%, 80%);
+  text-shadow: 0em 0em .425em yellow;
+}
+
+.highlight {
+  color: hsl(var(--primary-hue), 98%, 40%);
+}
+
+
+.doneBtn {
+  display: none;
+}
+
+.showingDefs .doneBtn {
+  position: absolute;
+  display: block;
+  font-size: 0.6em;
+  inset-inline-end: 0.9em;
+  inset-block-start: 1.3em;
+  font-weight: 700;
+  padding: 0 0.4em;
+  border: .7em solid;
+  background-color: #ccc;
+  cursor: pointer;
+  z-index: 1000000;
+}
+
+.readBtn {
+  --btn-size: 2em;
+  --btn-margin: .8em;
+}
+
+.readBtn {
+  position: absolute;
+  inline-size: var(--btn-size);
+  block-size: var(--btn-size);
+  inset-block-start: 0;
+  inset-block-end: 0;
+  margin: auto 0;
+  opacity: 0;
+  pointer-events: none;
+  cursor: pointer;
+}
+
+.showingDefs .readBtn {
+  opacity: 1;
+  pointer-events: all;
+}
+
+.readBtn img {
+  inline-size: 100%;
+  block-size: 100%;
+}
+
+#readLeftBtn {
+  inset-inline-start: var(--btn-margin);
+}
+
+#readRightBtn {
+  inset-inline-end: var(--btn-margin);
+}

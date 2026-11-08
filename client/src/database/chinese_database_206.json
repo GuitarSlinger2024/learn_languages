@@ -1,0 +1,2774 @@
+[
+  {
+    "phraseId": 1,
+    "eng": "newspaper",
+    "phon": "bào zhǐ",
+    "chin": "报纸",
+    "vocals": [
+      { "clipId": 0, "title": "01_1_Vocabulary_clipId-0-0" },
+      { "clipId": 15, "title": "01_2_Vocabulary_clipId-15-0" },
+      { "clipId": 18, "title": "01_3_Vocabulary_clipId-18-0" },
+      { "clipId": 5, "title": "01_4_Vocabulary_clipId-5-0" },
+      { "clipId": 24, "title": "02_1_Vocabulary_clipId-24-0" },
+      { "clipId": 25, "title": "02_2_Vocabulary_clipId-25-0" },
+      { "clipId": 29, "title": "05_1_Vocabulary_clipId-29-0" }
+    ]
+  },
+  {
+    "phraseId": 2,
+    "eng": "girl(s)",
+    "phon": "nǚ hái zǐ",
+    "chin": "女孩子",
+    "vocals": [
+      { "clipId": 1, "title": "01_1_Vocabulary_clipId-1-0" },
+      { "clipId": 9, "title": "01_2_Vocabulary_clipId-9-0" },
+      { "clipId": 6, "title": "01_3_Vocabulary_clipId-6-0" },
+      { "clipId": 21, "title": "01_4_Vocabulary_clipId-21-0" },
+      { "clipId": 17, "title": "02_1_Vocabulary_clipId-17-0" },
+      { "clipId": 8, "title": "02_2_Vocabulary_clipId-8-0" },
+      { "clipId": 5, "title": "02_3_Vocabulary_clipId-5-0" },
+      { "clipId": 18, "title": "03_1_Vocabulary_clipId-18-0" },
+      { "clipId": 5, "title": "04_1_Vocabulary_clipId-5-0" },
+      { "clipId": 32, "title": "05_1_Vocabulary_clipId-32-0" },
+      { "clipId": 23, "title": "05_4_Vocabulary_clipId-23-0" }
+    ]
+  },
+  {
+    "phraseId": 3,
+    "eng": "water",
+    "phon": "shuǐ",
+    "chin": "水",
+    "vocals": [
+      { "clipId": 2, "title": "01_1_Vocabulary_clipId-2-0" },
+      { "clipId": 3, "title": "01_2_Vocabulary_clipId-3-0" },
+      { "clipId": 1, "title": "01_3_Vocabulary_clipId-1-0" },
+      { "clipId": 23, "title": "01_4_Vocabulary_clipId-23-0" },
+      { "clipId": 22, "title": "02_1_Vocabulary_clipId-22-0" },
+      { "clipId": 20, "title": "02_2_Vocabulary_clipId-20-0" },
+      { "clipId": 0, "title": "04_1_Vocabulary_clipId-0-0" },
+      { "clipId": 4, "title": "05_4_Vocabulary_clipId-4-0" }
+    ]
+  },
+  {
+    "phraseId": 4,
+    "eng": "tea",
+    "phon": "chá",
+    "chin": "茶",
+    "vocals": [
+      { "clipId": 3, "title": "01_1_Vocabulary_clipId-3-0" },
+      { "clipId": 4, "title": "01_2_Vocabulary_clipId-4-0" },
+      { "clipId": 26, "title": "01_3_Vocabulary_clipId-26-0" },
+      { "clipId": 17, "title": "01_4_Vocabulary_clipId-17-0" },
+      { "clipId": 28, "title": "02_1_Vocabulary_clipId-28-0" },
+      { "clipId": 13, "title": "02_2_Vocabulary_clipId-13-0" },
+      { "clipId": 10, "title": "04_2_Vocabulary_clipId-10-0" },
+      { "clipId": 6, "title": "04_3_Vocabulary_clipId-6-0" },
+      { "clipId": 17, "title": "04_4_Vocabulary_clipId-17-0" },
+      { "clipId": 14, "title": "05_1_Vocabulary_clipId-14-0" },
+      { "clipId": 0, "title": "06_4_Vocabulary_clipId-0-0" },
+      { "clipId": 7, "title": "07_1_Vocabulary_clipId-7-0" },
+      { "clipId": 24, "title": "08_1_Vocabulary_clipId-24-0" }
+    ]
+  },
+  {
+    "phraseId": 5,
+    "eng": "woman / women",
+    "phon": "nǚ rén",
+    "chin": "女人",
+    "vocals": [
+      { "clipId": 4, "title": "01_1_Vocabulary_clipId-4-0" },
+      { "clipId": 18, "title": "01_2_Vocabulary_clipId-18-0" },
+      { "clipId": 24, "title": "01_3_Vocabulary_clipId-24-0" },
+      { "clipId": 20, "title": "01_4_Vocabulary_clipId-20-0" },
+      { "clipId": 16, "title": "02_1_Vocabulary_clipId-16-0" },
+      { "clipId": 12, "title": "02_2_Vocabulary_clipId-12-0" },
+      { "clipId": 22, "title": "02_3_Vocabulary_clipId-22-0" },
+      { "clipId": 1, "title": "03_1_Vocabulary_clipId-1-0" },
+      { "clipId": 20, "title": "04_1_Vocabulary_clipId-20-0" },
+      { "clipId": 25, "title": "05_1_Vocabulary_clipId-25-0" },
+      { "clipId": 21, "title": "05_2_Vocabulary_clipId-21-0" },
+      { "clipId": 1, "title": "05_4_Vocabulary_clipId-1-0" }
+    ]
+  },
+  {
+    "phraseId": 6,
+    "eng": "boy(s)",
+    "phon": "nán hái zǐ",
+    "chin": "男孩子",
+    "vocals": [
+      { "clipId": 5, "title": "01_1_Vocabulary_clipId-5-0" },
+      { "clipId": 16, "title": "01_2_Vocabulary_clipId-16-0" },
+      { "clipId": 14, "title": "01_3_Vocabulary_clipId-14-0" },
+      { "clipId": 15, "title": "01_4_Vocabulary_clipId-15-0" },
+      { "clipId": 20, "title": "02_1_Vocabulary_clipId-20-0" },
+      { "clipId": 34, "title": "02_2_Vocabulary_clipId-34-0" },
+      { "clipId": 18, "title": "02_3_Vocabulary_clipId-18-0" },
+      { "clipId": 4, "title": "03_1_Vocabulary_clipId-4-0" },
+      { "clipId": 34, "title": "04_1_Vocabulary_clipId-34-0" },
+      { "clipId": 30, "title": "05_1_Vocabulary_clipId-30-0" },
+      { "clipId": 0, "title": "05_4_Vocabulary_clipId-0-0" }
+    ]
+  },
+  {
+    "phraseId": 7,
+    "eng": "man / men",
+    "phon": "nán rén",
+    "chin": "男人",
+    "vocals": [
+      { "clipId": 6, "title": "01_1_Vocabulary_clipId-6-0" },
+      { "clipId": 2, "title": "01_2_Vocabulary_clipId-2-0" },
+      { "clipId": 8, "title": "01_3_Vocabulary_clipId-8-0" },
+      { "clipId": 25, "title": "01_4_Vocabulary_clipId-25-0" },
+      { "clipId": 29, "title": "02_1_Vocabulary_clipId-29-0" },
+      { "clipId": 0, "title": "02_2_Vocabulary_clipId-0-0" },
+      { "clipId": 0, "title": "02_3_Vocabulary_clipId-0-0" },
+      { "clipId": 10, "title": "03_1_Vocabulary_clipId-10-0" },
+      { "clipId": 13, "title": "04_1_Vocabulary_clipId-13-0" },
+      { "clipId": 20, "title": "04_4_Vocabulary_clipId-20-0" },
+      { "clipId": 27, "title": "05_1_Vocabulary_clipId-27-0" },
+      { "clipId": 25, "title": "05_2_Vocabulary_clipId-25-0" },
+      { "clipId": 8, "title": "05_4_Vocabulary_clipId-8-0" }
+    ]
+  },
+  {
+    "phraseId": 8,
+    "eng": "juice",
+    "phon": "guǒ zhī",
+    "chin": "果汁",
+    "vocals": [
+      { "clipId": 7, "title": "01_1_Vocabulary_clipId-7-0" },
+      { "clipId": 13, "title": "01_2_Vocabulary_clipId-13-0" },
+      { "clipId": 25, "title": "01_3_Vocabulary_clipId-25-0" },
+      { "clipId": 33, "title": "01_4_Vocabulary_clipId-33-0" },
+      { "clipId": 31, "title": "02_1_Vocabulary_clipId-31-0" },
+      { "clipId": 24, "title": "02_2_Vocabulary_clipId-24-0" },
+      { "clipId": 10, "title": "02_3_Vocabulary_clipId-10-0" },
+      { "clipId": 14, "title": "04_2_Vocabulary_clipId-14-0" },
+      { "clipId": 21, "title": "04_3_Vocabulary_clipId-21-0" },
+      { "clipId": 22, "title": "04_4_Vocabulary_clipId-22-0" },
+      { "clipId": 0, "title": "05_1_Vocabulary_clipId-0-0" },
+      { "clipId": 31, "title": "05_2_Vocabulary_clipId-31-0" },
+      { "clipId": 8, "title": "06_4_Vocabulary_clipId-8-0" },
+      { "clipId": 1, "title": "07_1_Vocabulary_clipId-1-0" },
+      { "clipId": 0, "title": "07_4_Vocabulary_clipId-0-0" }
+    ]
+  },
+  {
+    "phraseId": 9,
+    "eng": "book(s)",
+    "phon": "shū",
+    "chin": "书",
+    "vocals": [
+      { "clipId": 8, "title": "01_1_Vocabulary_clipId-8-0" },
+      { "clipId": 12, "title": "01_2_Vocabulary_clipId-12-0" },
+      { "clipId": 17, "title": "01_3_Vocabulary_clipId-17-0" },
+      { "clipId": 6, "title": "01_4_Vocabulary_clipId-6-0" },
+      { "clipId": 27, "title": "02_1_Vocabulary_clipId-27-0" },
+      { "clipId": 32, "title": "02_2_Vocabulary_clipId-32-0" },
+      { "clipId": 34, "title": "03_1_Vocabulary_clipId-34-0" },
+      { "clipId": 19, "title": "04_1_Vocabulary_clipId-19-0" },
+      { "clipId": 7, "title": "05_1_Vocabulary_clipId-7-0" },
+      { "clipId": 12, "title": "05_2_Vocabulary_clipId-12-0" },
+      { "clipId": 3, "title": "05_4_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 10,
+    "eng": "a book",
+    "phon": "yī běn shū",
+    "chin": "一本书",
+    "vocals": [
+      { "clipId": 0, "title": "01_2_Vocabulary_clipId-0-0" },
+      { "clipId": 2, "title": "01_3_Vocabulary_clipId-2-0" },
+      { "clipId": 24, "title": "01_4_Vocabulary_clipId-24-0" },
+      { "clipId": 2, "title": "03_1_Vocabulary_clipId-2-0" },
+      { "clipId": 4, "title": "04_1_Vocabulary_clipId-4-0" }
+    ]
+  },
+  {
+    "phraseId": 11,
+    "eng": "coffee",
+    "phon": "kā fēi",
+    "chin": "咖啡",
+    "vocals": [
+      { "clipId": 1, "title": "01_2_Vocabulary_clipId-1-0" },
+      { "clipId": 7, "title": "01_3_Vocabulary_clipId-7-0" },
+      { "clipId": 27, "title": "01_4_Vocabulary_clipId-27-0" },
+      { "clipId": 30, "title": "02_1_Vocabulary_clipId-30-0" },
+      { "clipId": 16, "title": "02_2_Vocabulary_clipId-16-0" },
+      { "clipId": 22, "title": "03_1_Vocabulary_clipId-22-0" },
+      { "clipId": 13, "title": "05_1_Vocabulary_clipId-13-0" }
+    ]
+  },
+  {
+    "phraseId": 12,
+    "eng": "grown-ups / adults",
+    "phon": "dà rén",
+    "chin": "大人",
+    "vocals": [
+      { "clipId": 5, "title": "01_2_Vocabulary_clipId-5-0" },
+      { "clipId": 13, "title": "01_3_Vocabulary_clipId-13-0" }
+    ]
+  },
+  {
+    "phraseId": 13,
+    "eng": "bread",
+    "phon": "miàn bāo",
+    "chin": "面包",
+    "vocals": [
+      { "clipId": 6, "title": "01_2_Vocabulary_clipId-6-0" },
+      { "clipId": 23, "title": "01_3_Vocabulary_clipId-23-0" },
+      { "clipId": 9, "title": "01_4_Vocabulary_clipId-9-0" },
+      { "clipId": 33, "title": "02_1_Vocabulary_clipId-33-0" },
+      { "clipId": 28, "title": "02_2_Vocabulary_clipId-28-0" },
+      { "clipId": 17, "title": "04_1_Vocabulary_clipId-17-0" }
+    ]
+  },
+  {
+    "phraseId": 14,
+    "eng": "milk",
+    "phon": "niú nǎi",
+    "chin": "牛奶",
+    "vocals": [
+      { "clipId": 7, "title": "01_2_Vocabulary_clipId-7-0" },
+      { "clipId": 5, "title": "01_3_Vocabulary_clipId-5-0" },
+      { "clipId": 30, "title": "01_4_Vocabulary_clipId-30-0" },
+      { "clipId": 1, "title": "02_2_Vocabulary_clipId-1-0" },
+      { "clipId": 9, "title": "05_1_Vocabulary_clipId-9-0" }
+    ]
+  },
+  {
+    "phraseId": 15,
+    "eng": "a horse",
+    "phon": "yī pǐ mǎ",
+    "chin": "一匹马",
+    "vocals": [
+      { "clipId": 8, "title": "01_2_Vocabulary_clipId-8-0" },
+      { "clipId": 15, "title": "01_3_Vocabulary_clipId-15-0" },
+      { "clipId": 14, "title": "02_1_Vocabulary_clipId-14-0" },
+      { "clipId": 14, "title": "02_2_Vocabulary_clipId-14-0" }
+    ]
+  },
+  {
+    "phraseId": 16,
+    "eng": "a cat",
+    "phon": "yī zhǐ māo",
+    "chin": "一只猫",
+    "vocals": [
+      { "clipId": 10, "title": "01_2_Vocabulary_clipId-10-0" },
+      { "clipId": 20, "title": "01_3_Vocabulary_clipId-20-0" },
+      { "clipId": 33, "title": "02_2_Vocabulary_clipId-33-0" }
+    ]
+  },
+  {
+    "phraseId": 17,
+    "eng": "a dog",
+    "phon": "yī zhǐ gǒu",
+    "chin": "一只狗",
+    "vocals": [
+      { "clipId": 11, "title": "01_2_Vocabulary_clipId-11-0" },
+      { "clipId": 16, "title": "01_3_Vocabulary_clipId-16-0" },
+      { "clipId": 7, "title": "02_1_Vocabulary_clipId-7-0" },
+      { "clipId": 11, "title": "02_2_Vocabulary_clipId-11-0" }
+    ]
+  },
+  {
+    "phraseId": 18,
+    "eng": "child / children",
+    "phon": "hái zǐ",
+    "chin": "孩子",
+    "vocals": [
+      { "clipId": 14, "title": "01_2_Vocabulary_clipId-14-0" },
+      { "clipId": 12, "title": "01_3_Vocabulary_clipId-12-0" },
+      { "clipId": 26, "title": "01_4_Vocabulary_clipId-26-0" },
+      { "clipId": 32, "title": "02_1_Vocabulary_clipId-32-0" },
+      { "clipId": 27, "title": "02_2_Vocabulary_clipId-27-0" },
+      { "clipId": 21, "title": "02_3_Vocabulary_clipId-21-0" },
+      { "clipId": 14, "title": "03_1_Vocabulary_clipId-14-0" },
+      { "clipId": 29, "title": "04_1_Vocabulary_clipId-29-0" },
+      { "clipId": 20, "title": "05_1_Vocabulary_clipId-20-0" },
+      { "clipId": 10, "title": "05_2_Vocabulary_clipId-10-0" },
+      { "clipId": 33, "title": "05_4_Vocabulary_clipId-33-0" }
+    ]
+  },
+  {
+    "phraseId": 19,
+    "eng": "a pen",
+    "phon": "yī zhī bǐ",
+    "chin": "一支笔",
+    "vocals": [
+      { "clipId": 17, "title": "01_2_Vocabulary_clipId-17-0" },
+      { "clipId": 21, "title": "01_3_Vocabulary_clipId-21-0" }
+    ]
+  },
+  {
+    "phraseId": 20,
+    "eng": "a fish",
+    "phon": "yī tiáo yú",
+    "chin": "一条鱼",
+    "vocals": [
+      { "clipId": 19, "title": "01_2_Vocabulary_clipId-19-0" },
+      { "clipId": 3, "title": "01_3_Vocabulary_clipId-3-0" },
+      { "clipId": 0, "title": "01_4_Vocabulary_clipId-0-0" },
+      { "clipId": 5, "title": "10_4_Vocabulary_clipId-5-0" }
+    ]
+  },
+  {
+    "phraseId": 21,
+    "eng": "A car",
+    "phon": "yī liàng chē",
+    "chin": "一辆车",
+    "vocals": [
+      { "clipId": 20, "title": "01_2_Vocabulary_clipId-20-0" },
+      { "clipId": 0, "title": "01_3_Vocabulary_clipId-0-0" },
+      { "clipId": 16, "title": "01_4_Vocabulary_clipId-16-0" }
+    ]
+  },
+  {
+    "phraseId": 22,
+    "eng": "yellow",
+    "phon": "huáng sè",
+    "chin": "黄色",
+    "vocals": [
+      { "clipId": 4, "title": "01_3_Vocabulary_clipId-4-0" },
+      { "clipId": 3, "title": "01_4_Vocabulary_clipId-3-0" },
+      { "clipId": 17, "title": "02_4_Vocabulary_clipId-17-0" },
+      { "clipId": 31, "title": "04_4_Vocabulary_clipId-31-0" }
+    ]
+  },
+  {
+    "phraseId": 23,
+    "eng": "blue",
+    "phon": "lán sè",
+    "chin": "蓝色",
+    "vocals": [
+      { "clipId": 9, "title": "01_3_Vocabulary_clipId-9-0" },
+      { "clipId": 14, "title": "01_4_Vocabulary_clipId-14-0" },
+      { "clipId": 26, "title": "02_1_Vocabulary_clipId-26-0" },
+      { "clipId": 19, "title": "02_4_Vocabulary_clipId-19-0" },
+      { "clipId": 27, "title": "04_1_Vocabulary_clipId-27-0" },
+      { "clipId": 23, "title": "04_3_Vocabulary_clipId-23-0" },
+      { "clipId": 14, "title": "04_4_Vocabulary_clipId-14-0" },
+      { "clipId": 8, "title": "05_1_Vocabulary_clipId-8-0" },
+      { "clipId": 9, "title": "05_2_Vocabulary_clipId-9-0" },
+      { "clipId": 9, "title": "06_2_Vocabulary_clipId-9-0" }
+    ]
+  },
+  {
+    "phraseId": 24,
+    "eng": "green",
+    "phon": "lǜ sè",
+    "chin": "绿色",
+    "vocals": [
+      { "clipId": 10, "title": "01_3_Vocabulary_clipId-10-0" },
+      { "clipId": 2, "title": "01_4_Vocabulary_clipId-2-0" },
+      { "clipId": 8, "title": "02_1_Vocabulary_clipId-8-0" },
+      { "clipId": 30, "title": "02_2_Vocabulary_clipId-30-0" },
+      { "clipId": 30, "title": "02_4_Vocabulary_clipId-30-0" },
+      { "clipId": 32, "title": "04_1_Vocabulary_clipId-32-0" },
+      { "clipId": 25, "title": "06_2_Vocabulary_clipId-25-0" },
+      { "clipId": 10, "title": "06_3_Vocabulary_clipId-10-0" }
+    ]
+  },
+  {
+    "phraseId": 25,
+    "eng": "black",
+    "phon": "hēi sè",
+    "chin": "黑色",
+    "vocals": [
+      { "clipId": 11, "title": "01_3_Vocabulary_clipId-11-0" },
+      { "clipId": 29, "title": "01_4_Vocabulary_clipId-29-0" },
+      { "clipId": 6, "title": "02_1_Vocabulary_clipId-6-0" },
+      { "clipId": 0, "title": "05_2_Vocabulary_clipId-0-0" }
+    ]
+  },
+  {
+    "phraseId": 26,
+    "eng": "White",
+    "phon": "bái sè",
+    "chin": "白色",
+    "vocals": [
+      { "clipId": 19, "title": "01_3_Vocabulary_clipId-19-0" },
+      { "clipId": 28, "title": "01_4_Vocabulary_clipId-28-0" },
+      { "clipId": 15, "title": "04_1_Vocabulary_clipId-15-0" }
+    ]
+  },
+  {
+    "phraseId": 27,
+    "eng": "red",
+    "phon": "hóng sè",
+    "chin": "红色",
+    "vocals": [
+      { "clipId": 22, "title": "01_3_Vocabulary_clipId-22-0" },
+      { "clipId": 10, "title": "01_4_Vocabulary_clipId-10-0" },
+      { "clipId": 33, "title": "04_1_Vocabulary_clipId-33-0" },
+      { "clipId": 10, "title": "05_1_Vocabulary_clipId-10-0" },
+      { "clipId": 33, "title": "05_2_Vocabulary_clipId-33-0" }
+    ]
+  },
+  {
+    "phraseId": 28,
+    "eng": "a, one (1)",
+    "phon": "yī",
+    "chin": "一",
+    "vocals": [
+      { "clipId": 1, "title": "01_4_Vocabulary_clipId-1-0" },
+      { "clipId": 21, "title": "02_1_Vocabulary_clipId-21-0" },
+      { "clipId": 19, "title": "02_2_Vocabulary_clipId-19-0" },
+      { "clipId": 15, "title": "02_3_Vocabulary_clipId-15-0" },
+      { "clipId": 11, "title": "02_4_Vocabulary_clipId-11-0" },
+      { "clipId": 21, "title": "03_1_Vocabulary_clipId-21-0" },
+      { "clipId": 16, "title": "04_1_Vocabulary_clipId-16-0" },
+      { "clipId": 21, "title": "05_1_Vocabulary_clipId-21-0" },
+      { "clipId": 14, "title": "05_2_Vocabulary_clipId-14-0" },
+      { "clipId": 11, "title": "05_4_Vocabulary_clipId-11-0" }
+    ]
+  },
+  {
+    "phraseId": 29,
+    "eng": "2 dogs",
+    "phon": "liǎng zhǐ gǒu",
+    "chin": "两只狗",
+    "vocals": [{ "clipId": 4, "title": "01_4_Vocabulary_clipId-4-0" }]
+  },
+  {
+    "phraseId": 30,
+    "eng": "five (5)",
+    "phon": "wǔ",
+    "chin": "五",
+    "vocals": [
+      { "clipId": 7, "title": "01_4_Vocabulary_clipId-7-0" },
+      { "clipId": 18, "title": "02_1_Vocabulary_clipId-18-0" },
+      { "clipId": 8, "title": "03_1_Vocabulary_clipId-8-0" },
+      { "clipId": 2, "title": "04_1_Vocabulary_clipId-2-0" },
+      { "clipId": 11, "title": "05_1_Vocabulary_clipId-11-0" },
+      { "clipId": 7, "title": "05_2_Vocabulary_clipId-7-0" },
+      { "clipId": 14, "title": "05_4_Vocabulary_clipId-14-0" }
+    ]
+  },
+  {
+    "phraseId": 31,
+    "eng": "shoe",
+    "phon": "xié zǐ",
+    "chin": "鞋子",
+    "vocals": [
+      { "clipId": 8, "title": "01_4_Vocabulary_clipId-8-0" },
+      { "clipId": 26, "title": "02_2_Vocabulary_clipId-26-0" },
+      { "clipId": 9, "title": "03_1_Vocabulary_clipId-9-0" }
+    ]
+  },
+  {
+    "phraseId": 32,
+    "eng": "pants",
+    "phon": "kù zǐ",
+    "chin": "裤子",
+    "vocals": [{ "clipId": 11, "title": "01_4_Vocabulary_clipId-11-0" }]
+  },
+  {
+    "phraseId": 33,
+    "eng": "three (3)",
+    "phon": "sān",
+    "chin": "三",
+    "vocals": [
+      { "clipId": 12, "title": "01_4_Vocabulary_clipId-12-0" },
+      { "clipId": 3, "title": "02_1_Vocabulary_clipId-3-0" },
+      { "clipId": 31, "title": "03_1_Vocabulary_clipId-31-0" },
+      { "clipId": 27, "title": "05_2_Vocabulary_clipId-27-0" },
+      { "clipId": 21, "title": "05_4_Vocabulary_clipId-21-0" }
+    ]
+  },
+  {
+    "phraseId": 34,
+    "eng": "two (2)",
+    "phon": "èr",
+    "chin": "二",
+    "vocals": [
+      { "clipId": 13, "title": "01_4_Vocabulary_clipId-13-0" },
+      { "clipId": 12, "title": "02_1_Vocabulary_clipId-12-0" },
+      { "clipId": 2, "title": "02_3_Vocabulary_clipId-2-0" },
+      { "clipId": 27, "title": "03_1_Vocabulary_clipId-27-0" },
+      { "clipId": 11, "title": "05_2_Vocabulary_clipId-11-0" }
+    ]
+  },
+  {
+    "phraseId": 35,
+    "eng": "2 pens",
+    "phon": "liǎng zhī bǐ",
+    "chin": "两支笔",
+    "vocals": [{ "clipId": 18, "title": "01_4_Vocabulary_clipId-18-0" }]
+  },
+  {
+    "phraseId": 36,
+    "eng": "3 cats",
+    "phon": "sān zhǐ māo",
+    "chin": "三只猫",
+    "vocals": [{ "clipId": 19, "title": "01_4_Vocabulary_clipId-19-0" }]
+  },
+  {
+    "phraseId": 37,
+    "eng": "six (6)",
+    "phon": "liù",
+    "chin": "六",
+    "vocals": [
+      { "clipId": 22, "title": "01_4_Vocabulary_clipId-22-0" },
+      { "clipId": 13, "title": "02_1_Vocabulary_clipId-13-0" },
+      { "clipId": 2, "title": "02_2_Vocabulary_clipId-2-0" },
+      { "clipId": 4, "title": "02_3_Vocabulary_clipId-4-0" },
+      { "clipId": 24, "title": "02_4_Vocabulary_clipId-24-0" },
+      { "clipId": 5, "title": "03_1_Vocabulary_clipId-5-0" },
+      { "clipId": 24, "title": "04_2_Vocabulary_clipId-24-0" },
+      { "clipId": 0, "title": "04_3_Vocabulary_clipId-0-0" },
+      { "clipId": 24, "title": "05_3_Vocabulary_clipId-24-0" },
+      { "clipId": 29, "title": "05_4_Vocabulary_clipId-29-0" },
+      { "clipId": 6, "title": "06_1_Vocabulary_clipId-6-0" },
+      { "clipId": 6, "title": "06_2_Vocabulary_clipId-6-0" }
+    ]
+  },
+  {
+    "phraseId": 38,
+    "eng": "four (4)",
+    "phon": "sì",
+    "chin": "四",
+    "vocals": [
+      { "clipId": 31, "title": "01_4_Vocabulary_clipId-31-0" },
+      { "clipId": 25, "title": "02_1_Vocabulary_clipId-25-0" },
+      { "clipId": 0, "title": "03_1_Vocabulary_clipId-0-0" },
+      { "clipId": 17, "title": "05_2_Vocabulary_clipId-17-0" },
+      { "clipId": 16, "title": "05_4_Vocabulary_clipId-16-0" }
+    ]
+  },
+  {
+    "phraseId": 39,
+    "eng": "5 books",
+    "phon": "wǔ běn shū",
+    "chin": "五本书",
+    "vocals": [{ "clipId": 32, "title": "01_4_Vocabulary_clipId-32-0" }]
+  },
+  {
+    "phraseId": 40,
+    "eng": "daughter(s)",
+    "phon": "nǚ ér",
+    "chin": "女儿",
+    "vocals": [
+      { "clipId": 0, "title": "02_1_Vocabulary_clipId-0-0" },
+      { "clipId": 29, "title": "02_2_Vocabulary_clipId-29-0" },
+      { "clipId": 27, "title": "02_3_Vocabulary_clipId-27-0" },
+      { "clipId": 6, "title": "02_4_Vocabulary_clipId-6-0" },
+      { "clipId": 3, "title": "03_1_Vocabulary_clipId-3-0" },
+      { "clipId": 5, "title": "04_3_Vocabulary_clipId-5-0" },
+      { "clipId": 0, "title": "06_3_Vocabulary_clipId-0-0" },
+      { "clipId": 16, "title": "06_4_Vocabulary_clipId-16-0" }
+    ]
+  },
+  {
+    "phraseId": 41,
+    "eng": "father",
+    "phon": "fù qīn",
+    "chin": "父亲",
+    "vocals": [
+      { "clipId": 1, "title": "02_1_Vocabulary_clipId-1-0" },
+      { "clipId": 3, "title": "02_2_Vocabulary_clipId-3-0" },
+      { "clipId": 24, "title": "02_3_Vocabulary_clipId-24-0" },
+      { "clipId": 21, "title": "02_4_Vocabulary_clipId-21-0" },
+      { "clipId": 7, "title": "04_2_Vocabulary_clipId-7-0" },
+      { "clipId": 12, "title": "04_3_Vocabulary_clipId-12-0" },
+      { "clipId": 15, "title": "06_2_Vocabulary_clipId-15-0" },
+      { "clipId": 22, "title": "06_3_Vocabulary_clipId-22-0" }
+    ]
+  },
+  {
+    "phraseId": 42,
+    "eng": "eleven (11)",
+    "phon": "shí yī",
+    "chin": "十一",
+    "vocals": [
+      { "clipId": 2, "title": "02_1_Vocabulary_clipId-2-0" },
+      { "clipId": 18, "title": "02_2_Vocabulary_clipId-18-0" },
+      { "clipId": 14, "title": "02_3_Vocabulary_clipId-14-0" },
+      { "clipId": 33, "title": "02_4_Vocabulary_clipId-33-0" },
+      { "clipId": 20, "title": "05_3_Vocabulary_clipId-20-0" }
+    ]
+  },
+  {
+    "phraseId": 43,
+    "eng": "seven (7)",
+    "phon": "qī",
+    "chin": "七",
+    "vocals": [
+      { "clipId": 4, "title": "02_1_Vocabulary_clipId-4-0" },
+      { "clipId": 4, "title": "02_2_Vocabulary_clipId-4-0" },
+      { "clipId": 17, "title": "02_3_Vocabulary_clipId-17-0" },
+      { "clipId": 27, "title": "02_4_Vocabulary_clipId-27-0" },
+      { "clipId": 7, "title": "03_1_Vocabulary_clipId-7-0" },
+      { "clipId": 2, "title": "04_2_Vocabulary_clipId-2-0" },
+      { "clipId": 20, "title": "05_2_Vocabulary_clipId-20-0" },
+      { "clipId": 11, "title": "05_3_Vocabulary_clipId-11-0" }
+    ]
+  },
+  {
+    "phraseId": 44,
+    "eng": "zero (0)",
+    "phon": "líng",
+    "chin": "零",
+    "vocals": [
+      { "clipId": 5, "title": "02_1_Vocabulary_clipId-5-0" },
+      { "clipId": 22, "title": "02_2_Vocabulary_clipId-22-0" },
+      { "clipId": 12, "title": "02_3_Vocabulary_clipId-12-0" },
+      { "clipId": 20, "title": "02_4_Vocabulary_clipId-20-0" }
+    ]
+  },
+  {
+    "phraseId": 45,
+    "eng": "7 pens",
+    "phon": "qī zhī bǐ",
+    "chin": "七支笔",
+    "vocals": [
+      { "clipId": 9, "title": "02_1_Vocabulary_clipId-9-0" },
+      { "clipId": 17, "title": "02_2_Vocabulary_clipId-17-0" },
+      { "clipId": 1, "title": "02_3_Vocabulary_clipId-1-0" },
+      { "clipId": 18, "title": "02_4_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 46,
+    "eng": "eight (8)",
+    "phon": "bā",
+    "chin": "八",
+    "vocals": [
+      { "clipId": 10, "title": "02_1_Vocabulary_clipId-10-0" },
+      { "clipId": 31, "title": "02_2_Vocabulary_clipId-31-0" },
+      { "clipId": 25, "title": "02_3_Vocabulary_clipId-25-0" },
+      { "clipId": 13, "title": "02_4_Vocabulary_clipId-13-0" },
+      { "clipId": 30, "title": "03_1_Vocabulary_clipId-30-0" },
+      { "clipId": 29, "title": "05_2_Vocabulary_clipId-29-0" },
+      { "clipId": 27, "title": "05_3_Vocabulary_clipId-27-0" },
+      { "clipId": 24, "title": "06_2_Vocabulary_clipId-24-0" }
+    ]
+  },
+  {
+    "phraseId": 47,
+    "eng": "ten (10)",
+    "phon": "shí",
+    "chin": "十",
+    "vocals": [
+      { "clipId": 11, "title": "02_1_Vocabulary_clipId-11-0" },
+      { "clipId": 7, "title": "02_2_Vocabulary_clipId-7-0" },
+      { "clipId": 32, "title": "02_3_Vocabulary_clipId-32-0" },
+      { "clipId": 15, "title": "02_4_Vocabulary_clipId-15-0" },
+      { "clipId": 25, "title": "03_1_Vocabulary_clipId-25-0" },
+      { "clipId": 29, "title": "03_3_Vocabulary_clipId-29-0" },
+      { "clipId": 33, "title": "04_2_Vocabulary_clipId-33-0" },
+      { "clipId": 8, "title": "04_3_Vocabulary_clipId-8-0" },
+      { "clipId": 1, "title": "04_4_Vocabulary_clipId-1-0" },
+      { "clipId": 32, "title": "05_2_Vocabulary_clipId-32-0" },
+      { "clipId": 8, "title": "05_3_Vocabulary_clipId-8-0" },
+      { "clipId": 5, "title": "05_4_Vocabulary_clipId-5-0" },
+      { "clipId": 23, "title": "06_1_Vocabulary_clipId-23-0" },
+      { "clipId": 26, "title": "06_4_Vocabulary_clipId-26-0" },
+      { "clipId": 20, "title": "07_1_Vocabulary_clipId-20-0" },
+      { "clipId": 32, "title": "07_2_Vocabulary_clipId-32-0" },
+      { "clipId": 23, "title": "07_3_Vocabulary_clipId-23-0" }
+    ]
+  },
+  {
+    "phraseId": 48,
+    "eng": "a family",
+    "phon": "yī jiā rén",
+    "chin": "一家人",
+    "vocals": [
+      { "clipId": 15, "title": "02_1_Vocabulary_clipId-15-0" },
+      { "clipId": 23, "title": "02_2_Vocabulary_clipId-23-0" },
+      { "clipId": 29, "title": "02_3_Vocabulary_clipId-29-0" },
+      { "clipId": 23, "title": "02_4_Vocabulary_clipId-23-0" },
+      { "clipId": 32, "title": "03_1_Vocabulary_clipId-32-0" }
+    ]
+  },
+  {
+    "phraseId": 49,
+    "eng": "mother",
+    "phon": "mǔ qīn",
+    "chin": "母亲",
+    "vocals": [
+      { "clipId": 19, "title": "02_1_Vocabulary_clipId-19-0" },
+      { "clipId": 6, "title": "02_2_Vocabulary_clipId-6-0" },
+      { "clipId": 7, "title": "02_3_Vocabulary_clipId-7-0" },
+      { "clipId": 12, "title": "02_4_Vocabulary_clipId-12-0" },
+      { "clipId": 35, "title": "03_1_Vocabulary_clipId-35-0" },
+      { "clipId": 28, "title": "04_2_Vocabulary_clipId-28-0" },
+      { "clipId": 14, "title": "06_1_Vocabulary_clipId-14-0" },
+      { "clipId": 12, "title": "06_3_Vocabulary_clipId-12-0" },
+      { "clipId": 18, "title": "06_4_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 50,
+    "eng": "son(s)",
+    "phon": "ér zǐ",
+    "chin": "儿子",
+    "vocals": [
+      { "clipId": 23, "title": "02_1_Vocabulary_clipId-23-0" },
+      { "clipId": 21, "title": "02_2_Vocabulary_clipId-21-0" },
+      { "clipId": 9, "title": "02_3_Vocabulary_clipId-9-0" },
+      { "clipId": 10, "title": "02_4_Vocabulary_clipId-10-0" },
+      { "clipId": 33, "title": "03_1_Vocabulary_clipId-33-0" },
+      { "clipId": 18, "title": "04_2_Vocabulary_clipId-18-0" },
+      { "clipId": 13, "title": "04_4_Vocabulary_clipId-13-0" },
+      { "clipId": 4, "title": "05_3_Vocabulary_clipId-4-0" },
+      { "clipId": 18, "title": "06_3_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 51,
+    "eng": "twelve (12)",
+    "phon": "shí èr",
+    "chin": "十二",
+    "vocals": [
+      { "clipId": 34, "title": "02_1_Vocabulary_clipId-34-0" },
+      { "clipId": 15, "title": "02_2_Vocabulary_clipId-15-0" },
+      { "clipId": 8, "title": "02_3_Vocabulary_clipId-8-0" },
+      { "clipId": 32, "title": "02_4_Vocabulary_clipId-32-0" },
+      { "clipId": 11, "title": "04_2_Vocabulary_clipId-11-0" },
+      { "clipId": 30, "title": "05_2_Vocabulary_clipId-30-0" }
+    ]
+  },
+  {
+    "phraseId": 52,
+    "eng": "nine (9)",
+    "phon": "jiǔ",
+    "chin": "九",
+    "vocals": [
+      { "clipId": 35, "title": "02_1_Vocabulary_clipId-35-0" },
+      { "clipId": 10, "title": "02_2_Vocabulary_clipId-10-0" },
+      { "clipId": 26, "title": "02_3_Vocabulary_clipId-26-0" },
+      { "clipId": 14, "title": "02_4_Vocabulary_clipId-14-0" },
+      { "clipId": 6, "title": "03_1_Vocabulary_clipId-6-0" },
+      { "clipId": 1, "title": "04_2_Vocabulary_clipId-1-0" },
+      { "clipId": 5, "title": "05_2_Vocabulary_clipId-5-0" },
+      { "clipId": 14, "title": "05_3_Vocabulary_clipId-14-0" },
+      { "clipId": 4, "title": "06_2_Vocabulary_clipId-4-0" }
+    ]
+  },
+  {
+    "phraseId": 53,
+    "eng": "computer",
+    "phon": "diàn nǎo",
+    "chin": "电脑",
+    "vocals": [
+      { "clipId": 5, "title": "02_2_Vocabulary_clipId-5-0" },
+      { "clipId": 19, "title": "02_3_Vocabulary_clipId-19-0" },
+      { "clipId": 1, "title": "02_4_Vocabulary_clipId-1-0" },
+      { "clipId": 29, "title": "04_3_Vocabulary_clipId-29-0" }
+    ]
+  },
+  {
+    "phraseId": 54,
+    "eng": "a door",
+    "phon": "yī shàn mén",
+    "chin": "一扇门",
+    "vocals": [
+      { "clipId": 9, "title": "02_2_Vocabulary_clipId-9-0" },
+      { "clipId": 30, "title": "02_3_Vocabulary_clipId-30-0" },
+      { "clipId": 28, "title": "02_4_Vocabulary_clipId-28-0" }
+    ]
+  },
+  {
+    "phraseId": 55,
+    "eng": "Rome",
+    "phon": "luó mǎ",
+    "chin": "罗马",
+    "vocals": [
+      { "clipId": 3, "title": "02_3_Vocabulary_clipId-3-0" },
+      { "clipId": 29, "title": "02_4_Vocabulary_clipId-29-0" },
+      { "clipId": 9, "title": "05_4_Vocabulary_clipId-9-0" },
+      { "clipId": 7, "title": "06_3_Vocabulary_clipId-7-0" }
+    ]
+  },
+  {
+    "phraseId": 56,
+    "eng": "China",
+    "phon": "zhōng guó",
+    "chin": "中国",
+    "vocals": [
+      { "clipId": 6, "title": "02_3_Vocabulary_clipId-6-0" },
+      { "clipId": 16, "title": "02_4_Vocabulary_clipId-16-0" },
+      { "clipId": 7, "title": "06_1_Vocabulary_clipId-7-0" },
+      { "clipId": 15, "title": "06_3_Vocabulary_clipId-15-0" },
+      { "clipId": 11, "title": "06_4_Vocabulary_clipId-11-0" }
+    ]
+  },
+  {
+    "phraseId": 57,
+    "eng": "Russia",
+    "phon": "é guó",
+    "chin": "俄国",
+    "vocals": [
+      { "clipId": 11, "title": "02_3_Vocabulary_clipId-11-0" },
+      { "clipId": 7, "title": "02_4_Vocabulary_clipId-7-0" },
+      { "clipId": 27, "title": "05_4_Vocabulary_clipId-27-0" },
+      { "clipId": 8, "title": "06_1_Vocabulary_clipId-8-0" },
+      { "clipId": 3, "title": "06_4_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 58,
+    "eng": "Japan",
+    "phon": "rì běn",
+    "chin": "日本",
+    "vocals": [{ "clipId": 13, "title": "02_3_Vocabulary_clipId-13-0" }]
+  },
+  {
+    "phraseId": 59,
+    "eng": "Brazil",
+    "phon": "bā xī",
+    "chin": "巴西",
+    "vocals": [
+      { "clipId": 16, "title": "02_3_Vocabulary_clipId-16-0" },
+      { "clipId": 20, "title": "06_3_Vocabulary_clipId-20-0" }
+    ]
+  },
+  {
+    "phraseId": 60,
+    "eng": "Paris",
+    "phon": "bā lí",
+    "chin": "巴黎",
+    "vocals": [
+      { "clipId": 20, "title": "02_3_Vocabulary_clipId-20-0" },
+      { "clipId": 3, "title": "02_4_Vocabulary_clipId-3-0" },
+      { "clipId": 3, "title": "06_1_Vocabulary_clipId-3-0" },
+      { "clipId": 16, "title": "06_2_Vocabulary_clipId-16-0" },
+      { "clipId": 26, "title": "06_3_Vocabulary_clipId-26-0" },
+      { "clipId": 20, "title": "06_4_Vocabulary_clipId-20-0" }
+    ]
+  },
+  {
+    "phraseId": 61,
+    "eng": "Moscow",
+    "phon": "mò sī kē",
+    "chin": "莫斯科",
+    "vocals": [
+      { "clipId": 23, "title": "02_3_Vocabulary_clipId-23-0" },
+      { "clipId": 4, "title": "02_4_Vocabulary_clipId-4-0" }
+    ]
+  },
+  {
+    "phraseId": 62,
+    "eng": "Italy",
+    "phon": "yì dà lì",
+    "chin": "意大利",
+    "vocals": [
+      { "clipId": 28, "title": "02_3_Vocabulary_clipId-28-0" },
+      { "clipId": 17, "title": "06_1_Vocabulary_clipId-17-0" },
+      { "clipId": 19, "title": "06_3_Vocabulary_clipId-19-0" }
+    ]
+  },
+  {
+    "phraseId": 63,
+    "eng": "a bridge",
+    "phon": "yī zuò qiáo",
+    "chin": "一座桥",
+    "vocals": [{ "clipId": 31, "title": "02_3_Vocabulary_clipId-31-0" }]
+  },
+  {
+    "phraseId": 64,
+    "eng": "Egypt",
+    "phon": "āi jí",
+    "chin": "埃及",
+    "vocals": [
+      { "clipId": 33, "title": "02_3_Vocabulary_clipId-33-0" },
+      { "clipId": 5, "title": "02_4_Vocabulary_clipId-5-0" },
+      { "clipId": 30, "title": "05_4_Vocabulary_clipId-30-0" },
+      { "clipId": 3, "title": "06_3_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 65,
+    "eng": "a street",
+    "phon": "yī tiáo jiē",
+    "chin": "一条街",
+    "vocals": [
+      { "clipId": 34, "title": "02_3_Vocabulary_clipId-34-0" },
+      { "clipId": 9, "title": "02_4_Vocabulary_clipId-9-0" }
+    ]
+  },
+  {
+    "phraseId": 66,
+    "eng": "a bridge",
+    "phon": "yī zuò qiáo",
+    "chin": "一坐桥",
+    "vocals": [{ "clipId": 0, "title": "02_4_Vocabulary_clipId-0-0" }]
+  },
+  {
+    "phraseId": 67,
+    "eng": "orange (color)",
+    "phon": "chéng sè",
+    "chin": "橙色",
+    "vocals": [{ "clipId": 2, "title": "02_4_Vocabulary_clipId-2-0" }]
+  },
+  {
+    "phraseId": 68,
+    "eng": "jeans",
+    "phon": "niú zǐ kù",
+    "chin": "牛仔裤",
+    "vocals": [
+      { "clipId": 8, "title": "02_4_Vocabulary_clipId-8-0" },
+      { "clipId": 5, "title": "04_4_Vocabulary_clipId-5-0" }
+    ]
+  },
+  {
+    "phraseId": 69,
+    "eng": "sock(s)",
+    "phon": "wà zǐ",
+    "chin": "袜子",
+    "vocals": [
+      { "clipId": 22, "title": "02_4_Vocabulary_clipId-22-0" },
+      { "clipId": 26, "title": "03_1_Vocabulary_clipId-26-0" },
+      { "clipId": 21, "title": "06_3_Vocabulary_clipId-21-0" }
+    ]
+  },
+  {
+    "phraseId": 70,
+    "eng": "brown",
+    "phon": "hè sè",
+    "chin": "褐色",
+    "vocals": [
+      { "clipId": 25, "title": "02_4_Vocabulary_clipId-25-0" },
+      { "clipId": 3, "title": "04_3_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 71,
+    "eng": "pink",
+    "phon": "fěn sè",
+    "chin": "粉色",
+    "vocals": [{ "clipId": 26, "title": "02_4_Vocabulary_clipId-26-0" }]
+  },
+  {
+    "phraseId": 72,
+    "eng": "purple",
+    "phon": "zǐ sè de",
+    "chin": "紫色的",
+    "vocals": [{ "clipId": 31, "title": "02_4_Vocabulary_clipId-31-0" }]
+  },
+  {
+    "phraseId": 73,
+    "eng": "grey",
+    "phon": "huī sè",
+    "chin": "灰色",
+    "vocals": [{ "clipId": 34, "title": "02_4_Vocabulary_clipId-34-0" }]
+  },
+  {
+    "phraseId": 74,
+    "eng": "twenty (20)",
+    "phon": "èr shí",
+    "chin": "二十",
+    "vocals": [
+      { "clipId": 11, "title": "03_1_Vocabulary_clipId-11-0" },
+      { "clipId": 17, "title": "03_2_Vocabulary_clipId-17-0" },
+      { "clipId": 3, "title": "03_3_Vocabulary_clipId-3-0" },
+      { "clipId": 12, "title": "03_4_Vocabulary_clipId-12-0" },
+      { "clipId": 8, "title": "04_2_Vocabulary_clipId-8-0" },
+      { "clipId": 25, "title": "04_4_Vocabulary_clipId-25-0" },
+      { "clipId": 5, "title": "05_3_Vocabulary_clipId-5-0" },
+      { "clipId": 18, "title": "07_2_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 75,
+    "eng": "thirteen (13)",
+    "phon": "shí sān",
+    "chin": "十三",
+    "vocals": [
+      { "clipId": 12, "title": "03_1_Vocabulary_clipId-12-0" },
+      { "clipId": 12, "title": "03_2_Vocabulary_clipId-12-0" },
+      { "clipId": 30, "title": "03_3_Vocabulary_clipId-30-0" },
+      { "clipId": 10, "title": "03_4_Vocabulary_clipId-10-0" },
+      { "clipId": 7, "title": "04_1_Vocabulary_clipId-7-0" },
+      { "clipId": 30, "title": "05_3_Vocabulary_clipId-30-0" },
+      { "clipId": 30, "title": "07_2_Vocabulary_clipId-30-0" }
+    ]
+  },
+  {
+    "phraseId": 76,
+    "eng": "evening / night",
+    "phon": "wǎn shàng",
+    "chin": "晚上",
+    "vocals": [
+      { "clipId": 13, "title": "03_1_Vocabulary_clipId-13-0" },
+      { "clipId": 23, "title": "03_2_Vocabulary_clipId-23-0" },
+      { "clipId": 25, "title": "03_3_Vocabulary_clipId-25-0" },
+      { "clipId": 14, "title": "03_4_Vocabulary_clipId-14-0" },
+      { "clipId": 28, "title": "04_1_Vocabulary_clipId-28-0" },
+      { "clipId": 12, "title": "05_3_Vocabulary_clipId-12-0" },
+      { "clipId": 26, "title": "07_1_Vocabulary_clipId-26-0" },
+      { "clipId": 10, "title": "07_4_Vocabulary_clipId-10-0" }
+    ]
+  },
+  {
+    "phraseId": 77,
+    "eng": "nineteen (19)",
+    "phon": "shí jiǔ",
+    "chin": "十九",
+    "vocals": [
+      { "clipId": 15, "title": "03_1_Vocabulary_clipId-15-0" },
+      { "clipId": 28, "title": "03_3_Vocabulary_clipId-28-0" },
+      { "clipId": 5, "title": "03_4_Vocabulary_clipId-5-0" },
+      { "clipId": 34, "title": "04_2_Vocabulary_clipId-34-0" },
+      { "clipId": 0, "title": "05_3_Vocabulary_clipId-0-0" },
+      { "clipId": 26, "title": "07_2_Vocabulary_clipId-26-0" }
+    ]
+  },
+  {
+    "phraseId": 78,
+    "eng": "eighteen (18)",
+    "phon": "shí bā",
+    "chin": "十八",
+    "vocals": [
+      { "clipId": 16, "title": "03_1_Vocabulary_clipId-16-0" },
+      { "clipId": 7, "title": "03_2_Vocabulary_clipId-7-0" },
+      { "clipId": 11, "title": "03_3_Vocabulary_clipId-11-0" },
+      { "clipId": 29, "title": "03_4_Vocabulary_clipId-29-0" },
+      { "clipId": 6, "title": "05_3_Vocabulary_clipId-6-0" }
+    ]
+  },
+  {
+    "phraseId": 79,
+    "eng": "sixteen (16)",
+    "phon": "shí liù",
+    "chin": "十六",
+    "vocals": [
+      { "clipId": 17, "title": "03_1_Vocabulary_clipId-17-0" },
+      { "clipId": 21, "title": "03_3_Vocabulary_clipId-21-0" },
+      { "clipId": 4, "title": "03_4_Vocabulary_clipId-4-0" },
+      { "clipId": 18, "title": "04_1_Vocabulary_clipId-18-0" },
+      { "clipId": 23, "title": "05_3_Vocabulary_clipId-23-0" }
+    ]
+  },
+  {
+    "phraseId": 80,
+    "eng": "seventeen (17)",
+    "phon": "shí qī",
+    "chin": "十七",
+    "vocals": [
+      { "clipId": 19, "title": "03_1_Vocabulary_clipId-19-0" },
+      { "clipId": 7, "title": "03_3_Vocabulary_clipId-7-0" },
+      { "clipId": 1, "title": "03_4_Vocabulary_clipId-1-0" },
+      { "clipId": 14, "title": "04_1_Vocabulary_clipId-14-0" },
+      { "clipId": 29, "title": "05_3_Vocabulary_clipId-29-0" },
+      { "clipId": 13, "title": "07_2_Vocabulary_clipId-13-0" }
+    ]
+  },
+  {
+    "phraseId": 81,
+    "eng": "nighttime",
+    "phon": "yè lǐ",
+    "chin": "夜里",
+    "vocals": [
+      { "clipId": 20, "title": "03_1_Vocabulary_clipId-20-0" },
+      { "clipId": 2, "title": "03_2_Vocabulary_clipId-2-0" },
+      { "clipId": 6, "title": "03_3_Vocabulary_clipId-6-0" },
+      { "clipId": 20, "title": "03_4_Vocabulary_clipId-20-0" },
+      { "clipId": 22, "title": "04_1_Vocabulary_clipId-22-0" },
+      { "clipId": 17, "title": "05_3_Vocabulary_clipId-17-0" }
+    ]
+  },
+  {
+    "phraseId": 82,
+    "eng": "fourteen (14)",
+    "phon": "shí sì",
+    "chin": "十四",
+    "vocals": [
+      { "clipId": 23, "title": "03_1_Vocabulary_clipId-23-0" },
+      { "clipId": 8, "title": "03_2_Vocabulary_clipId-8-0" },
+      { "clipId": 5, "title": "03_3_Vocabulary_clipId-5-0" },
+      { "clipId": 11, "title": "03_4_Vocabulary_clipId-11-0" },
+      { "clipId": 25, "title": "04_1_Vocabulary_clipId-25-0" },
+      { "clipId": 13, "title": "05_3_Vocabulary_clipId-13-0" },
+      { "clipId": 20, "title": "07_2_Vocabulary_clipId-20-0" }
+    ]
+  },
+  {
+    "phraseId": 83,
+    "eng": "fifteen (15)",
+    "phon": "shí wǔ",
+    "chin": "十五",
+    "vocals": [
+      { "clipId": 24, "title": "03_1_Vocabulary_clipId-24-0" },
+      { "clipId": 0, "title": "03_3_Vocabulary_clipId-0-0" },
+      { "clipId": 26, "title": "03_4_Vocabulary_clipId-26-0" },
+      { "clipId": 26, "title": "04_1_Vocabulary_clipId-26-0" },
+      { "clipId": 0, "title": "04_2_Vocabulary_clipId-0-0" },
+      { "clipId": 19, "title": "04_4_Vocabulary_clipId-19-0" },
+      { "clipId": 16, "title": "05_3_Vocabulary_clipId-16-0" },
+      { "clipId": 20, "title": "05_4_Vocabulary_clipId-20-0" },
+      { "clipId": 5, "title": "07_2_Vocabulary_clipId-5-0" },
+      { "clipId": 7, "title": "07_3_Vocabulary_clipId-7-0" }
+    ]
+  },
+  {
+    "phraseId": 84,
+    "eng": "morning",
+    "phon": "zǎo shàng",
+    "chin": "早上",
+    "vocals": [
+      { "clipId": 28, "title": "03_1_Vocabulary_clipId-28-0" },
+      { "clipId": 20, "title": "03_2_Vocabulary_clipId-20-0" },
+      { "clipId": 9, "title": "03_3_Vocabulary_clipId-9-0" },
+      { "clipId": 30, "title": "03_4_Vocabulary_clipId-30-0" },
+      { "clipId": 11, "title": "04_1_Vocabulary_clipId-11-0" },
+      { "clipId": 10, "title": "05_3_Vocabulary_clipId-10-0" },
+      { "clipId": 26, "title": "05_4_Vocabulary_clipId-26-0" },
+      { "clipId": 10, "title": "06_1_Vocabulary_clipId-10-0" },
+      { "clipId": 5, "title": "06_2_Vocabulary_clipId-5-0" }
+    ]
+  },
+  {
+    "phraseId": 85,
+    "eng": "afternoon",
+    "phon": "xià wǔ",
+    "chin": "下午",
+    "vocals": [
+      { "clipId": 29, "title": "03_1_Vocabulary_clipId-29-0" },
+      { "clipId": 10, "title": "03_2_Vocabulary_clipId-10-0" },
+      { "clipId": 4, "title": "03_3_Vocabulary_clipId-4-0" },
+      { "clipId": 15, "title": "03_4_Vocabulary_clipId-15-0" },
+      { "clipId": 21, "title": "04_1_Vocabulary_clipId-21-0" },
+      { "clipId": 19, "title": "05_3_Vocabulary_clipId-19-0" },
+      { "clipId": 26, "title": "07_4_Vocabulary_clipId-26-0" }
+    ]
+  },
+  {
+    "phraseId": 86,
+    "eng": "toe(s)",
+    "phon": "jiǎo zhǐ",
+    "chin": "脚趾",
+    "vocals": [{ "clipId": 0, "title": "03_2_Vocabulary_clipId-0-0" }]
+  },
+  {
+    "phraseId": 87,
+    "eng": "one day",
+    "phon": "yī tiān",
+    "chin": "一天",
+    "vocals": [
+      { "clipId": 1, "title": "03_2_Vocabulary_clipId-1-0" },
+      { "clipId": 24, "title": "03_3_Vocabulary_clipId-24-0" },
+      { "clipId": 21, "title": "03_4_Vocabulary_clipId-21-0" },
+      { "clipId": 22, "title": "05_4_Vocabulary_clipId-22-0" },
+      { "clipId": 11, "title": "07_2_Vocabulary_clipId-11-0" },
+      { "clipId": 11, "title": "07_3_Vocabulary_clipId-11-0" }
+    ]
+  },
+  {
+    "phraseId": 88,
+    "eng": "Sunday",
+    "phon": "xīng qī tiān",
+    "chin": "星期天",
+    "vocals": [
+      { "clipId": 3, "title": "03_2_Vocabulary_clipId-3-0" },
+      { "clipId": 8, "title": "03_4_Vocabulary_clipId-8-0" }
+    ]
+  },
+  {
+    "phraseId": 89,
+    "eng": "Wednesday",
+    "phon": "xīng qī sān",
+    "chin": "星期三",
+    "vocals": [
+      { "clipId": 4, "title": "03_2_Vocabulary_clipId-4-0" },
+      { "clipId": 17, "title": "03_4_Vocabulary_clipId-17-0" },
+      { "clipId": 19, "title": "05_4_Vocabulary_clipId-19-0" },
+      { "clipId": 1, "title": "06_1_Vocabulary_clipId-1-0" },
+      { "clipId": 22, "title": "07_4_Vocabulary_clipId-22-0" }
+    ]
+  },
+  {
+    "phraseId": 90,
+    "eng": "autumn",
+    "phon": "qiū tiān",
+    "chin": "秋天",
+    "vocals": [{ "clipId": 5, "title": "03_2_Vocabulary_clipId-5-0" }]
+  },
+  {
+    "phraseId": 91,
+    "eng": "3 hands",
+    "phon": "sān zhǐ shǒu",
+    "chin": "三只手",
+    "vocals": [
+      { "clipId": 6, "title": "03_2_Vocabulary_clipId-6-0" },
+      { "clipId": 16, "title": "03_4_Vocabulary_clipId-16-0" }
+    ]
+  },
+  {
+    "phraseId": 92,
+    "eng": "winter",
+    "phon": "dōng tiān",
+    "chin": "冬天",
+    "vocals": [
+      { "clipId": 9, "title": "03_2_Vocabulary_clipId-9-0" },
+      { "clipId": 10, "title": "05_4_Vocabulary_clipId-10-0" },
+      { "clipId": 5, "title": "07_1_Vocabulary_clipId-5-0" }
+    ]
+  },
+  {
+    "phraseId": 93,
+    "eng": "one month",
+    "phon": "yī gè yuè",
+    "chin": "一个月",
+    "vocals": [
+      { "clipId": 11, "title": "03_2_Vocabulary_clipId-11-0" },
+      { "clipId": 16, "title": "03_3_Vocabulary_clipId-16-0" },
+      { "clipId": 27, "title": "03_4_Vocabulary_clipId-27-0" }
+    ]
+  },
+  {
+    "phraseId": 94,
+    "eng": "spring",
+    "phon": "chūn tiān",
+    "chin": "春天",
+    "vocals": [
+      { "clipId": 13, "title": "03_2_Vocabulary_clipId-13-0" },
+      { "clipId": 8, "title": "07_1_Vocabulary_clipId-8-0" }
+    ]
+  },
+  {
+    "phraseId": 95,
+    "eng": "Saturday",
+    "phon": "xīng qī liù",
+    "chin": "星期六",
+    "vocals": [
+      { "clipId": 14, "title": "03_2_Vocabulary_clipId-14-0" },
+      { "clipId": 25, "title": "03_4_Vocabulary_clipId-25-0" },
+      { "clipId": 12, "title": "05_4_Vocabulary_clipId-12-0" },
+      { "clipId": 1, "title": "06_2_Vocabulary_clipId-1-0" },
+      { "clipId": 28, "title": "07_4_Vocabulary_clipId-28-0" }
+    ]
+  },
+  {
+    "phraseId": 96,
+    "eng": "Monday",
+    "phon": "xīng qī yī",
+    "chin": "星期一",
+    "vocals": [
+      { "clipId": 15, "title": "03_2_Vocabulary_clipId-15-0" },
+      { "clipId": 28, "title": "03_4_Vocabulary_clipId-28-0" },
+      { "clipId": 20, "title": "06_1_Vocabulary_clipId-20-0" },
+      { "clipId": 21, "title": "07_4_Vocabulary_clipId-21-0" }
+    ]
+  },
+  {
+    "phraseId": 97,
+    "eng": "2 days",
+    "phon": "liǎng tiān",
+    "chin": "两天",
+    "vocals": [
+      { "clipId": 16, "title": "03_2_Vocabulary_clipId-16-0" },
+      { "clipId": 14, "title": "03_3_Vocabulary_clipId-14-0" },
+      { "clipId": 13, "title": "03_4_Vocabulary_clipId-13-0" }
+    ]
+  },
+  {
+    "phraseId": 98,
+    "eng": "a hand",
+    "phon": "yī zhǐ shǒu",
+    "chin": "一只手",
+    "vocals": [
+      { "clipId": 18, "title": "03_2_Vocabulary_clipId-18-0" },
+      { "clipId": 18, "title": "03_4_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 99,
+    "eng": "Thursday",
+    "phon": "xīng qī sì",
+    "chin": "星期四",
+    "vocals": [
+      { "clipId": 19, "title": "03_2_Vocabulary_clipId-19-0" },
+      { "clipId": 9, "title": "03_4_Vocabulary_clipId-9-0" },
+      { "clipId": 7, "title": "05_4_Vocabulary_clipId-7-0" },
+      { "clipId": 13, "title": "06_1_Vocabulary_clipId-13-0" },
+      { "clipId": 23, "title": "06_2_Vocabulary_clipId-23-0" },
+      { "clipId": 22, "title": "07_2_Vocabulary_clipId-22-0" },
+      { "clipId": 1, "title": "07_3_Vocabulary_clipId-1-0" },
+      { "clipId": 12, "title": "07_4_Vocabulary_clipId-12-0" }
+    ]
+  },
+  {
+    "phraseId": 100,
+    "eng": "summer",
+    "phon": "xià tiān",
+    "chin": "夏天",
+    "vocals": [
+      { "clipId": 21, "title": "03_2_Vocabulary_clipId-21-0" },
+      { "clipId": 28, "title": "05_4_Vocabulary_clipId-28-0" }
+    ]
+  },
+  {
+    "phraseId": 101,
+    "eng": "Friday",
+    "phon": "xīng qī wǔ",
+    "chin": "星期五",
+    "vocals": [
+      { "clipId": 22, "title": "03_2_Vocabulary_clipId-22-0" },
+      { "clipId": 19, "title": "03_4_Vocabulary_clipId-19-0" },
+      { "clipId": 4, "title": "06_1_Vocabulary_clipId-4-0" },
+      { "clipId": 26, "title": "06_2_Vocabulary_clipId-26-0" },
+      { "clipId": 0, "title": "07_1_Vocabulary_clipId-0-0" },
+      { "clipId": 19, "title": "07_2_Vocabulary_clipId-19-0" },
+      { "clipId": 23, "title": "07_4_Vocabulary_clipId-23-0" }
+    ]
+  },
+  {
+    "phraseId": 102,
+    "eng": "a foot",
+    "phon": "yī zhǐ jiǎo",
+    "chin": "一只脚",
+    "vocals": [
+      { "clipId": 24, "title": "03_2_Vocabulary_clipId-24-0" },
+      { "clipId": 2, "title": "03_4_Vocabulary_clipId-2-0" }
+    ]
+  },
+  {
+    "phraseId": 103,
+    "eng": "one year",
+    "phon": "yī nián",
+    "chin": "一年",
+    "vocals": [
+      { "clipId": 25, "title": "03_2_Vocabulary_clipId-25-0" },
+      { "clipId": 20, "title": "03_3_Vocabulary_clipId-20-0" },
+      { "clipId": 6, "title": "03_4_Vocabulary_clipId-6-0" },
+      { "clipId": 11, "title": "07_1_Vocabulary_clipId-11-0" },
+      { "clipId": 1, "title": "07_2_Vocabulary_clipId-1-0" }
+    ]
+  },
+  {
+    "phraseId": 104,
+    "eng": "finger(s)",
+    "phon": "shǒu zhǐ",
+    "chin": "手指",
+    "vocals": [
+      { "clipId": 26, "title": "03_2_Vocabulary_clipId-26-0" },
+      { "clipId": 19, "title": "03_3_Vocabulary_clipId-19-0" },
+      { "clipId": 24, "title": "03_4_Vocabulary_clipId-24-0" }
+    ]
+  },
+  {
+    "phraseId": 105,
+    "eng": "7 days",
+    "phon": "qī tiān",
+    "chin": "七天",
+    "vocals": [
+      { "clipId": 27, "title": "03_2_Vocabulary_clipId-27-0" },
+      { "clipId": 18, "title": "03_3_Vocabulary_clipId-18-0" },
+      { "clipId": 23, "title": "03_4_Vocabulary_clipId-23-0" },
+      { "clipId": 3, "title": "07_1_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 106,
+    "eng": "hello",
+    "phon": "nǐ mén hǎo",
+    "chin": "你们好",
+    "vocals": [
+      { "clipId": 28, "title": "03_2_Vocabulary_clipId-28-0" },
+      { "clipId": 3, "title": "03_4_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 107,
+    "eng": "Tuesday",
+    "phon": "xīng qī èr",
+    "chin": "星期二",
+    "vocals": [
+      { "clipId": 29, "title": "03_2_Vocabulary_clipId-29-0" },
+      { "clipId": 22, "title": "03_4_Vocabulary_clipId-22-0" },
+      { "clipId": 25, "title": "06_1_Vocabulary_clipId-25-0" },
+      { "clipId": 1, "title": "07_4_Vocabulary_clipId-1-0" }
+    ]
+  },
+  {
+    "phraseId": 108,
+    "eng": "forty-six (46)",
+    "phon": "sì shí liù",
+    "chin": "四十六",
+    "vocals": [{ "clipId": 1, "title": "03_3_Vocabulary_clipId-1-0" }]
+  },
+  {
+    "phraseId": 109,
+    "eng": "forty-seven (47)",
+    "phon": "sì shí qī",
+    "chin": "四十七",
+    "vocals": [
+      { "clipId": 2, "title": "03_3_Vocabulary_clipId-2-0" },
+      { "clipId": 15, "title": "05_3_Vocabulary_clipId-15-0" }
+    ]
+  },
+  {
+    "phraseId": 110,
+    "eng": "fifty (50)",
+    "phon": "wǔ shí",
+    "chin": "五十",
+    "vocals": [
+      { "clipId": 8, "title": "03_3_Vocabulary_clipId-8-0" },
+      { "clipId": 7, "title": "05_3_Vocabulary_clipId-7-0" },
+      { "clipId": 31, "title": "05_4_Vocabulary_clipId-31-0" },
+      { "clipId": 19, "title": "07_3_Vocabulary_clipId-19-0" }
+    ]
+  },
+  {
+    "phraseId": 111,
+    "eng": "sixty (60)",
+    "phon": "liù shí",
+    "chin": "六十",
+    "vocals": [
+      { "clipId": 10, "title": "03_3_Vocabulary_clipId-10-0" },
+      { "clipId": 31, "title": "04_2_Vocabulary_clipId-31-0" },
+      { "clipId": 9, "title": "04_3_Vocabulary_clipId-9-0" },
+      { "clipId": 2, "title": "05_3_Vocabulary_clipId-2-0" },
+      { "clipId": 18, "title": "05_4_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 112,
+    "eng": "forty-five (45)",
+    "phon": "sì shí wǔ",
+    "chin": "四十五",
+    "vocals": [{ "clipId": 12, "title": "03_3_Vocabulary_clipId-12-0" }]
+  },
+  {
+    "phraseId": 113,
+    "eng": "forty-two (42)",
+    "phon": "sì shí èr",
+    "chin": "四十二",
+    "vocals": [
+      { "clipId": 13, "title": "03_3_Vocabulary_clipId-13-0" },
+      { "clipId": 3, "title": "05_3_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 114,
+    "eng": "forty-eight (48)",
+    "phon": "sì shí bā",
+    "chin": "四十八",
+    "vocals": [{ "clipId": 15, "title": "03_3_Vocabulary_clipId-15-0" }]
+  },
+  {
+    "phraseId": 115,
+    "eng": "excuse me",
+    "phon": "qǐng wèn",
+    "chin": "请问",
+    "vocals": [
+      { "clipId": 17, "title": "03_3_Vocabulary_clipId-17-0" },
+      { "clipId": 12, "title": "04_1_Vocabulary_clipId-12-0" },
+      { "clipId": 28, "title": "04_4_Vocabulary_clipId-28-0" },
+      { "clipId": 18, "title": "05_1_Vocabulary_clipId-18-0" },
+      { "clipId": 15, "title": "05_2_Vocabulary_clipId-15-0" },
+      { "clipId": 18, "title": "05_3_Vocabulary_clipId-18-0" },
+      { "clipId": 13, "title": "05_4_Vocabulary_clipId-13-0" },
+      { "clipId": 27, "title": "06_1_Vocabulary_clipId-27-0" },
+      { "clipId": 12, "title": "06_2_Vocabulary_clipId-12-0" },
+      { "clipId": 23, "title": "06_3_Vocabulary_clipId-23-0" },
+      { "clipId": 17, "title": "06_4_Vocabulary_clipId-17-0" },
+      { "clipId": 22, "title": "07_3_Vocabulary_clipId-22-0" },
+      { "clipId": 3, "title": "07_4_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 116,
+    "eng": "forty (40)",
+    "phon": "sì shí",
+    "chin": "四十",
+    "vocals": [
+      { "clipId": 22, "title": "03_3_Vocabulary_clipId-22-0" },
+      { "clipId": 13, "title": "04_2_Vocabulary_clipId-13-0" },
+      { "clipId": 26, "title": "05_3_Vocabulary_clipId-26-0" }
+    ]
+  },
+  {
+    "phraseId": 117,
+    "eng": "forty-one (41)",
+    "phon": "sì shí yī",
+    "chin": "四十一",
+    "vocals": [{ "clipId": 23, "title": "03_3_Vocabulary_clipId-23-0" }]
+  },
+  {
+    "phraseId": 118,
+    "eng": "forty-four (44)",
+    "phon": "sì shí sì",
+    "chin": "四十四",
+    "vocals": [
+      { "clipId": 26, "title": "03_3_Vocabulary_clipId-26-0" },
+      { "clipId": 32, "title": "05_3_Vocabulary_clipId-32-0" }
+    ]
+  },
+  {
+    "phraseId": 119,
+    "eng": "forty-nine (49)",
+    "phon": "sì shí jiǔ",
+    "chin": "四十九",
+    "vocals": [{ "clipId": 27, "title": "03_3_Vocabulary_clipId-27-0" }]
+  },
+  {
+    "phraseId": 120,
+    "eng": "forty-three (43)",
+    "phon": "sì shí sān",
+    "chin": "四十三",
+    "vocals": [{ "clipId": 31, "title": "03_3_Vocabulary_clipId-31-0" }]
+  },
+  {
+    "phraseId": 121,
+    "eng": "thirty (30)",
+    "phon": "sān shí",
+    "chin": "三十",
+    "vocals": [
+      { "clipId": 32, "title": "03_3_Vocabulary_clipId-32-0" },
+      { "clipId": 6, "title": "05_2_Vocabulary_clipId-6-0" },
+      { "clipId": 31, "title": "05_3_Vocabulary_clipId-31-0" },
+      { "clipId": 4, "title": "06_4_Vocabulary_clipId-4-0" },
+      { "clipId": 6, "title": "07_1_Vocabulary_clipId-6-0" },
+      { "clipId": 8, "title": "07_2_Vocabulary_clipId-8-0" }
+    ]
+  },
+  {
+    "phraseId": 122,
+    "eng": "teeth",
+    "phon": "yá chǐ",
+    "chin": "牙齿",
+    "vocals": [{ "clipId": 0, "title": "03_4_Vocabulary_clipId-0-0" }]
+  },
+  {
+    "phraseId": 123,
+    "eng": "toothpaste",
+    "phon": "yá gāo",
+    "chin": "牙膏",
+    "vocals": [{ "clipId": 7, "title": "03_4_Vocabulary_clipId-7-0" }]
+  },
+  {
+    "phraseId": 124,
+    "eng": "chocolate",
+    "phon": "qiǎo kè lì",
+    "chin": "巧克力",
+    "vocals": [
+      { "clipId": 1, "title": "04_1_Vocabulary_clipId-1-0" },
+      { "clipId": 26, "title": "04_2_Vocabulary_clipId-26-0" },
+      { "clipId": 32, "title": "04_3_Vocabulary_clipId-32-0" },
+      { "clipId": 12, "title": "04_4_Vocabulary_clipId-12-0" },
+      { "clipId": 4, "title": "05_1_Vocabulary_clipId-4-0" },
+      { "clipId": 34, "title": "05_2_Vocabulary_clipId-34-0" },
+      { "clipId": 11, "title": "06_1_Vocabulary_clipId-11-0" },
+      { "clipId": 21, "title": "06_2_Vocabulary_clipId-21-0" },
+      { "clipId": 28, "title": "06_4_Vocabulary_clipId-28-0" },
+      { "clipId": 9, "title": "07_3_Vocabulary_clipId-9-0" },
+      { "clipId": 25, "title": "07_4_Vocabulary_clipId-25-0" }
+    ]
+  },
+  {
+    "phraseId": 125,
+    "eng": "toy(s)",
+    "phon": "wán jù",
+    "chin": "玩具",
+    "vocals": [
+      { "clipId": 3, "title": "04_1_Vocabulary_clipId-3-0" },
+      { "clipId": 23, "title": "04_2_Vocabulary_clipId-23-0" },
+      { "clipId": 33, "title": "04_3_Vocabulary_clipId-33-0" },
+      { "clipId": 18, "title": "04_4_Vocabulary_clipId-18-0" },
+      { "clipId": 17, "title": "05_1_Vocabulary_clipId-17-0" },
+      { "clipId": 28, "title": "05_2_Vocabulary_clipId-28-0" },
+      { "clipId": 14, "title": "06_3_Vocabulary_clipId-14-0" },
+      { "clipId": 23, "title": "07_1_Vocabulary_clipId-23-0" },
+      { "clipId": 11, "title": "08_1_Vocabulary_clipId-11-0" }
+    ]
+  },
+  {
+    "phraseId": 126,
+    "eng": "clothing",
+    "phon": "yī fú",
+    "chin": "衣服",
+    "vocals": [
+      { "clipId": 6, "title": "04_1_Vocabulary_clipId-6-0" },
+      { "clipId": 3, "title": "04_2_Vocabulary_clipId-3-0" },
+      { "clipId": 1, "title": "04_3_Vocabulary_clipId-1-0" },
+      { "clipId": 4, "title": "04_4_Vocabulary_clipId-4-0" },
+      { "clipId": 24, "title": "05_1_Vocabulary_clipId-24-0" },
+      { "clipId": 1, "title": "05_2_Vocabulary_clipId-1-0" },
+      { "clipId": 12, "title": "06_1_Vocabulary_clipId-12-0" },
+      { "clipId": 12, "title": "07_3_Vocabulary_clipId-12-0" }
+    ]
+  },
+  {
+    "phraseId": 127,
+    "eng": "meat",
+    "phon": "ròu",
+    "chin": "肉",
+    "vocals": [
+      { "clipId": 8, "title": "04_1_Vocabulary_clipId-8-0" },
+      { "clipId": 15, "title": "04_2_Vocabulary_clipId-15-0" },
+      { "clipId": 19, "title": "04_3_Vocabulary_clipId-19-0" },
+      { "clipId": 32, "title": "04_4_Vocabulary_clipId-32-0" },
+      { "clipId": 16, "title": "05_1_Vocabulary_clipId-16-0" },
+      { "clipId": 19, "title": "05_2_Vocabulary_clipId-19-0" },
+      { "clipId": 19, "title": "06_1_Vocabulary_clipId-19-0" },
+      { "clipId": 10, "title": "07_2_Vocabulary_clipId-10-0" },
+      { "clipId": 25, "title": "08_1_Vocabulary_clipId-25-0" }
+    ]
+  },
+  {
+    "phraseId": 128,
+    "eng": "vegetable(s)",
+    "phon": "shū cài",
+    "chin": "蔬菜",
+    "vocals": [
+      { "clipId": 9, "title": "04_1_Vocabulary_clipId-9-0" },
+      { "clipId": 21, "title": "04_2_Vocabulary_clipId-21-0" },
+      { "clipId": 34, "title": "04_3_Vocabulary_clipId-34-0" },
+      { "clipId": 23, "title": "04_4_Vocabulary_clipId-23-0" },
+      { "clipId": 22, "title": "05_1_Vocabulary_clipId-22-0" },
+      { "clipId": 23, "title": "05_2_Vocabulary_clipId-23-0" },
+      { "clipId": 9, "title": "06_1_Vocabulary_clipId-9-0" },
+      { "clipId": 4, "title": "07_2_Vocabulary_clipId-4-0" },
+      { "clipId": 24, "title": "07_3_Vocabulary_clipId-24-0" }
+    ]
+  },
+  {
+    "phraseId": 129,
+    "eng": "jewelry",
+    "phon": "shǒu shì",
+    "chin": "首饰",
+    "vocals": [
+      { "clipId": 10, "title": "04_1_Vocabulary_clipId-10-0" },
+      { "clipId": 6, "title": "04_2_Vocabulary_clipId-6-0" },
+      { "clipId": 30, "title": "04_3_Vocabulary_clipId-30-0" },
+      { "clipId": 9, "title": "04_4_Vocabulary_clipId-9-0" },
+      { "clipId": 12, "title": "05_1_Vocabulary_clipId-12-0" },
+      { "clipId": 26, "title": "05_2_Vocabulary_clipId-26-0" },
+      { "clipId": 15, "title": "06_1_Vocabulary_clipId-15-0" },
+      { "clipId": 17, "title": "06_2_Vocabulary_clipId-17-0" },
+      { "clipId": 24, "title": "07_1_Vocabulary_clipId-24-0" },
+      { "clipId": 23, "title": "07_2_Vocabulary_clipId-23-0" },
+      { "clipId": 23, "title": "08_1_Vocabulary_clipId-23-0" }
+    ]
+  },
+  {
+    "phraseId": 130,
+    "eng": "a ticket",
+    "phon": "yī zhāng piào",
+    "chin": "一张票",
+    "vocals": [
+      { "clipId": 23, "title": "04_1_Vocabulary_clipId-23-0" },
+      { "clipId": 17, "title": "04_2_Vocabulary_clipId-17-0" },
+      { "clipId": 26, "title": "04_3_Vocabulary_clipId-26-0" },
+      { "clipId": 15, "title": "04_4_Vocabulary_clipId-15-0" },
+      { "clipId": 15, "title": "05_1_Vocabulary_clipId-15-0" },
+      { "clipId": 4, "title": "05_2_Vocabulary_clipId-4-0" },
+      { "clipId": 21, "title": "05_3_Vocabulary_clipId-21-0" },
+      { "clipId": 6, "title": "05_4_Vocabulary_clipId-6-0" }
+    ]
+  },
+  {
+    "phraseId": 131,
+    "eng": "fruit",
+    "phon": "shuǐ guǒ",
+    "chin": "水果",
+    "vocals": [
+      { "clipId": 24, "title": "04_1_Vocabulary_clipId-24-0" },
+      { "clipId": 16, "title": "04_2_Vocabulary_clipId-16-0" },
+      { "clipId": 13, "title": "04_3_Vocabulary_clipId-13-0" },
+      { "clipId": 24, "title": "04_4_Vocabulary_clipId-24-0" },
+      { "clipId": 3, "title": "05_1_Vocabulary_clipId-3-0" },
+      { "clipId": 13, "title": "05_2_Vocabulary_clipId-13-0" },
+      { "clipId": 3, "title": "06_2_Vocabulary_clipId-3-0" },
+      { "clipId": 2, "title": "06_3_Vocabulary_clipId-2-0" },
+      { "clipId": 6, "title": "06_4_Vocabulary_clipId-6-0" },
+      { "clipId": 2, "title": "07_3_Vocabulary_clipId-2-0" }
+    ]
+  },
+  {
+    "phraseId": 132,
+    "eng": "purple",
+    "phon": "zǐ sè",
+    "chin": "紫色",
+    "vocals": [
+      { "clipId": 30, "title": "04_1_Vocabulary_clipId-30-0" },
+      { "clipId": 4, "title": "04_3_Vocabulary_clipId-4-0" }
+    ]
+  },
+  {
+    "phraseId": 133,
+    "eng": "want",
+    "phon": "yào",
+    "chin": "要",
+    "vocals": [
+      { "clipId": 31, "title": "04_1_Vocabulary_clipId-31-0" },
+      { "clipId": 4, "title": "04_2_Vocabulary_clipId-4-0" },
+      { "clipId": 27, "title": "04_3_Vocabulary_clipId-27-0" },
+      { "clipId": 29, "title": "04_4_Vocabulary_clipId-29-0" },
+      { "clipId": 1, "title": "05_1_Vocabulary_clipId-1-0" },
+      { "clipId": 24, "title": "05_2_Vocabulary_clipId-24-0" },
+      { "clipId": 18, "title": "06_2_Vocabulary_clipId-18-0" },
+      { "clipId": 21, "title": "06_4_Vocabulary_clipId-21-0" }
+    ]
+  },
+  {
+    "phraseId": 134,
+    "eng": "20元 (yuán)",
+    "phon": "èr shí yuán",
+    "chin": "二十元",
+    "vocals": [
+      { "clipId": 5, "title": "04_2_Vocabulary_clipId-5-0" },
+      { "clipId": 17, "title": "04_3_Vocabulary_clipId-17-0" },
+      { "clipId": 0, "title": "04_4_Vocabulary_clipId-0-0" }
+    ]
+  },
+  {
+    "phraseId": 135,
+    "eng": "tennis",
+    "phon": "wǎng qiú",
+    "chin": "网球",
+    "vocals": [
+      { "clipId": 9, "title": "04_2_Vocabulary_clipId-9-0" },
+      { "clipId": 28, "title": "04_3_Vocabulary_clipId-28-0" },
+      { "clipId": 6, "title": "04_4_Vocabulary_clipId-6-0" },
+      { "clipId": 26, "title": "05_1_Vocabulary_clipId-26-0" },
+      { "clipId": 3, "title": "05_2_Vocabulary_clipId-3-0" },
+      { "clipId": 15, "title": "05_4_Vocabulary_clipId-15-0" },
+      { "clipId": 24, "title": "06_1_Vocabulary_clipId-24-0" },
+      { "clipId": 7, "title": "06_2_Vocabulary_clipId-7-0" },
+      { "clipId": 17, "title": "06_3_Vocabulary_clipId-17-0" },
+      { "clipId": 14, "title": "06_4_Vocabulary_clipId-14-0" }
+    ]
+  },
+  {
+    "phraseId": 136,
+    "eng": "$5 (dollars)",
+    "phon": "wǔ měi yuán",
+    "chin": "五美元",
+    "vocals": [
+      { "clipId": 12, "title": "04_2_Vocabulary_clipId-12-0" },
+      { "clipId": 20, "title": "04_3_Vocabulary_clipId-20-0" },
+      { "clipId": 8, "title": "04_4_Vocabulary_clipId-8-0" },
+      { "clipId": 34, "title": "05_1_Vocabulary_clipId-34-0" },
+      { "clipId": 33, "title": "05_3_Vocabulary_clipId-33-0" }
+    ]
+  },
+  {
+    "phraseId": 137,
+    "eng": "10元 (yuán)",
+    "phon": "shí yuán",
+    "chin": "十元",
+    "vocals": [
+      { "clipId": 19, "title": "04_2_Vocabulary_clipId-19-0" },
+      { "clipId": 22, "title": "04_3_Vocabulary_clipId-22-0" },
+      { "clipId": 2, "title": "04_4_Vocabulary_clipId-2-0" }
+    ]
+  },
+  {
+    "phraseId": 138,
+    "eng": "football",
+    "phon": "zú qiú",
+    "chin": "足球",
+    "vocals": [
+      { "clipId": 20, "title": "04_2_Vocabulary_clipId-20-0" },
+      { "clipId": 11, "title": "04_3_Vocabulary_clipId-11-0" },
+      { "clipId": 27, "title": "04_4_Vocabulary_clipId-27-0" },
+      { "clipId": 5, "title": "05_1_Vocabulary_clipId-5-0" },
+      { "clipId": 16, "title": "05_2_Vocabulary_clipId-16-0" },
+      { "clipId": 24, "title": "05_4_Vocabulary_clipId-24-0" },
+      { "clipId": 26, "title": "06_1_Vocabulary_clipId-26-0" },
+      { "clipId": 8, "title": "06_2_Vocabulary_clipId-8-0" },
+      { "clipId": 11, "title": "06_3_Vocabulary_clipId-11-0" },
+      { "clipId": 1, "title": "06_4_Vocabulary_clipId-1-0" },
+      { "clipId": 3, "title": "07_3_Vocabulary_clipId-3-0" },
+      { "clipId": 29, "title": "07_4_Vocabulary_clipId-29-0" },
+      { "clipId": 20, "title": "08_1_Vocabulary_clipId-20-0" },
+      { "clipId": 11, "title": "08_3_Vocabulary_clipId-11-0" },
+      { "clipId": 6, "title": "08_4_Vocabulary_clipId-6-0" }
+    ]
+  },
+  {
+    "phraseId": 139,
+    "eng": "£15 (pounds)",
+    "phon": "shí wǔ bàng",
+    "chin": "十五磅",
+    "vocals": [
+      { "clipId": 22, "title": "04_2_Vocabulary_clipId-22-0" },
+      { "clipId": 31, "title": "04_3_Vocabulary_clipId-31-0" },
+      { "clipId": 33, "title": "04_4_Vocabulary_clipId-33-0" }
+    ]
+  },
+  {
+    "phraseId": 140,
+    "eng": "carrot(s)",
+    "phon": "hú luó bo",
+    "chin": "胡萝卜",
+    "vocals": [
+      { "clipId": 25, "title": "04_2_Vocabulary_clipId-25-0" },
+      { "clipId": 18, "title": "04_3_Vocabulary_clipId-18-0" },
+      { "clipId": 30, "title": "04_4_Vocabulary_clipId-30-0" },
+      { "clipId": 31, "title": "05_1_Vocabulary_clipId-31-0" },
+      { "clipId": 5, "title": "06_1_Vocabulary_clipId-5-0" },
+      { "clipId": 7, "title": "06_4_Vocabulary_clipId-7-0" }
+    ]
+  },
+  {
+    "phraseId": 141,
+    "eng": "€10 (euros)",
+    "phon": "shí ōu yuán",
+    "chin": "十欧元",
+    "vocals": [
+      { "clipId": 27, "title": "04_2_Vocabulary_clipId-27-0" },
+      { "clipId": 7, "title": "04_3_Vocabulary_clipId-7-0" },
+      { "clipId": 10, "title": "04_4_Vocabulary_clipId-10-0" },
+      { "clipId": 22, "title": "05_3_Vocabulary_clipId-22-0" },
+      { "clipId": 7, "title": "07_2_Vocabulary_clipId-7-0" }
+    ]
+  },
+  {
+    "phraseId": 142,
+    "eng": "1元 (yuán)",
+    "phon": "yī yuán",
+    "chin": "一元",
+    "vocals": [
+      { "clipId": 29, "title": "04_2_Vocabulary_clipId-29-0" },
+      { "clipId": 24, "title": "04_3_Vocabulary_clipId-24-0" },
+      { "clipId": 16, "title": "04_4_Vocabulary_clipId-16-0" }
+    ]
+  },
+  {
+    "phraseId": 143,
+    "eng": "orange(s)",
+    "phon": "chéng zǐ",
+    "chin": "橙子",
+    "vocals": [
+      { "clipId": 30, "title": "04_2_Vocabulary_clipId-30-0" },
+      { "clipId": 14, "title": "04_3_Vocabulary_clipId-14-0" },
+      { "clipId": 26, "title": "04_4_Vocabulary_clipId-26-0" },
+      { "clipId": 6, "title": "05_1_Vocabulary_clipId-6-0" },
+      { "clipId": 18, "title": "05_2_Vocabulary_clipId-18-0" },
+      { "clipId": 9, "title": "06_4_Vocabulary_clipId-9-0" },
+      { "clipId": 18, "title": "07_3_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 144,
+    "eng": "5元 (yuán)",
+    "phon": "wǔ yuán",
+    "chin": "五元",
+    "vocals": [
+      { "clipId": 32, "title": "04_2_Vocabulary_clipId-32-0" },
+      { "clipId": 25, "title": "04_3_Vocabulary_clipId-25-0" },
+      { "clipId": 21, "title": "04_4_Vocabulary_clipId-21-0" }
+    ]
+  },
+  {
+    "phraseId": 145,
+    "eng": "paper",
+    "phon": "zhǐ",
+    "chin": "纸",
+    "vocals": [
+      { "clipId": 2, "title": "04_3_Vocabulary_clipId-2-0" },
+      { "clipId": 34, "title": "04_4_Vocabulary_clipId-34-0" }
+    ]
+  },
+  {
+    "phraseId": 146,
+    "eng": "plastic",
+    "phon": "sù liào",
+    "chin": "塑料",
+    "vocals": [
+      { "clipId": 10, "title": "04_3_Vocabulary_clipId-10-0" },
+      { "clipId": 3, "title": "04_4_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 147,
+    "eng": "wood",
+    "phon": "mù tóu",
+    "chin": "木头",
+    "vocals": [
+      { "clipId": 15, "title": "04_3_Vocabulary_clipId-15-0" },
+      { "clipId": 7, "title": "04_4_Vocabulary_clipId-7-0" }
+    ]
+  },
+  {
+    "phraseId": 148,
+    "eng": "metal",
+    "phon": "jīn shǔ",
+    "chin": "金属",
+    "vocals": [
+      { "clipId": 16, "title": "04_3_Vocabulary_clipId-16-0" },
+      { "clipId": 11, "title": "04_4_Vocabulary_clipId-11-0" }
+    ]
+  },
+  {
+    "phraseId": 149,
+    "eng": "a lake",
+    "phon": "yī gè hú",
+    "chin": "一个湖",
+    "vocals": [
+      { "clipId": 2, "title": "05_1_Vocabulary_clipId-2-0" },
+      { "clipId": 2, "title": "05_2_Vocabulary_clipId-2-0" },
+      { "clipId": 28, "title": "05_3_Vocabulary_clipId-28-0" },
+      { "clipId": 17, "title": "05_4_Vocabulary_clipId-17-0" },
+      { "clipId": 22, "title": "06_1_Vocabulary_clipId-22-0" },
+      { "clipId": 13, "title": "06_2_Vocabulary_clipId-13-0" },
+      { "clipId": 9, "title": "06_3_Vocabulary_clipId-9-0" },
+      { "clipId": 10, "title": "06_4_Vocabulary_clipId-10-0" }
+    ]
+  },
+  {
+    "phraseId": 150,
+    "eng": "only",
+    "phon": "zhǐ",
+    "chin": "只",
+    "vocals": [
+      { "clipId": 19, "title": "05_1_Vocabulary_clipId-19-0" },
+      { "clipId": 16, "title": "06_1_Vocabulary_clipId-16-0" },
+      { "clipId": 13, "title": "06_4_Vocabulary_clipId-13-0" },
+      { "clipId": 16, "title": "07_1_Vocabulary_clipId-16-0" },
+      { "clipId": 1, "title": "08_2_Vocabulary_clipId-1-0" }
+    ]
+  },
+  {
+    "phraseId": 151,
+    "eng": "forest",
+    "phon": "shù lín",
+    "chin": "树林",
+    "vocals": [
+      { "clipId": 23, "title": "05_1_Vocabulary_clipId-23-0" },
+      { "clipId": 35, "title": "05_2_Vocabulary_clipId-35-0" },
+      { "clipId": 1, "title": "05_3_Vocabulary_clipId-1-0" },
+      { "clipId": 25, "title": "05_4_Vocabulary_clipId-25-0" },
+      { "clipId": 18, "title": "06_1_Vocabulary_clipId-18-0" },
+      { "clipId": 28, "title": "06_2_Vocabulary_clipId-28-0" },
+      { "clipId": 25, "title": "06_3_Vocabulary_clipId-25-0" },
+      { "clipId": 15, "title": "06_4_Vocabulary_clipId-15-0" },
+      { "clipId": 2, "title": "08_2_Vocabulary_clipId-2-0" },
+      { "clipId": 34, "title": "08_4_Vocabulary_clipId-34-0" }
+    ]
+  },
+  {
+    "phraseId": 152,
+    "eng": "9 minutes",
+    "phon": "jiǔ fēn zhōng",
+    "chin": "九分钟",
+    "vocals": [
+      { "clipId": 28, "title": "05_1_Vocabulary_clipId-28-0" },
+      { "clipId": 8, "title": "05_2_Vocabulary_clipId-8-0" },
+      { "clipId": 9, "title": "05_3_Vocabulary_clipId-9-0" },
+      { "clipId": 2, "title": "05_4_Vocabulary_clipId-2-0" },
+      { "clipId": 0, "title": "06_1_Vocabulary_clipId-0-0" },
+      { "clipId": 14, "title": "06_2_Vocabulary_clipId-14-0" },
+      { "clipId": 27, "title": "06_3_Vocabulary_clipId-27-0" },
+      { "clipId": 2, "title": "06_4_Vocabulary_clipId-2-0" }
+    ]
+  },
+  {
+    "phraseId": 153,
+    "eng": "mountain",
+    "phon": "shān",
+    "chin": "山",
+    "vocals": [
+      { "clipId": 33, "title": "05_1_Vocabulary_clipId-33-0" },
+      { "clipId": 22, "title": "05_2_Vocabulary_clipId-22-0" },
+      { "clipId": 25, "title": "05_3_Vocabulary_clipId-25-0" },
+      { "clipId": 32, "title": "05_4_Vocabulary_clipId-32-0" },
+      { "clipId": 2, "title": "06_1_Vocabulary_clipId-2-0" },
+      { "clipId": 10, "title": "06_2_Vocabulary_clipId-10-0" },
+      { "clipId": 5, "title": "06_3_Vocabulary_clipId-5-0" },
+      { "clipId": 27, "title": "06_4_Vocabulary_clipId-27-0" },
+      { "clipId": 29, "title": "07_1_Vocabulary_clipId-29-0" },
+      { "clipId": 16, "title": "07_2_Vocabulary_clipId-16-0" },
+      { "clipId": 25, "title": "08_2_Vocabulary_clipId-25-0" },
+      { "clipId": 22, "title": "08_3_Vocabulary_clipId-22-0" },
+      { "clipId": 11, "title": "08_4_Vocabulary_clipId-11-0" },
+      { "clipId": 11, "title": "09_4_Vocabulary_clipId-11-0" }
+    ]
+  },
+  {
+    "phraseId": 154,
+    "eng": "stamp(s)",
+    "phon": "yóu piào",
+    "chin": "邮票",
+    "vocals": [
+      { "clipId": 21, "title": "06_1_Vocabulary_clipId-21-0" },
+      { "clipId": 0, "title": "06_2_Vocabulary_clipId-0-0" },
+      { "clipId": 13, "title": "06_3_Vocabulary_clipId-13-0" },
+      { "clipId": 25, "title": "06_4_Vocabulary_clipId-25-0" },
+      { "clipId": 13, "title": "07_1_Vocabulary_clipId-13-0" },
+      { "clipId": 12, "title": "07_2_Vocabulary_clipId-12-0" },
+      { "clipId": 13, "title": "07_3_Vocabulary_clipId-13-0" },
+      { "clipId": 8, "title": "07_4_Vocabulary_clipId-8-0" }
+    ]
+  },
+  {
+    "phraseId": 155,
+    "eng": "art",
+    "phon": "yì shù",
+    "chin": "艺术",
+    "vocals": [
+      { "clipId": 2, "title": "06_2_Vocabulary_clipId-2-0" },
+      { "clipId": 6, "title": "06_3_Vocabulary_clipId-6-0" },
+      { "clipId": 15, "title": "07_1_Vocabulary_clipId-15-0" },
+      { "clipId": 17, "title": "07_3_Vocabulary_clipId-17-0" },
+      { "clipId": 26, "title": "08_2_Vocabulary_clipId-26-0" },
+      { "clipId": 13, "title": "10_1_Vocabulary_clipId-13-0" }
+    ]
+  },
+  {
+    "phraseId": 156,
+    "eng": "Chinese (language)",
+    "phon": "zhōng wén",
+    "chin": "中文",
+    "vocals": [
+      { "clipId": 11, "title": "06_2_Vocabulary_clipId-11-0" },
+      { "clipId": 16, "title": "06_3_Vocabulary_clipId-16-0" },
+      { "clipId": 19, "title": "06_4_Vocabulary_clipId-19-0" },
+      { "clipId": 21, "title": "07_1_Vocabulary_clipId-21-0" },
+      { "clipId": 22, "title": "08_1_Vocabulary_clipId-22-0" },
+      { "clipId": 5, "title": "10_2_Vocabulary_clipId-5-0" }
+    ]
+  },
+  {
+    "phraseId": 157,
+    "eng": "math",
+    "phon": "shù xué",
+    "chin": "数学",
+    "vocals": [
+      { "clipId": 19, "title": "06_2_Vocabulary_clipId-19-0" },
+      { "clipId": 4, "title": "06_3_Vocabulary_clipId-4-0" },
+      { "clipId": 12, "title": "06_4_Vocabulary_clipId-12-0" },
+      { "clipId": 9, "title": "07_1_Vocabulary_clipId-9-0" },
+      { "clipId": 10, "title": "07_3_Vocabulary_clipId-10-0" },
+      { "clipId": 28, "title": "08_1_Vocabulary_clipId-28-0" },
+      { "clipId": 13, "title": "09_3_Vocabulary_clipId-13-0" }
+    ]
+  },
+  {
+    "phraseId": 158,
+    "eng": "history",
+    "phon": "lì shǐ",
+    "chin": "历史",
+    "vocals": [
+      { "clipId": 20, "title": "06_2_Vocabulary_clipId-20-0" },
+      { "clipId": 8, "title": "06_3_Vocabulary_clipId-8-0" },
+      { "clipId": 22, "title": "06_4_Vocabulary_clipId-22-0" },
+      { "clipId": 2, "title": "07_1_Vocabulary_clipId-2-0" },
+      { "clipId": 15, "title": "07_3_Vocabulary_clipId-15-0" },
+      { "clipId": 9, "title": "10_2_Vocabulary_clipId-9-0" }
+    ]
+  },
+  {
+    "phraseId": 159,
+    "eng": "music",
+    "phon": "yīn yuè",
+    "chin": "音乐",
+    "vocals": [
+      { "clipId": 22, "title": "06_2_Vocabulary_clipId-22-0" },
+      { "clipId": 24, "title": "06_3_Vocabulary_clipId-24-0" },
+      { "clipId": 5, "title": "06_4_Vocabulary_clipId-5-0" },
+      { "clipId": 18, "title": "07_1_Vocabulary_clipId-18-0" },
+      { "clipId": 6, "title": "07_2_Vocabulary_clipId-6-0" },
+      { "clipId": 5, "title": "07_3_Vocabulary_clipId-5-0" },
+      { "clipId": 16, "title": "07_4_Vocabulary_clipId-16-0" },
+      { "clipId": 3, "title": "08_1_Vocabulary_clipId-3-0" },
+      { "clipId": 13, "title": "08_2_Vocabulary_clipId-13-0" },
+      { "clipId": 6, "title": "08_3_Vocabulary_clipId-6-0" },
+      { "clipId": 28, "title": "08_4_Vocabulary_clipId-28-0" },
+      { "clipId": 17, "title": "09_1_Vocabulary_clipId-17-0" },
+      { "clipId": 18, "title": "09_2_Vocabulary_clipId-18-0" },
+      { "clipId": 1, "title": "09_3_Vocabulary_clipId-1-0" },
+      { "clipId": 5, "title": "09_4_Vocabulary_clipId-5-0" },
+      { "clipId": 5, "title": "10_1_Vocabulary_clipId-5-0" },
+      { "clipId": 4, "title": "10_2_Vocabulary_clipId-4-0" }
+    ]
+  },
+  {
+    "phraseId": 160,
+    "eng": "science",
+    "phon": "kē xué",
+    "chin": "科学",
+    "vocals": [
+      { "clipId": 27, "title": "06_2_Vocabulary_clipId-27-0" },
+      { "clipId": 1, "title": "06_3_Vocabulary_clipId-1-0" },
+      { "clipId": 23, "title": "06_4_Vocabulary_clipId-23-0" },
+      { "clipId": 22, "title": "07_1_Vocabulary_clipId-22-0" },
+      { "clipId": 14, "title": "07_3_Vocabulary_clipId-14-0" },
+      { "clipId": 17, "title": "07_4_Vocabulary_clipId-17-0" }
+    ]
+  },
+  {
+    "phraseId": 161,
+    "eng": "December",
+    "phon": "shí èr yuè",
+    "chin": "十二月",
+    "vocals": [
+      { "clipId": 4, "title": "07_1_Vocabulary_clipId-4-0" },
+      { "clipId": 25, "title": "07_2_Vocabulary_clipId-25-0" },
+      { "clipId": 16, "title": "07_3_Vocabulary_clipId-16-0" },
+      { "clipId": 2, "title": "07_4_Vocabulary_clipId-2-0" },
+      { "clipId": 9, "title": "08_1_Vocabulary_clipId-9-0" },
+      { "clipId": 17, "title": "08_2_Vocabulary_clipId-17-0" },
+      { "clipId": 3, "title": "08_3_Vocabulary_clipId-3-0" },
+      { "clipId": 16, "title": "08_4_Vocabulary_clipId-16-0" }
+    ]
+  },
+  {
+    "phraseId": 162,
+    "eng": "October",
+    "phon": "shí yuè",
+    "chin": "十月",
+    "vocals": [
+      { "clipId": 10, "title": "07_1_Vocabulary_clipId-10-0" },
+      { "clipId": 3, "title": "07_2_Vocabulary_clipId-3-0" },
+      { "clipId": 21, "title": "07_3_Vocabulary_clipId-21-0" },
+      { "clipId": 13, "title": "07_4_Vocabulary_clipId-13-0" },
+      { "clipId": 6, "title": "08_1_Vocabulary_clipId-6-0" },
+      { "clipId": 15, "title": "08_2_Vocabulary_clipId-15-0" },
+      { "clipId": 16, "title": "08_3_Vocabulary_clipId-16-0" },
+      { "clipId": 0, "title": "08_4_Vocabulary_clipId-0-0" }
+    ]
+  },
+  {
+    "phraseId": 163,
+    "eng": "March",
+    "phon": "sān yuè",
+    "chin": "三月",
+    "vocals": [
+      { "clipId": 12, "title": "07_1_Vocabulary_clipId-12-0" },
+      { "clipId": 33, "title": "07_2_Vocabulary_clipId-33-0" },
+      { "clipId": 33, "title": "07_3_Vocabulary_clipId-33-0" },
+      { "clipId": 30, "title": "07_4_Vocabulary_clipId-30-0" },
+      { "clipId": 32, "title": "08_1_Vocabulary_clipId-32-0" },
+      { "clipId": 4, "title": "08_2_Vocabulary_clipId-4-0" },
+      { "clipId": 8, "title": "08_3_Vocabulary_clipId-8-0" },
+      { "clipId": 27, "title": "08_4_Vocabulary_clipId-27-0" }
+    ]
+  },
+  {
+    "phraseId": 164,
+    "eng": "September",
+    "phon": "jiǔ yuè",
+    "chin": "九月",
+    "vocals": [
+      { "clipId": 14, "title": "07_1_Vocabulary_clipId-14-0" },
+      { "clipId": 27, "title": "07_2_Vocabulary_clipId-27-0" },
+      { "clipId": 31, "title": "07_3_Vocabulary_clipId-31-0" },
+      { "clipId": 27, "title": "07_4_Vocabulary_clipId-27-0" },
+      { "clipId": 16, "title": "08_1_Vocabulary_clipId-16-0" },
+      { "clipId": 33, "title": "08_2_Vocabulary_clipId-33-0" },
+      { "clipId": 13, "title": "08_3_Vocabulary_clipId-13-0" },
+      { "clipId": 29, "title": "08_4_Vocabulary_clipId-29-0" }
+    ]
+  },
+  {
+    "phraseId": 165,
+    "eng": "August",
+    "phon": "bā yuè",
+    "chin": "八月",
+    "vocals": [
+      { "clipId": 17, "title": "07_1_Vocabulary_clipId-17-0" },
+      { "clipId": 2, "title": "07_2_Vocabulary_clipId-2-0" },
+      { "clipId": 4, "title": "07_3_Vocabulary_clipId-4-0" },
+      { "clipId": 31, "title": "07_4_Vocabulary_clipId-31-0" },
+      { "clipId": 2, "title": "08_1_Vocabulary_clipId-2-0" },
+      { "clipId": 30, "title": "08_2_Vocabulary_clipId-30-0" },
+      { "clipId": 25, "title": "08_3_Vocabulary_clipId-25-0" },
+      { "clipId": 18, "title": "08_4_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 166,
+    "eng": "May",
+    "phon": "wǔ yuè",
+    "chin": "五月",
+    "vocals": [
+      { "clipId": 19, "title": "07_1_Vocabulary_clipId-19-0" },
+      { "clipId": 0, "title": "07_2_Vocabulary_clipId-0-0" },
+      { "clipId": 6, "title": "07_3_Vocabulary_clipId-6-0" },
+      { "clipId": 5, "title": "07_4_Vocabulary_clipId-5-0" },
+      { "clipId": 21, "title": "08_1_Vocabulary_clipId-21-0" },
+      { "clipId": 22, "title": "08_2_Vocabulary_clipId-22-0" },
+      { "clipId": 32, "title": "08_3_Vocabulary_clipId-32-0" },
+      { "clipId": 30, "title": "08_4_Vocabulary_clipId-30-0" }
+    ]
+  },
+  {
+    "phraseId": 167,
+    "eng": "June",
+    "phon": "liù yuè",
+    "chin": "六月",
+    "vocals": [
+      { "clipId": 25, "title": "07_1_Vocabulary_clipId-25-0" },
+      { "clipId": 17, "title": "07_2_Vocabulary_clipId-17-0" },
+      { "clipId": 30, "title": "07_3_Vocabulary_clipId-30-0" },
+      { "clipId": 7, "title": "07_4_Vocabulary_clipId-7-0" },
+      { "clipId": 13, "title": "08_1_Vocabulary_clipId-13-0" },
+      { "clipId": 23, "title": "08_2_Vocabulary_clipId-23-0" },
+      { "clipId": 7, "title": "08_3_Vocabulary_clipId-7-0" },
+      { "clipId": 20, "title": "08_4_Vocabulary_clipId-20-0" }
+    ]
+  },
+  {
+    "phraseId": 168,
+    "eng": "February",
+    "phon": "èr yuè",
+    "chin": "二月",
+    "vocals": [
+      { "clipId": 27, "title": "07_1_Vocabulary_clipId-27-0" },
+      { "clipId": 15, "title": "07_2_Vocabulary_clipId-15-0" },
+      { "clipId": 28, "title": "07_3_Vocabulary_clipId-28-0" },
+      { "clipId": 9, "title": "07_4_Vocabulary_clipId-9-0" },
+      { "clipId": 17, "title": "08_1_Vocabulary_clipId-17-0" },
+      { "clipId": 16, "title": "08_2_Vocabulary_clipId-16-0" },
+      { "clipId": 19, "title": "08_3_Vocabulary_clipId-19-0" },
+      { "clipId": 13, "title": "08_4_Vocabulary_clipId-13-0" }
+    ]
+  },
+  {
+    "phraseId": 169,
+    "eng": "July",
+    "phon": "qī yuè",
+    "chin": "七月",
+    "vocals": [
+      { "clipId": 28, "title": "07_1_Vocabulary_clipId-28-0" },
+      { "clipId": 14, "title": "07_2_Vocabulary_clipId-14-0" },
+      { "clipId": 25, "title": "07_3_Vocabulary_clipId-25-0" },
+      { "clipId": 24, "title": "07_4_Vocabulary_clipId-24-0" },
+      { "clipId": 31, "title": "08_1_Vocabulary_clipId-31-0" },
+      { "clipId": 18, "title": "08_2_Vocabulary_clipId-18-0" },
+      { "clipId": 26, "title": "08_3_Vocabulary_clipId-26-0" },
+      { "clipId": 22, "title": "08_4_Vocabulary_clipId-22-0" }
+    ]
+  },
+  {
+    "phraseId": 170,
+    "eng": "January",
+    "phon": "yī yuè",
+    "chin": "一月",
+    "vocals": [
+      { "clipId": 30, "title": "07_1_Vocabulary_clipId-30-0" },
+      { "clipId": 31, "title": "07_2_Vocabulary_clipId-31-0" },
+      { "clipId": 27, "title": "07_3_Vocabulary_clipId-27-0" },
+      { "clipId": 4, "title": "07_4_Vocabulary_clipId-4-0" },
+      { "clipId": 5, "title": "08_1_Vocabulary_clipId-5-0" },
+      { "clipId": 28, "title": "08_2_Vocabulary_clipId-28-0" },
+      { "clipId": 14, "title": "08_3_Vocabulary_clipId-14-0" },
+      { "clipId": 24, "title": "08_4_Vocabulary_clipId-24-0" }
+    ]
+  },
+  {
+    "phraseId": 171,
+    "eng": "April",
+    "phon": "sì yuè",
+    "chin": "四月",
+    "vocals": [
+      { "clipId": 31, "title": "07_1_Vocabulary_clipId-31-0" },
+      { "clipId": 29, "title": "07_2_Vocabulary_clipId-29-0" },
+      { "clipId": 20, "title": "07_3_Vocabulary_clipId-20-0" },
+      { "clipId": 19, "title": "07_4_Vocabulary_clipId-19-0" },
+      { "clipId": 1, "title": "08_1_Vocabulary_clipId-1-0" },
+      { "clipId": 7, "title": "08_2_Vocabulary_clipId-7-0" },
+      { "clipId": 0, "title": "08_3_Vocabulary_clipId-0-0" },
+      { "clipId": 33, "title": "08_4_Vocabulary_clipId-33-0" }
+    ]
+  },
+  {
+    "phraseId": 172,
+    "eng": "November",
+    "phon": "shí yī yuè",
+    "chin": "十一月",
+    "vocals": [
+      { "clipId": 32, "title": "07_1_Vocabulary_clipId-32-0" },
+      { "clipId": 21, "title": "07_2_Vocabulary_clipId-21-0" },
+      { "clipId": 8, "title": "07_3_Vocabulary_clipId-8-0" },
+      { "clipId": 20, "title": "07_4_Vocabulary_clipId-20-0" },
+      { "clipId": 7, "title": "08_1_Vocabulary_clipId-7-0" },
+      { "clipId": 6, "title": "08_2_Vocabulary_clipId-6-0" },
+      { "clipId": 5, "title": "08_3_Vocabulary_clipId-5-0" },
+      { "clipId": 31, "title": "08_4_Vocabulary_clipId-31-0" }
+    ]
+  },
+  {
+    "phraseId": 173,
+    "eng": "address",
+    "phon": "dì zhǐ",
+    "chin": "地址",
+    "vocals": [
+      { "clipId": 9, "title": "07_2_Vocabulary_clipId-9-0" },
+      { "clipId": 26, "title": "07_3_Vocabulary_clipId-26-0" },
+      { "clipId": 18, "title": "07_4_Vocabulary_clipId-18-0" },
+      { "clipId": 12, "title": "08_1_Vocabulary_clipId-12-0" },
+      { "clipId": 11, "title": "08_2_Vocabulary_clipId-11-0" },
+      { "clipId": 10, "title": "08_3_Vocabulary_clipId-10-0" },
+      { "clipId": 26, "title": "08_4_Vocabulary_clipId-26-0" }
+    ]
+  },
+  {
+    "phraseId": 174,
+    "eng": "date",
+    "phon": "rì qī",
+    "chin": "日期",
+    "vocals": [
+      { "clipId": 24, "title": "07_2_Vocabulary_clipId-24-0" },
+      { "clipId": 0, "title": "07_3_Vocabulary_clipId-0-0" },
+      { "clipId": 14, "title": "07_4_Vocabulary_clipId-14-0" },
+      { "clipId": 15, "title": "08_1_Vocabulary_clipId-15-0" },
+      { "clipId": 21, "title": "08_2_Vocabulary_clipId-21-0" },
+      { "clipId": 28, "title": "08_3_Vocabulary_clipId-28-0" },
+      { "clipId": 2, "title": "08_4_Vocabulary_clipId-2-0" }
+    ]
+  },
+  {
+    "phraseId": 175,
+    "eng": "swim",
+    "phon": "yóu yǒng",
+    "chin": "游泳",
+    "vocals": [
+      { "clipId": 28, "title": "07_2_Vocabulary_clipId-28-0" },
+      { "clipId": 29, "title": "07_3_Vocabulary_clipId-29-0" },
+      { "clipId": 6, "title": "07_4_Vocabulary_clipId-6-0" },
+      { "clipId": 0, "title": "08_1_Vocabulary_clipId-0-0" },
+      { "clipId": 31, "title": "08_2_Vocabulary_clipId-31-0" },
+      { "clipId": 1, "title": "08_3_Vocabulary_clipId-1-0" },
+      { "clipId": 12, "title": "08_4_Vocabulary_clipId-12-0" }
+    ]
+  },
+  {
+    "phraseId": 176,
+    "eng": "soup",
+    "phon": "tāng",
+    "chin": "汤",
+    "vocals": [
+      { "clipId": 32, "title": "07_3_Vocabulary_clipId-32-0" },
+      { "clipId": 15, "title": "07_4_Vocabulary_clipId-15-0" },
+      { "clipId": 26, "title": "08_1_Vocabulary_clipId-26-0" },
+      { "clipId": 0, "title": "08_2_Vocabulary_clipId-0-0" },
+      { "clipId": 18, "title": "08_3_Vocabulary_clipId-18-0" },
+      { "clipId": 23, "title": "08_4_Vocabulary_clipId-23-0" }
+    ]
+  },
+  {
+    "phraseId": 177,
+    "eng": "Think, I think.",
+    "phon": "xiǎng wǒ xiǎng",
+    "chin": "想我想",
+    "vocals": [
+      { "clipId": 11, "title": "07_4_Vocabulary_clipId-11-0" },
+      { "clipId": 27, "title": "08_1_Vocabulary_clipId-27-0" },
+      { "clipId": 24, "title": "08_3_Vocabulary_clipId-24-0" }
+    ]
+  },
+  {
+    "phraseId": 178,
+    "eng": "black pepper",
+    "phon": "hú jiāo",
+    "chin": "胡椒",
+    "vocals": [
+      { "clipId": 4, "title": "08_1_Vocabulary_clipId-4-0" },
+      { "clipId": 10, "title": "08_2_Vocabulary_clipId-10-0" },
+      { "clipId": 9, "title": "08_3_Vocabulary_clipId-9-0" },
+      { "clipId": 19, "title": "08_4_Vocabulary_clipId-19-0" },
+      { "clipId": 6, "title": "09_1_Vocabulary_clipId-6-0" },
+      { "clipId": 7, "title": "09_2_Vocabulary_clipId-7-0" },
+      { "clipId": 8, "title": "09_3_Vocabulary_clipId-8-0" },
+      { "clipId": 19, "title": "09_4_Vocabulary_clipId-19-0" }
+    ]
+  },
+  {
+    "phraseId": 179,
+    "eng": "beef",
+    "phon": "niú ròu",
+    "chin": "牛肉",
+    "vocals": [
+      { "clipId": 8, "title": "08_1_Vocabulary_clipId-8-0" },
+      { "clipId": 19, "title": "08_2_Vocabulary_clipId-19-0" },
+      { "clipId": 4, "title": "08_3_Vocabulary_clipId-4-0" },
+      { "clipId": 25, "title": "08_4_Vocabulary_clipId-25-0" },
+      { "clipId": 3, "title": "09_1_Vocabulary_clipId-3-0" },
+      { "clipId": 10, "title": "09_2_Vocabulary_clipId-10-0" },
+      { "clipId": 4, "title": "09_3_Vocabulary_clipId-4-0" },
+      { "clipId": 1, "title": "09_4_Vocabulary_clipId-1-0" }
+    ]
+  },
+  {
+    "phraseId": 180,
+    "eng": "butter",
+    "phon": "huáng yóu",
+    "chin": "黄油",
+    "vocals": [
+      { "clipId": 10, "title": "08_1_Vocabulary_clipId-10-0" },
+      { "clipId": 27, "title": "08_2_Vocabulary_clipId-27-0" },
+      { "clipId": 31, "title": "08_3_Vocabulary_clipId-31-0" },
+      { "clipId": 4, "title": "08_4_Vocabulary_clipId-4-0" },
+      { "clipId": 11, "title": "09_1_Vocabulary_clipId-11-0" },
+      { "clipId": 16, "title": "09_2_Vocabulary_clipId-16-0" },
+      { "clipId": 16, "title": "09_3_Vocabulary_clipId-16-0" },
+      { "clipId": 6, "title": "09_4_Vocabulary_clipId-6-0" }
+    ]
+  },
+  {
+    "phraseId": 181,
+    "eng": "chopsticks",
+    "phon": "kuài zǐ",
+    "chin": "筷子",
+    "vocals": [
+      { "clipId": 14, "title": "08_1_Vocabulary_clipId-14-0" },
+      { "clipId": 24, "title": "08_2_Vocabulary_clipId-24-0" },
+      { "clipId": 27, "title": "08_3_Vocabulary_clipId-27-0" },
+      { "clipId": 21, "title": "08_4_Vocabulary_clipId-21-0" },
+      { "clipId": 13, "title": "09_1_Vocabulary_clipId-13-0" },
+      { "clipId": 13, "title": "09_2_Vocabulary_clipId-13-0" },
+      { "clipId": 11, "title": "09_3_Vocabulary_clipId-11-0" },
+      { "clipId": 15, "title": "09_4_Vocabulary_clipId-15-0" }
+    ]
+  },
+  {
+    "phraseId": 182,
+    "eng": "chicken (meat)",
+    "phon": "jī ròu",
+    "chin": "肌肉",
+    "vocals": [
+      { "clipId": 18, "title": "08_1_Vocabulary_clipId-18-0" },
+      { "clipId": 29, "title": "08_2_Vocabulary_clipId-29-0" },
+      { "clipId": 29, "title": "08_3_Vocabulary_clipId-29-0" },
+      { "clipId": 9, "title": "08_4_Vocabulary_clipId-9-0" },
+      { "clipId": 10, "title": "09_1_Vocabulary_clipId-10-0" },
+      { "clipId": 19, "title": "09_2_Vocabulary_clipId-19-0" },
+      { "clipId": 14, "title": "09_3_Vocabulary_clipId-14-0" },
+      { "clipId": 9, "title": "09_4_Vocabulary_clipId-9-0" }
+    ]
+  },
+  {
+    "phraseId": 183,
+    "eng": "tea with sugar",
+    "phon": "chá jiā táng",
+    "chin": "茶加糖",
+    "vocals": [
+      { "clipId": 19, "title": "08_1_Vocabulary_clipId-19-0" },
+      { "clipId": 9, "title": "08_2_Vocabulary_clipId-9-0" },
+      { "clipId": 30, "title": "08_3_Vocabulary_clipId-30-0" },
+      { "clipId": 7, "title": "08_4_Vocabulary_clipId-7-0" },
+      { "clipId": 9, "title": "09_1_Vocabulary_clipId-9-0" },
+      { "clipId": 3, "title": "09_2_Vocabulary_clipId-3-0" },
+      { "clipId": 3, "title": "09_3_Vocabulary_clipId-3-0" },
+      { "clipId": 8, "title": "09_4_Vocabulary_clipId-8-0" }
+    ]
+  },
+  {
+    "phraseId": 184,
+    "eng": "beans",
+    "phon": "dòu zǐ",
+    "chin": "豆子",
+    "vocals": [
+      { "clipId": 29, "title": "08_1_Vocabulary_clipId-29-0" },
+      { "clipId": 8, "title": "08_2_Vocabulary_clipId-8-0" },
+      { "clipId": 15, "title": "08_3_Vocabulary_clipId-15-0" },
+      { "clipId": 17, "title": "08_4_Vocabulary_clipId-17-0" },
+      { "clipId": 7, "title": "09_1_Vocabulary_clipId-7-0" },
+      { "clipId": 14, "title": "09_2_Vocabulary_clipId-14-0" },
+      { "clipId": 17, "title": "09_3_Vocabulary_clipId-17-0" },
+      { "clipId": 7, "title": "09_4_Vocabulary_clipId-7-0" }
+    ]
+  },
+  {
+    "phraseId": 185,
+    "eng": "fish",
+    "phon": "yú",
+    "chin": "鱼",
+    "vocals": [
+      { "clipId": 30, "title": "08_1_Vocabulary_clipId-30-0" },
+      { "clipId": 12, "title": "08_2_Vocabulary_clipId-12-0" },
+      { "clipId": 21, "title": "08_3_Vocabulary_clipId-21-0" },
+      { "clipId": 8, "title": "08_4_Vocabulary_clipId-8-0" },
+      { "clipId": 8, "title": "09_1_Vocabulary_clipId-8-0" },
+      { "clipId": 12, "title": "09_2_Vocabulary_clipId-12-0" },
+      { "clipId": 7, "title": "09_3_Vocabulary_clipId-7-0" },
+      { "clipId": 20, "title": "09_4_Vocabulary_clipId-20-0" },
+      { "clipId": 12, "title": "10_1_Vocabulary_clipId-12-0" }
+    ]
+  },
+  {
+    "phraseId": 186,
+    "eng": "steps (ladder)",
+    "phon": "jiē tī",
+    "chin": "阶梯",
+    "vocals": [
+      { "clipId": 3, "title": "08_2_Vocabulary_clipId-3-0" },
+      { "clipId": 2, "title": "08_3_Vocabulary_clipId-2-0" },
+      { "clipId": 14, "title": "08_4_Vocabulary_clipId-14-0" },
+      { "clipId": 15, "title": "09_1_Vocabulary_clipId-15-0" },
+      { "clipId": 11, "title": "09_2_Vocabulary_clipId-11-0" },
+      { "clipId": 5, "title": "09_3_Vocabulary_clipId-5-0" },
+      { "clipId": 17, "title": "09_4_Vocabulary_clipId-17-0" }
+    ]
+  },
+  {
+    "phraseId": 187,
+    "eng": "a painting",
+    "phon": "yī fú huà",
+    "chin": "一幅画",
+    "vocals": [
+      { "clipId": 5, "title": "08_2_Vocabulary_clipId-5-0" },
+      { "clipId": 20, "title": "08_3_Vocabulary_clipId-20-0" },
+      { "clipId": 32, "title": "08_4_Vocabulary_clipId-32-0" },
+      { "clipId": 4, "title": "09_1_Vocabulary_clipId-4-0" },
+      { "clipId": 5, "title": "09_2_Vocabulary_clipId-5-0" },
+      { "clipId": 15, "title": "09_3_Vocabulary_clipId-15-0" },
+      { "clipId": 18, "title": "09_4_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 188,
+    "eng": "musical instrument",
+    "phon": "yuè qì",
+    "chin": "乐器",
+    "vocals": [
+      { "clipId": 14, "title": "08_2_Vocabulary_clipId-14-0" },
+      { "clipId": 12, "title": "08_3_Vocabulary_clipId-12-0" },
+      { "clipId": 10, "title": "08_4_Vocabulary_clipId-10-0" },
+      { "clipId": 5, "title": "09_1_Vocabulary_clipId-5-0" },
+      { "clipId": 4, "title": "09_2_Vocabulary_clipId-4-0" },
+      { "clipId": 0, "title": "09_3_Vocabulary_clipId-0-0" },
+      { "clipId": 4, "title": "09_4_Vocabulary_clipId-4-0" },
+      { "clipId": 10, "title": "10_3_Vocabulary_clipId-10-0" }
+    ]
+  },
+  {
+    "phraseId": 189,
+    "eng": "modernization",
+    "phon": "xiàn dài huà",
+    "chin": "现代化",
+    "vocals": [
+      { "clipId": 20, "title": "08_2_Vocabulary_clipId-20-0" },
+      { "clipId": 17, "title": "08_3_Vocabulary_clipId-17-0" },
+      { "clipId": 5, "title": "08_4_Vocabulary_clipId-5-0" },
+      { "clipId": 12, "title": "09_1_Vocabulary_clipId-12-0" },
+      { "clipId": 17, "title": "09_2_Vocabulary_clipId-17-0" },
+      { "clipId": 12, "title": "09_3_Vocabulary_clipId-12-0" },
+      { "clipId": 16, "title": "09_4_Vocabulary_clipId-16-0" }
+    ]
+  },
+  {
+    "phraseId": 190,
+    "eng": "one stock / share",
+    "phon": "yī gè gǔ",
+    "chin": "一个股",
+    "vocals": [
+      { "clipId": 32, "title": "08_2_Vocabulary_clipId-32-0" },
+      { "clipId": 23, "title": "08_3_Vocabulary_clipId-23-0" },
+      { "clipId": 3, "title": "08_4_Vocabulary_clipId-3-0" },
+      { "clipId": 0, "title": "09_1_Vocabulary_clipId-0-0" },
+      { "clipId": 0, "title": "09_2_Vocabulary_clipId-0-0" },
+      { "clipId": 20, "title": "09_3_Vocabulary_clipId-20-0" },
+      { "clipId": 13, "title": "09_4_Vocabulary_clipId-13-0" }
+    ]
+  },
+  {
+    "phraseId": 191,
+    "eng": "bath towel",
+    "phon": "yù jīn",
+    "chin": "浴巾",
+    "vocals": [
+      { "clipId": 1, "title": "08_4_Vocabulary_clipId-1-0" },
+      { "clipId": 14, "title": "09_1_Vocabulary_clipId-14-0" },
+      { "clipId": 2, "title": "09_2_Vocabulary_clipId-2-0" },
+      { "clipId": 19, "title": "09_3_Vocabulary_clipId-19-0" },
+      { "clipId": 0, "title": "09_4_Vocabulary_clipId-0-0" }
+    ]
+  },
+  {
+    "phraseId": 192,
+    "eng": "shorts",
+    "phon": "duǎn kù",
+    "chin": "短裤",
+    "vocals": [
+      { "clipId": 15, "title": "08_4_Vocabulary_clipId-15-0" },
+      { "clipId": 1, "title": "09_1_Vocabulary_clipId-1-0" },
+      { "clipId": 6, "title": "09_2_Vocabulary_clipId-6-0" },
+      { "clipId": 6, "title": "09_3_Vocabulary_clipId-6-0" },
+      { "clipId": 3, "title": "09_4_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 193,
+    "eng": "abdomen",
+    "phon": "dù zǐ",
+    "chin": "肚子",
+    "vocals": [
+      { "clipId": 2, "title": "09_1_Vocabulary_clipId-2-0" },
+      { "clipId": 15, "title": "09_2_Vocabulary_clipId-15-0" },
+      { "clipId": 10, "title": "09_3_Vocabulary_clipId-10-0" },
+      { "clipId": 2, "title": "09_4_Vocabulary_clipId-2-0" },
+      { "clipId": 11, "title": "10_1_Vocabulary_clipId-11-0" },
+      { "clipId": 14, "title": "10_2_Vocabulary_clipId-14-0" },
+      { "clipId": 0, "title": "10_3_Vocabulary_clipId-0-0" },
+      { "clipId": 0, "title": "10_4_Vocabulary_clipId-0-0" }
+    ]
+  },
+  {
+    "phraseId": 194,
+    "eng": "a leg",
+    "phon": "yī tiáo tuǐ",
+    "chin": "一条腿",
+    "vocals": [
+      { "clipId": 16, "title": "09_1_Vocabulary_clipId-16-0" },
+      { "clipId": 1, "title": "09_2_Vocabulary_clipId-1-0" },
+      { "clipId": 9, "title": "09_3_Vocabulary_clipId-9-0" },
+      { "clipId": 12, "title": "09_4_Vocabulary_clipId-12-0" },
+      { "clipId": 8, "title": "10_1_Vocabulary_clipId-8-0" },
+      { "clipId": 7, "title": "10_2_Vocabulary_clipId-7-0" },
+      { "clipId": 7, "title": "10_3_Vocabulary_clipId-7-0" },
+      { "clipId": 9, "title": "10_4_Vocabulary_clipId-9-0" }
+    ]
+  },
+  {
+    "phraseId": 195,
+    "eng": "arm",
+    "phon": "shǒu bì",
+    "chin": "手臂",
+    "vocals": [
+      { "clipId": 18, "title": "09_1_Vocabulary_clipId-18-0" },
+      { "clipId": 8, "title": "09_2_Vocabulary_clipId-8-0" },
+      { "clipId": 2, "title": "09_3_Vocabulary_clipId-2-0" },
+      { "clipId": 10, "title": "09_4_Vocabulary_clipId-10-0" },
+      { "clipId": 16, "title": "10_1_Vocabulary_clipId-16-0" },
+      { "clipId": 2, "title": "10_2_Vocabulary_clipId-2-0" },
+      { "clipId": 2, "title": "10_3_Vocabulary_clipId-2-0" },
+      { "clipId": 4, "title": "10_4_Vocabulary_clipId-4-0" }
+    ]
+  },
+  {
+    "phraseId": 196,
+    "eng": "head",
+    "phon": "tóu",
+    "chin": "头",
+    "vocals": [
+      { "clipId": 19, "title": "09_1_Vocabulary_clipId-19-0" },
+      { "clipId": 9, "title": "09_2_Vocabulary_clipId-9-0" },
+      { "clipId": 18, "title": "09_3_Vocabulary_clipId-18-0" },
+      { "clipId": 14, "title": "09_4_Vocabulary_clipId-14-0" },
+      { "clipId": 3, "title": "10_1_Vocabulary_clipId-3-0" },
+      { "clipId": 11, "title": "10_2_Vocabulary_clipId-11-0" },
+      { "clipId": 6, "title": "10_3_Vocabulary_clipId-6-0" },
+      { "clipId": 1, "title": "10_4_Vocabulary_clipId-1-0" }
+    ]
+  },
+  {
+    "phraseId": 197,
+    "eng": "a snake",
+    "phon": "yī tiáo shé",
+    "chin": "一条蛇",
+    "vocals": [
+      { "clipId": 0, "title": "10_1_Vocabulary_clipId-0-0" },
+      { "clipId": 3, "title": "10_2_Vocabulary_clipId-3-0" },
+      { "clipId": 11, "title": "10_3_Vocabulary_clipId-11-0" },
+      { "clipId": 6, "title": "10_4_Vocabulary_clipId-6-0" }
+    ]
+  },
+  {
+    "phraseId": 198,
+    "eng": "kill",
+    "phon": "shā",
+    "chin": "杀",
+    "vocals": [
+      { "clipId": 1, "title": "10_1_Vocabulary_clipId-1-0" },
+      { "clipId": 12, "title": "10_2_Vocabulary_clipId-12-0" },
+      { "clipId": 8, "title": "10_3_Vocabulary_clipId-8-0" },
+      { "clipId": 10, "title": "10_4_Vocabulary_clipId-10-0" }
+    ]
+  },
+  {
+    "phraseId": 199,
+    "eng": "a chicken",
+    "phon": "yī zhǐ jī",
+    "chin": "一只鸡",
+    "vocals": [
+      { "clipId": 2, "title": "10_1_Vocabulary_clipId-2-0" },
+      { "clipId": 0, "title": "10_2_Vocabulary_clipId-0-0" },
+      { "clipId": 4, "title": "10_3_Vocabulary_clipId-4-0" },
+      { "clipId": 8, "title": "10_4_Vocabulary_clipId-8-0" }
+    ]
+  },
+  {
+    "phraseId": 200,
+    "eng": "a cow",
+    "phon": "yī tóu niú",
+    "chin": "一头牛",
+    "vocals": [
+      { "clipId": 4, "title": "10_1_Vocabulary_clipId-4-0" },
+      { "clipId": 1, "title": "10_2_Vocabulary_clipId-1-0" },
+      { "clipId": 5, "title": "10_3_Vocabulary_clipId-5-0" },
+      { "clipId": 2, "title": "10_4_Vocabulary_clipId-2-0" }
+    ]
+  },
+  {
+    "phraseId": 201,
+    "eng": "a sheep",
+    "phon": "yī zhǐ yáng",
+    "chin": "一只羊",
+    "vocals": [
+      { "clipId": 6, "title": "10_1_Vocabulary_clipId-6-0" },
+      { "clipId": 8, "title": "10_2_Vocabulary_clipId-8-0" },
+      { "clipId": 13, "title": "10_3_Vocabulary_clipId-13-0" },
+      { "clipId": 7, "title": "10_4_Vocabulary_clipId-7-0" }
+    ]
+  },
+  {
+    "phraseId": 202,
+    "eng": "plant(s)",
+    "phon": "zhí wù",
+    "chin": "植物",
+    "vocals": [
+      { "clipId": 7, "title": "10_1_Vocabulary_clipId-7-0" },
+      { "clipId": 10, "title": "10_2_Vocabulary_clipId-10-0" },
+      { "clipId": 1, "title": "10_3_Vocabulary_clipId-1-0" },
+      { "clipId": 3, "title": "10_4_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 203,
+    "eng": "animal(s)",
+    "phon": "dòng wù",
+    "chin": "动物",
+    "vocals": [
+      { "clipId": 9, "title": "10_1_Vocabulary_clipId-9-0" },
+      { "clipId": 6, "title": "10_2_Vocabulary_clipId-6-0" },
+      { "clipId": 3, "title": "10_3_Vocabulary_clipId-3-0" },
+      { "clipId": 14, "title": "10_4_Vocabulary_clipId-14-0" }
+    ]
+  },
+  {
+    "phraseId": 204,
+    "eng": "fire",
+    "phon": "huǒ",
+    "chin": "火",
+    "vocals": [
+      { "clipId": 10, "title": "10_1_Vocabulary_clipId-10-0" },
+      { "clipId": 13, "title": "10_2_Vocabulary_clipId-13-0" },
+      { "clipId": 9, "title": "10_3_Vocabulary_clipId-9-0" },
+      { "clipId": 13, "title": "10_4_Vocabulary_clipId-13-0" }
+    ]
+  },
+  {
+    "phraseId": 205,
+    "eng": "person / people",
+    "phon": "rén",
+    "chin": "人",
+    "vocals": [
+      { "clipId": 14, "title": "10_1_Vocabulary_clipId-14-0" },
+      { "clipId": 16, "title": "10_2_Vocabulary_clipId-16-0" },
+      { "clipId": 14, "title": "10_3_Vocabulary_clipId-14-0" },
+      { "clipId": 11, "title": "10_4_Vocabulary_clipId-11-0" }
+    ]
+  },
+  {
+    "phraseId": 206,
+    "eng": "ice",
+    "phon": "bīng",
+    "chin": "冰",
+    "vocals": [
+      { "clipId": 15, "title": "10_1_Vocabulary_clipId-15-0" },
+      { "clipId": 15, "title": "10_2_Vocabulary_clipId-15-0" },
+      { "clipId": 12, "title": "10_3_Vocabulary_clipId-12-0" },
+      { "clipId": 12, "title": "10_4_Vocabulary_clipId-12-0" }
+    ]
+  }
+]

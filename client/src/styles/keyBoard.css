@@ -1,0 +1,79 @@
+.keyBoard {
+  position: absolute;
+  width: 100%;
+  background-color: white;
+  transition: 0.5s;
+  bottom: 0;
+  transform:translateY(100%);
+  
+  --row-height: 2.2em;
+  --key-height: 1.5em;
+  --key-width: 1.8em;
+}
+
+.keyBoard.active {
+  transform:translateY(0%)
+}
+
+.keyBoard img {
+  width: 70%;
+  opacity: .64;
+}
+
+.keyboard-line {
+  display: flex;
+  justify-content: space-evenly;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5em;
+  margin: 0.25em;
+  height: var(--row-height);
+}
+
+.keyboard-line .key:not(.enter) {
+  width: var(--key-width);
+}
+
+.keyboard-line .enter {
+  width: calc(var(--key-width) * 2);
+  
+}
+
+.keyboard-line .enter p {
+  font-size: 1rem
+}
+
+#key-pad button,
+.keyboard-line .key {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: var(--key-height);
+  font-size: 1.5em;
+  /* text-transform: capitalize; */
+  border: rgb(170, 170, 170) 0.1rem solid;
+  /* border-color: #f2f2f2; */
+  outline: none;
+  border-radius: 0.3em;
+
+  transition: 0.5s;
+  /* box-shadow: 0em 0em 0.4em 0 #bdbdbd inset, 0em 0em 0.5em 0 #bdbdbd; */
+  box-shadow: 0em 0em 0.4em 0 var(--btn-hover) inset, 0em 0em 0.5em 0 var(--btn-hover);
+  background-color: rgb(248, 248, 248);
+  /* background-color: white; */
+
+  text-decoration: none;
+  -moz-border-radius: 0.3em;
+  -webkit-border-radius: 0.3em;
+  border-radius: 0.3em;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.keyboard-line .key:active {
+  box-shadow: 0em 0em 0.4em 0 #bdbdbd inset, 0 0 0 0 #bdbdbd;
+  transform: scale(0.95);
+  outline: none;
+}
+

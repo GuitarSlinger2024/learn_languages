@@ -1,0 +1,139 @@
+.tab-content-1 .outer-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: nowrap;
+  font-size: 0.8em;
+  padding: 0 2em;
+}
+
+.tab-content-1 .messages {
+  block-size: 4.5em;
+  position: relative;
+}
+
+.tab-content-1 .intro-message {
+  align-items: center;
+  display: flex;
+  font-size: 1.4em;
+  font-weight: 900;
+  inline-size: 80%;
+  justify-content: center;
+  line-height: 1.2;
+  margin: .2em auto .3em;
+  text-align: center;
+}
+
+.languageChoice {
+  position: absolute;
+  inset-inline-start: 13em;
+  inset-block-end: .5em;
+}
+
+.languageChoice label {
+  margin-inline-end: .4em;
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+.languageChoice input {
+  border: none;
+  outline: none;
+  font-size: 1.1em;
+}
+
+.tab-content-1 .heading {
+  white-space: nowrap;
+  text-decoration: underline;
+}
+
+.tab-content-1 .options {
+  position: relative;
+  inline-size: min-content;
+}
+
+.checkbox {
+  cursor: pointer;
+  margin: .38em 0
+}
+
+.tab-content-1 .delay-time {
+  position: absolute;
+  white-space: nowrap;
+  text-align: center;
+  bottom: 0;
+}
+
+.tab-content-1 .delay-time label {
+  margin-inline-end: 0.2em;
+  font-size: 1.3em;
+  cursor: pointer;
+}
+
+.tab-content-1 .delay-time input {
+  inline-size: 3em;
+  border: none;
+  font-size: 1.3em;
+  padding-inline-start: .3em;
+  outline: none;
+}
+
+.tab-content-1 .delay-time input:focus {
+  border-block-end: 1px solid;
+}
+
+#clearSettings {
+  margin: 0.2em .5em 0;
+  font-size: 1.3em;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+#info-icon {
+  position: absolute;
+  inline-size: 2.2em;
+  inset-inline-end: 1.5em;
+  inset-block-start: 1em;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+#info-icon {
+  position: absolute;
+  inline-size: 2.2em;
+  inset-inline-end: 1.5em;
+  inset-block-start: 1em;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+#colorPickerIcon {
+  position: absolute;
+  inset-inline-start: 1.2em;
+  inset-block-start: 1em;
+  margin: auto;
+  inline-size: 2em;
+  pointer-events: all !important;
+  z-index: 10;
+}
+
+#theColorPicker {
+  position: absolute !important;
+  inset-inline-start: 0;
+  inset-inline-end: 0;
+  inset-block-end: 2.1em;
+  inset-block-start: 0;
+  margin: auto;
+  z-index: 10;
+  transform: scale(.5);
+  opacity: 0;
+  pointer-events: none;
+  transition: .5s;
+}
+
+#theColorPicker.active {
+  transform: scale(1);
+  opacity: 1;
+  pointer-events: all;
+}

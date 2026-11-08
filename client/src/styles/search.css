@@ -1,0 +1,81 @@
+.tab-content-search {
+  display: flex;
+  overflow: hidden;
+  flex-direction: column;
+}
+
+.tab-content-search .searchNavbar {
+  display: flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: left;
+  padding: 0 1em;
+  height: 3em;
+  width: 100%;
+  margin-bottom: .7em;
+  background-color: whitesmoke;
+  gap: .5em
+}
+
+.tab-content-search input {
+  padding: .1em .4em;
+  outline: none;
+  inline-size: 10em;
+  margin-inline-start: .7em;
+  font-size: 1.1em;
+}
+
+.tab-content-search input:focus {
+  border-color: var(--btn-hover);
+  border-width: .3em;
+}
+
+.tab-content-search .clearInputIcon {
+  inline-size: 1.5em;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  block-size: 1.5em;
+  align-items: center;
+  border: .7em solid;
+  cursor: pointer;
+  margin-inline-end: 1em;
+  background-color: black;
+  font-weight: 900;
+  color: white;
+}
+
+.tab-content-search input:focus::placeholder {
+  color: transparent;
+}
+
+.checkBoxes {
+  display: flex;
+  justify-content: space-evenly;
+  width: 40%;
+}
+
+.tab-content-search .selections {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding: 0 1em;
+    gap: .5em;
+    max-width: 100%;
+    align-content: flex-start;
+    flex-shrink: 1;
+    height: fit-content;
+    min-height: 9em;
+    overflow: hidden auto;
+}
+
+.tab-content-search .selections .word {
+  font-size: 1.2em;
+  width: fit-content;
+  height: 1.5em;
+  cursor: pointer;
+  flex-grow: 0;
+}
+  
+.tab-content-search .selections .word:hover {
+  font-weight: 700;
+}

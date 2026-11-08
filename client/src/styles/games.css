@@ -1,0 +1,351 @@
+.tab-content-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.no-game-text {
+  width: 18em;
+  text-align: center;
+}
+
+.tab-content-3 .gameOption {
+  display: flex;
+  align-items: center;
+}
+
+#game-opts-1 .buttons {
+  display: flex;
+  justify-content: space-between;
+  width: 10em;
+}
+
+#game-opts-1 .buttons button{
+  margin-right: 0;
+}
+
+.tab-content-3 button {
+  align-self: center;
+  font-size: 1em;
+  margin-right: 1em;
+}
+
+#game-opts-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+#game-opts-1 section,
+#game-opts-2 section {
+  display: flex;
+  width: 100%;
+  margin-bottom: 1em;
+  max-width: 35em;
+  justify-content: space-evenly;
+  font-size: 0.9em;
+}
+
+#multiChoiceSettngs > .checkbox {
+  display: inline-flex;
+  margin: 1em 0 1.5em;
+}
+
+.tab-content-3 .score {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 20%;
+  font-size: 0.55em;
+
+  padding: 0 2em;
+  margin-bottom: 1em;
+}
+
+#game-1 {
+  position: absolute;
+  display: flex;
+  justify-content: space-evenly;
+  bottom: 0;
+  inline-size: 100%;
+  block-size: 80%;
+  padding: 0.5em;
+}
+
+#game-opts-1 .numOfChars .checkbox {
+  display: inline-flex !important;
+  margin: 0;
+}
+
+#game-opts-1 .numOfChars .displayNum {
+  color: hsl(var(--primary-hue), 100%, 40%);
+  font-size: 0.7em;
+  position: absolute;
+  margin-left: 0.5em;
+}
+
+#game-1 .left,
+#game-1 .right {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  line-height: 0;
+  padding: 0 0.25em;
+  font-size: 1.5em;
+  flex-shrink: 0;
+}
+
+#game-1 .left {
+  flex-direction: column;
+  inline-size: 45%;
+}
+
+#game-1 .right {
+  flex-direction: row;
+  inline-size: 55%;
+}
+
+#game-1 .answer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+  height: 50%;
+  width: 50%;
+  cursor: pointer;
+  transition: transform 1s;
+}
+
+/* .makeSpace .answer {
+  transition: transform 1s, opacity 0.5s;
+} */
+
+#game-1 .answer div {
+  height: min-content;
+  position: absolute;
+  height: 10%;
+  left: 0;
+  cursor: pointer;
+  font-size: 1em;
+  position: relative;
+  top: 0em;
+  line-height: 1;
+  width: 100%;
+  text-align: center;
+  background: transparent;
+  box-shadow: 0 0 0em 0em transparent;
+  transition: transform 1s, background 0.5s 1s, box-shadow 0.5s 1s;
+  transition: transform 1s, background 0.5s 0s, box-shadow 0.5s 0s;
+}
+
+#game-1 .answer div {
+  font-size: 1.9em;
+  letter-spacing: 0.1em;
+  white-space: nowrap;
+}
+
+#game-1 .answer div:not(.threeChars):not(.fourChars) {
+  margin: 0.2em 0 0.8em;
+}
+
+#game-1 .answer div.threeChars {
+  font-size: 1.45em !important;
+  letter-spacing: 0.1em;
+  margin: 0.3em 0 0.8em;
+}
+
+#game-1 .answer div.fourChars {
+  font-size: 1.2em !important;
+  letter-spacing: 0.1em;
+  margin: 0.4em 0 0.65em;
+}
+
+#game-1 .answer div:nth-child(2) {
+  font-size: 0.7em;
+  width: 90%;
+}
+
+.clicked {
+  text-shadow: 0 0 0.2em gold;
+}
+
+.clicked.wrong {
+  text-shadow: 0 0 0.1em red;
+}
+
+.clicked.rightAnswer {
+  text-shadow: 0 0 0.1em hsla(120, 100%, 38%, 0.7);
+}
+
+.question-1,
+.question-2,
+.question-3,
+.question-4 {
+  width: 95%;
+  height: fit-content;
+  line-height: 1;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+#game-1 .enlarge {
+  transform: scale(2);
+  z-index: 1;
+  transition-delay: .5s;
+}
+
+#game-1 .makeSpace .answer:not(.enlarge) {
+  opacity: 0;
+  transition: opacity 0.5s 0.5s;
+}
+
+#game-opts-2 .title {
+  width: 100%;
+  text-align: center;
+}
+
+#game-opts-2 .buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
+#game-opts-2 .buttons button {
+  margin: 0;
+}
+
+#game-opts-2 .cardSelector img {
+  width: 5em;
+  height: 5em;
+  top: 0.2em;
+  position: relative;
+  margin-left: 3em;
+  border-radius: var(--card-border-radius);
+  cursor: pointer;
+}
+
+.tab-content-3 .score .exitGame {
+  cursor: pointer;
+}
+
+.score .time>span,
+.score .bestTime>span {
+  margin-left: .5em;
+}
+
+/*  
+          Card flipping
+*/
+
+/*  Contains ALL the cards - big container!  */
+#card-container {
+  position: absolute;
+  display: flex;
+  flex-wrap: wrap;
+  block-size: 80%;
+  justify-content: center;
+  align-items: center;
+  inset-block-end: .3em;
+}
+
+#card-container.squares12 {
+  inline-size: 100%;
+  column-gap: .7em;
+}
+
+#card-container.squares18 {
+  inline-size: 25em;
+  column-gap: .5em;
+}
+
+#card-container.squares26 {
+  inline-size: 35em;
+  column-gap: .5em;
+}
+
+/*  Outer container for each individual card container  */
+.flip-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  perspective: 62.5em;
+}
+
+#card-container.squares12 .flip-card {
+  width: 5em;
+  height: 5em;
+}
+
+#card-container.squares18 .flip-card,
+#card-container.squares26 .flip-card {
+  width: 3.35em;
+  height: 3.35em;
+}
+
+.flip-card.show .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card.matched .flip-card-front {
+  background-color: hsl(var(--primary-hue), 64%, 70%);
+  filter: grayscale(1)
+}
+
+/*  Inner container for each card  */
+.flip-card-inner {
+  position: relative;
+  inline-size: 100%;
+  block-size: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: -.3em .3em .4em 0 rgba(0,0,0,0.2);
+  border-radius: var(--card-border-radius);
+}
+
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: var(--card-border-radius);
+  overflow: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: hsl(var(--primary-hue), 64%, 44%);
+  color: white;
+  transform: rotateY(180deg);
+}
+
+.flip-card-back img {
+  width: 100%;
+  height: 100%;
+}
+
+#card-container .square img {
+  width: 100%;
+  height: 100%;
+}
+
+#card-container .square p {
+  text-align: center;
+}
+
+#card-container.squares12 p {
+  font-size: 3em;
+}
+
+#card-container.squares18 p,
+#card-container.squares26 p {
+  font-size: 2.3em;
+  line-height: 1.45;
+}

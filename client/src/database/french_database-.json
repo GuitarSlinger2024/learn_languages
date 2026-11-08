@@ -1,0 +1,204 @@
+[
+  {
+    "phraseId": 1,
+    "eng": "a man",
+    "fren": "un homme",
+    "vocals": [
+      { "clipId": 0, "title": "01_1_Vocabulary_clipId-0-0" },
+      { "clipId": 15, "title": "01_2_Vocabulary_clipId-15-0" },
+      { "clipId": 23, "title": "01_3_Vocabulary_clipId-23-0" },
+      { "clipId": 18, "title": "02_1_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 2,
+    "eng": "a boy",
+    "fren": "un garçon",
+    "vocals": [
+      { "clipId": 1, "title": "01_1_Vocabulary_clipId-1-0" },
+      { "clipId": 13, "title": "01_2_Vocabulary_clipId-13-0" },
+      { "clipId": 4, "title": "01_3_Vocabulary_clipId-4-0" },
+      { "clipId": 0, "title": "01_4_Vocabulary_clipId-0-0" },
+      { "clipId": 16, "title": "02_1_Vocabulary_clipId-16-0" }
+    ]
+  },
+  {
+    "phraseId": 3,
+    "eng": "boys",
+    "fren": "des garçons",
+    "vocals": [
+      { "clipId": 2, "title": "01_1_Vocabulary_clipId-2-0" },
+      { "clipId": 22, "title": "01_2_Vocabulary_clipId-22-0" },
+      { "clipId": 20, "title": "01_3_Vocabulary_clipId-20-0" },
+      { "clipId": 21, "title": "01_4_Vocabulary_clipId-21-0" },
+      { "clipId": 25, "title": "02_1_Vocabulary_clipId-25-0" }
+    ]
+  },
+  {
+    "phraseId": 4,
+    "eng": "a woman",
+    "fren": "une femme",
+    "vocals": [
+      { "clipId": 3, "title": "01_1_Vocabulary_clipId-3-0" },
+      { "clipId": 6, "title": "01_2_Vocabulary_clipId-6-0" },
+      { "clipId": 10, "title": "01_3_Vocabulary_clipId-10-0" },
+      { "clipId": 10, "title": "01_4_Vocabulary_clipId-10-0" },
+      { "clipId": 21, "title": "02_1_Vocabulary_clipId-21-0" }
+    ]
+  },
+  {
+    "phraseId": 5,
+    "eng": "men",
+    "fren": "des hommes",
+    "vocals": [
+      { "clipId": 4, "title": "01_1_Vocabulary_clipId-4-0" },
+      { "clipId": 20, "title": "01_2_Vocabulary_clipId-20-0" },
+      { "clipId": 21, "title": "01_3_Vocabulary_clipId-21-0" }
+    ]
+  },
+  {
+    "phraseId": 6,
+    "eng": "a girl",
+    "fren": "une fille",
+    "vocals": [
+      { "clipId": 5, "title": "01_1_Vocabulary_clipId-5-0" },
+      { "clipId": 10, "title": "01_2_Vocabulary_clipId-10-0" },
+      { "clipId": 5, "title": "01_3_Vocabulary_clipId-5-0" },
+      { "clipId": 14, "title": "01_4_Vocabulary_clipId-14-0" },
+      { "clipId": 19, "title": "02_1_Vocabulary_clipId-19-0" }
+    ]
+  },
+  {
+    "phraseId": 7,
+    "eng": "women",
+    "fren": "des femmes",
+    "vocals": [
+      { "clipId": 6, "title": "01_1_Vocabulary_clipId-6-0" },
+      { "clipId": 14, "title": "01_2_Vocabulary_clipId-14-0" },
+      { "clipId": 6, "title": "01_3_Vocabulary_clipId-6-0" }
+    ]
+  },
+  {
+    "phraseId": 8,
+    "eng": "girls",
+    "fren": "des filles",
+    "vocals": [
+      { "clipId": 7, "title": "01_1_Vocabulary_clipId-7-0" },
+      { "clipId": 12, "title": "01_2_Vocabulary_clipId-12-0" },
+      { "clipId": 17, "title": "01_3_Vocabulary_clipId-17-0" },
+      { "clipId": 12, "title": "02_1_Vocabulary_clipId-12-0" }
+    ]
+  },
+  {
+    "phraseId": 9,
+    "eng": "a sandwich",
+    "fren": "un sandwich",
+    "vocals": [
+      { "clipId": 0, "title": "01_2_Vocabulary_clipId-0-0" },
+      { "clipId": 9, "title": "01_3_Vocabulary_clipId-9-0" }
+    ]
+  },
+  {
+    "phraseId": 10,
+    "eng": "a car",
+    "fren": "une voiture",
+    "vocals": [
+      { "clipId": 1, "title": "01_2_Vocabulary_clipId-1-0" },
+      { "clipId": 16, "title": "01_3_Vocabulary_clipId-16-0" },
+      { "clipId": 27, "title": "01_4_Vocabulary_clipId-27-0" }
+    ]
+  },
+  {
+    "phraseId": 11,
+    "eng": "an egg",
+    "fren": "un œuf",
+    "vocals": [
+      { "clipId": 2, "title": "01_2_Vocabulary_clipId-2-0" },
+      { "clipId": 19, "title": "01_3_Vocabulary_clipId-19-0" },
+      { "clipId": 12, "title": "01_4_Vocabulary_clipId-12-0" }
+    ]
+  },
+  {
+    "phraseId": 12,
+    "eng": "a fish",
+    "fren": "un poisson",
+    "vocals": [
+      { "clipId": 3, "title": "01_2_Vocabulary_clipId-3-0" },
+      { "clipId": 15, "title": "01_3_Vocabulary_clipId-15-0" }
+    ]
+  },
+  {
+    "phraseId": 13,
+    "eng": "a horse",
+    "fren": "un cheval",
+    "vocals": [
+      { "clipId": 4, "title": "01_2_Vocabulary_clipId-4-0" },
+      { "clipId": 24, "title": "01_3_Vocabulary_clipId-24-0" },
+      { "clipId": 6, "title": "02_1_Vocabulary_clipId-6-0" }
+    ]
+  },
+  {
+    "phraseId": 14,
+    "eng": "bread",
+    "fren": "du pain",
+    "vocals": [
+      { "clipId": 5, "title": "01_2_Vocabulary_clipId-5-0" },
+      { "clipId": 2, "title": "01_3_Vocabulary_clipId-2-0" }
+    ]
+  },
+  {
+    "phraseId": 15,
+    "eng": "an apple",
+    "fren": "une pomme",
+    "vocals": [
+      { "clipId": 7, "title": "01_2_Vocabulary_clipId-7-0" },
+      { "clipId": 8, "title": "01_3_Vocabulary_clipId-8-0" }
+    ]
+  },
+  {
+    "phraseId": 16,
+    "eng": "a pen",
+    "fren": "un stylo",
+    "vocals": [
+      { "clipId": 8, "title": "01_2_Vocabulary_clipId-8-0" },
+      { "clipId": 0, "title": "01_3_Vocabulary_clipId-0-0" }
+    ]
+  },
+  {
+    "phraseId": 17,
+    "eng": "a newspaper",
+    "fren": "un journal",
+    "vocals": [
+      { "clipId": 9, "title": "01_2_Vocabulary_clipId-9-0" },
+      { "clipId": 27, "title": "01_3_Vocabulary_clipId-27-0" }
+    ]
+  },
+  {
+    "phraseId": 18,
+    "eng": "coffee",
+    "fren": "du café",
+    "vocals": [
+      { "clipId": 11, "title": "01_2_Vocabulary_clipId-11-0" },
+      { "clipId": 14, "title": "01_3_Vocabulary_clipId-14-0" }
+    ]
+  },
+  {
+    "phraseId": 19,
+    "eng": "milk",
+    "fren": "du lait",
+    "vocals": [
+      { "clipId": 16, "title": "01_2_Vocabulary_clipId-16-0" },
+      { "clipId": 18, "title": "01_3_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 20,
+    "eng": "a dog",
+    "fren": "un chien",
+    "vocals": [
+      { "clipId": 17, "title": "01_2_Vocabulary_clipId-17-0" },
+      { "clipId": 1, "title": "01_3_Vocabulary_clipId-1-0" },
+      { "clipId": 5, "title": "02_1_Vocabulary_clipId-5-0" }
+    ]
+  }
+]

@@ -1,0 +1,340 @@
+/*  
+      Games
+*/
+
+.tab-content-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 0.8em;
+}
+
+.tab-content-3 .gameOption {
+  display: flex;
+}
+
+.tab-content-3 .gameOption button {
+  margin-right: 1em;
+}
+
+#game-opts-1 .numOfChars aj-checkbox {
+  display: inline-block;
+}
+
+#game-opts-1 .numOfChars span {
+  margin-left: 0.4em;
+  color: blue;
+}
+
+#game-opts-1,
+#game-opts-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+#game-opts-1 .title,
+#game-opts-2 .title {
+  text-align: center;
+  margin-bottom: 0.5em;
+}
+
+#game-opts-1 section,
+#game-opts-2 section {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  font-size: 1.2em;
+}
+
+.tab-content-3 .buttons {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+  margin: 2em auto 0;
+}
+
+.tab-content-3 button {
+  font-size: 2em;
+}
+
+.tab-content-3 .left button {
+  font-size: 0.4em;
+  align-self: center;
+}
+
+.tab-content-3 .play {
+  font-size: 2em;
+  align-self: center;
+}
+
+.tab-content-3 .score {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 25%;
+  padding: 0 2em;
+  margin-bottom: 1em;
+  border: 1px #0805 solid;
+}
+
+#card-container,
+#game-1 {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 2em;
+  width: 100%;
+  height: 100%;
+}
+
+#game-1 .right,
+#game-1 .left {
+  height: 100%;
+  width: 50%;
+}
+
+/* #game-1 .left {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+  font-size: 3em;
+  padding: 0 0.2em;
+} */
+
+/* #game-1 .left.chin {
+  font-size: 4em
+} */
+
+/* #game-1 .left .question {
+  text-align: center;
+  display: flex;
+  line-height: 1;
+  flex-direction: column;
+  max-width: 95%;
+} */
+
+#game-1 .left .question {
+  width: 98%;
+  overflow: hidden;
+}
+
+#game-1 .left .question > div {
+  height: min-content;
+  line-height: 1;
+  width: min-content;
+  max-width: 100%;
+  cursor: pointer;
+}
+
+#game-1 .left,
+#game-1 .right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 0 0.25em;
+  font-size: 1.5em;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+}
+
+#game-1 .right.chin {
+  position: relative;
+  font-size: 2em;
+  flex-direction: row;
+  flex-shrink: 0;
+  flex-grow: 0;
+  border-left: 1px solid grey;
+  overflow: hidden;
+  /* 50% is needed when there are 3 chars */
+}
+
+#game-1 .answer {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  cursor: pointer;
+  transition: transform 1s;
+}
+
+#game-1 .answer div {
+  height: min-content;
+  position: absolute;
+  top: -0.2em;
+  left: 0;
+  line-height: 1.1;
+  cursor: pointer;
+  font-size: 1em;
+  position: relative;
+  top: 0em;
+  line-height: 1;
+  width: 100%;
+  text-align: center;
+  background: transparent;
+  /* box-shadow: 0 0 4em 5em transparent; */
+  box-shadow: 0 0 0em 0em transparent;
+  /* transition: transform 1s, background .5s, box-shadow .5s; */
+  transition: transform 1s, background 0.5s 1s, box-shadow 0.5s 1s;
+  transition: transform 1s, background 0.5s 0s, box-shadow 0.5s 0s;
+}
+
+.expand {
+  transition: transform 1s, background 0.5s 0s, box-shadow 0.5s 0s;
+  /* transition: background .5s 0s, box-shadow .5s 0s; */
+  position: absolute;
+  transform: scale(2);
+  box-shadow: 0 0 4em 5em white !important;
+  background: white !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100% !important;
+}
+
+#game-1 .expand .red-flag.icon {
+  transition: opacity 0.5s 1s;
+  opacity: 1;
+}
+
+#game-1 .red-flag.icon {
+  position: absolute;
+  top: auto;
+  bottom: 0;
+  right: 0em;
+  height: min-content;
+  left: auto;
+  line-height: 0;
+  width: 10%;
+  opacity: 0;
+  transition: opacity 0s 0s;
+}
+
+#game-1 .red-flag.icon p {
+  font-size: 0.3rem;
+}
+
+#game-1 .expand .red-flag.icon {
+  transition: opacity 0.5s 1s;
+  opacity: 1;
+}
+
+#game-1 .red-flag img {
+  width: 100%;
+}
+
+/* #game-1 .chin .answer div div {
+} */
+
+.expand div {
+  font-size: 1.2em;
+}
+
+.threeChars {
+  font-size: 0.81em !important;
+}
+
+.fourChars {
+  font-size: 0.71em !important;
+}
+
+.clicked {
+  text-shadow: 0 0 0.2em gold;
+}
+
+.dim {
+  opacity: 0.2;
+}
+
+.pickedAlready {
+  color: rgb(165, 165, 165);
+}
+
+.pickedAlready ~ text {
+  color: rgb(165, 165, 165);
+}
+
+/* .right .threeChars {
+  font-size: 0.81em !important;
+} */
+
+/* .left .threeChars {
+  font-size: .67em !important;
+} */
+
+#game-1 .left .question text,
+#game-1 .answer div text {
+  font-size: 0.55em;
+  text-align: center;
+  display: block;
+  width: 100%;
+  transition: opacity 0.5s;
+}
+
+/*  
+      Game Two
+*/
+
+#card-container {
+  background-color: cyan;
+  flex-wrap: wrap;
+  padding: 0.3em 0;
+  max-height: 8em;
+}
+
+.tab-content-3 {
+  --square-size: 2em;
+  --square-margin-top-bottom: 0.2em;
+  --square-margin-sides: 0.4em;
+}
+
+.square {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: var(--square-size);
+  background: yellow;
+  height: var(--square-size);
+  cursor: pointer;
+  margin: var(--square-margin-top-bottom) var(--square-margin-sides);
+}
+
+.ten .square {
+  width: calc(var(--square-size) * 1.6);
+  height: calc(var(--square-size) * 1.6);
+  margin: calc(var(--square-margin-top-bottom) * 1.5)
+    calc(var(--square-margin-sides) * 1.7);
+}
+
+.square div {
+  transform: scale(1.5);
+  opacity: 0;
+}
+
+.ten .square div {
+  transform: scale(2.5);
+}
+
+.square.show div,
+.square.matched div {
+  opacity: 1;
+}
+.square.matched {
+  background-color: hsl(180, 50%, 50%);
+}
+
+.score .next,
+.score .exitGame {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 650px) {
+  .tab-content-3 main#card-container {
+    font-size: 2.8vw;
+  }
+}

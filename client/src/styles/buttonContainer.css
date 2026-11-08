@@ -1,0 +1,56 @@
+.button-container {
+  display: flex;
+  justify-content: space-around;
+  justify-self: flex-end;
+  position: absolute;
+  inset-block-end: 0;
+  inline-size: 100%;
+  block-size: fit-content;
+  opacity: 1;
+  pointer-events: all;
+  transition: .5s;
+}
+
+.hidePage .button-container {
+  pointer-events: none;
+}
+
+.showingDefs .button-container {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.button-container img {
+  block-size: 1em;
+}
+
+.button-container img:nth-child(1) {
+  display: block;
+}
+
+.button-container.pauseMe img:nth-child(1) {
+  display: none;
+}
+
+.button-container img:nth-child(2) {
+  display: none;
+}
+
+.button-container.pauseMe img:nth-child(2) {
+  display: block;
+  transition: opacity 0.25s;
+}
+
+.blink {
+  animation: blink 0.5s linear forwards infinite;
+}
+
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}

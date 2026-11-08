@@ -1,0 +1,42 @@
+#about-info {
+  overflow: auto;
+  height: 13em;
+}
+
+#about-info p {
+  inline-size: 95%;
+  margin: 0 auto 1em;
+  text-wrap: balance;
+  text-align: left;
+  
+}
+
+#about-info ul {
+  /* block-size: 15em;
+  overflow-y: auto; */
+  padding: 0 2em;
+  margin: 1em 0;
+  font-size: 0.9em;
+}
+
+#about-info .info-heading {
+  text-align: center;
+}
+
+#about-info li {
+  margin: 0.5em 0;
+}
+
+#back-icon-search,
+#about-info #back-icon-info {
+  position: absolute;
+  inline-size: 1.8em;
+  inset-inline-end: 1.75em;
+  inset-block-start: 1.25em;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.small-play-icon {
+  width: 1em;
+}

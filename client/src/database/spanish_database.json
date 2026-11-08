@@ -1,0 +1,1648 @@
+[
+  {
+    "phraseId": 1,
+    "eng": "a man",
+    "span": "un hombre",
+    "vocals": [
+      { "clipId": 0, "title": "01_1_Vocabulary_clipId-0-0" },
+      { "clipId": 6, "title": "01_2_Vocabulary_clipId-6-0" },
+      { "clipId": 17, "title": "01_3_Vocabulary_clipId-17-0" }
+    ]
+  },
+  {
+    "phraseId": 2,
+    "eng": "a boy",
+    "span": "un niño",
+    "vocals": [
+      { "clipId": 1, "title": "01_1_Vocabulary_clipId-1-0" },
+      { "clipId": 2, "title": "01_2_Vocabulary_clipId-2-0" },
+      { "clipId": 5, "title": "01_3_Vocabulary_clipId-5-0" }
+    ]
+  },
+  {
+    "phraseId": 3,
+    "eng": "the children",
+    "span": "los niños",
+    "vocals": [
+      { "clipId": 2, "title": "01_1_Vocabulary_clipId-2-0" },
+      { "clipId": 15, "title": "01_2_Vocabulary_clipId-15-0" },
+      { "clipId": 22, "title": "01_3_Vocabulary_clipId-22-0" }
+    ]
+  },
+  {
+    "phraseId": 4,
+    "eng": "a woman",
+    "span": "una mujer",
+    "vocals": [
+      { "clipId": 3, "title": "01_1_Vocabulary_clipId-3-0" },
+      { "clipId": 0, "title": "01_2_Vocabulary_clipId-0-0" },
+      { "clipId": 18, "title": "01_3_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 5,
+    "eng": "the men",
+    "span": "los hombres",
+    "vocals": [
+      { "clipId": 4, "title": "01_1_Vocabulary_clipId-4-0" },
+      { "clipId": 10, "title": "01_2_Vocabulary_clipId-10-0" },
+      { "clipId": 25, "title": "01_3_Vocabulary_clipId-25-0" }
+    ]
+  },
+  {
+    "phraseId": 6,
+    "eng": "a girl",
+    "span": "una niña",
+    "vocals": [
+      { "clipId": 5, "title": "01_1_Vocabulary_clipId-5-0" },
+      { "clipId": 20, "title": "01_2_Vocabulary_clipId-20-0" },
+      { "clipId": 11, "title": "01_3_Vocabulary_clipId-11-0" },
+      { "clipId": 7, "title": "01_4_Vocabulary_clipId-7-0" }
+    ]
+  },
+  {
+    "phraseId": 7,
+    "eng": "the women",
+    "span": "las mujeres",
+    "vocals": [
+      { "clipId": 6, "title": "01_1_Vocabulary_clipId-6-0" },
+      { "clipId": 16, "title": "01_2_Vocabulary_clipId-16-0" },
+      { "clipId": 4, "title": "01_3_Vocabulary_clipId-4-0" }
+    ]
+  },
+  {
+    "phraseId": 8,
+    "eng": "the girls",
+    "span": "las niñas",
+    "vocals": [
+      { "clipId": 7, "title": "01_1_Vocabulary_clipId-7-0" },
+      { "clipId": 4, "title": "01_2_Vocabulary_clipId-4-0" },
+      { "clipId": 9, "title": "01_3_Vocabulary_clipId-9-0" }
+    ]
+  },
+  {
+    "phraseId": 9,
+    "eng": "a car",
+    "span": "un carro",
+    "vocals": [
+      { "clipId": 1, "title": "01_2_Vocabulary_clipId-1-0" },
+      { "clipId": 12, "title": "01_3_Vocabulary_clipId-12-0" },
+      { "clipId": 17, "title": "01_4_Vocabulary_clipId-17-0" }
+    ]
+  },
+  {
+    "phraseId": 10,
+    "eng": "a dog",
+    "span": "un perro",
+    "vocals": [
+      { "clipId": 3, "title": "01_2_Vocabulary_clipId-3-0" },
+      { "clipId": 14, "title": "01_3_Vocabulary_clipId-14-0" }
+    ]
+  },
+  {
+    "phraseId": 11,
+    "eng": "bread and water",
+    "span": "pan y agua",
+    "vocals": [
+      { "clipId": 5, "title": "01_2_Vocabulary_clipId-5-0" },
+      { "clipId": 3, "title": "01_3_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 12,
+    "eng": "coffee",
+    "span": "café",
+    "vocals": [
+      { "clipId": 7, "title": "01_2_Vocabulary_clipId-7-0" },
+      { "clipId": 15, "title": "01_3_Vocabulary_clipId-15-0" }
+    ]
+  },
+  {
+    "phraseId": 13,
+    "eng": "a horse",
+    "span": "un caballo",
+    "vocals": [
+      { "clipId": 8, "title": "01_2_Vocabulary_clipId-8-0" },
+      { "clipId": 16, "title": "01_3_Vocabulary_clipId-16-0" }
+    ]
+  },
+  {
+    "phraseId": 14,
+    "eng": "a pen",
+    "span": "un bolígrafo",
+    "vocals": [
+      { "clipId": 9, "title": "01_2_Vocabulary_clipId-9-0" },
+      { "clipId": 23, "title": "01_3_Vocabulary_clipId-23-0" }
+    ]
+  },
+  {
+    "phraseId": 15,
+    "eng": "a cat",
+    "span": "un gato",
+    "vocals": [
+      { "clipId": 11, "title": "01_2_Vocabulary_clipId-11-0" },
+      { "clipId": 21, "title": "01_3_Vocabulary_clipId-21-0" }
+    ]
+  },
+  {
+    "phraseId": 16,
+    "eng": "an egg",
+    "span": "un huevo",
+    "vocals": [
+      { "clipId": 12, "title": "01_2_Vocabulary_clipId-12-0" },
+      { "clipId": 27, "title": "01_3_Vocabulary_clipId-27-0" },
+      { "clipId": 26, "title": "01_4_Vocabulary_clipId-26-0" }
+    ]
+  },
+  {
+    "phraseId": 17,
+    "eng": "an apple",
+    "span": "una manzana",
+    "vocals": [
+      { "clipId": 13, "title": "01_2_Vocabulary_clipId-13-0" },
+      { "clipId": 8, "title": "01_3_Vocabulary_clipId-8-0" }
+    ]
+  },
+  {
+    "phraseId": 18,
+    "eng": "bread",
+    "span": "pan",
+    "vocals": [
+      { "clipId": 14, "title": "01_2_Vocabulary_clipId-14-0" },
+      { "clipId": 7, "title": "01_3_Vocabulary_clipId-7-0" }
+    ]
+  },
+  {
+    "phraseId": 19,
+    "eng": "a book",
+    "span": "un libro",
+    "vocals": [
+      { "clipId": 17, "title": "01_2_Vocabulary_clipId-17-0" },
+      { "clipId": 13, "title": "01_3_Vocabulary_clipId-13-0" }
+    ]
+  },
+  {
+    "phraseId": 20,
+    "eng": "milk",
+    "span": "leche",
+    "vocals": [
+      { "clipId": 18, "title": "01_2_Vocabulary_clipId-18-0" },
+      { "clipId": 6, "title": "01_3_Vocabulary_clipId-6-0" }
+    ]
+  },
+  {
+    "phraseId": 21,
+    "eng": "a newspaper",
+    "span": "un periódico",
+    "vocals": [
+      { "clipId": 19, "title": "01_2_Vocabulary_clipId-19-0" },
+      { "clipId": 20, "title": "01_3_Vocabulary_clipId-20-0" }
+    ]
+  },
+  {
+    "phraseId": 22,
+    "eng": "a sandwich",
+    "span": "un sándwich",
+    "vocals": [
+      { "clipId": 21, "title": "01_2_Vocabulary_clipId-21-0" },
+      { "clipId": 2, "title": "01_3_Vocabulary_clipId-2-0" }
+    ]
+  },
+  {
+    "phraseId": 23,
+    "eng": "a bicycle",
+    "span": "una bicicleta",
+    "vocals": [
+      { "clipId": 22, "title": "01_2_Vocabulary_clipId-22-0" },
+      { "clipId": 28, "title": "01_3_Vocabulary_clipId-28-0" }
+    ]
+  },
+  {
+    "phraseId": 24,
+    "eng": "black",
+    "span": "negro",
+    "vocals": [{ "clipId": 0, "title": "01_3_Vocabulary_clipId-0-0" }]
+  },
+  {
+    "phraseId": 25,
+    "eng": "green",
+    "span": "verde",
+    "vocals": [{ "clipId": 1, "title": "01_3_Vocabulary_clipId-1-0" }]
+  },
+  {
+    "phraseId": 26,
+    "eng": "white",
+    "span": "blanco",
+    "vocals": [{ "clipId": 10, "title": "01_3_Vocabulary_clipId-10-0" }]
+  },
+  {
+    "phraseId": 27,
+    "eng": "red",
+    "span": "rojo",
+    "vocals": [{ "clipId": 19, "title": "01_3_Vocabulary_clipId-19-0" }]
+  },
+  {
+    "phraseId": 28,
+    "eng": "blue",
+    "span": "azul",
+    "vocals": [{ "clipId": 24, "title": "01_3_Vocabulary_clipId-24-0" }]
+  },
+  {
+    "phraseId": 29,
+    "eng": "yellow",
+    "span": "amarillo",
+    "vocals": [{ "clipId": 26, "title": "01_3_Vocabulary_clipId-26-0" }]
+  },
+  {
+    "phraseId": 30,
+    "eng": "a dress",
+    "span": "un vestido",
+    "vocals": [{ "clipId": 0, "title": "01_4_Vocabulary_clipId-0-0" }]
+  },
+  {
+    "phraseId": 31,
+    "eng": "a blue shirt",
+    "span": "una camisa azul",
+    "vocals": [{ "clipId": 1, "title": "01_4_Vocabulary_clipId-1-0" }]
+  },
+  {
+    "phraseId": 32,
+    "eng": "a coat",
+    "span": "un abrigo",
+    "vocals": [{ "clipId": 2, "title": "01_4_Vocabulary_clipId-2-0" }]
+  },
+  {
+    "phraseId": 33,
+    "eng": "two pens",
+    "span": "dos bolígrafos",
+    "vocals": [{ "clipId": 3, "title": "01_4_Vocabulary_clipId-3-0" }]
+  },
+  {
+    "phraseId": 34,
+    "eng": "a shirt",
+    "span": "una camisa",
+    "vocals": [{ "clipId": 4, "title": "01_4_Vocabulary_clipId-4-0" }]
+  },
+  {
+    "phraseId": 35,
+    "eng": "one (1)",
+    "span": "uno",
+    "vocals": [{ "clipId": 5, "title": "01_4_Vocabulary_clipId-5-0" }]
+  },
+  {
+    "phraseId": 36,
+    "eng": "four children",
+    "span": "cuatro niños",
+    "vocals": [{ "clipId": 6, "title": "01_4_Vocabulary_clipId-6-0" }]
+  },
+  {
+    "phraseId": 37,
+    "eng": "a green T-shirt",
+    "span": "una camiseta verde",
+    "vocals": [{ "clipId": 8, "title": "01_4_Vocabulary_clipId-8-0" }]
+  },
+  {
+    "phraseId": 38,
+    "eng": "five (5)",
+    "span": "cinco",
+    "vocals": [{ "clipId": 9, "title": "01_4_Vocabulary_clipId-9-0" }]
+  },
+  {
+    "phraseId": 39,
+    "eng": "two (2)",
+    "span": "dos",
+    "vocals": [{ "clipId": 10, "title": "01_4_Vocabulary_clipId-10-0" }]
+  },
+  {
+    "phraseId": 40,
+    "eng": "a red shirt",
+    "span": "una camisa roja",
+    "vocals": [{ "clipId": 11, "title": "01_4_Vocabulary_clipId-11-0" }]
+  },
+  {
+    "phraseId": 41,
+    "eng": "six apples",
+    "span": "seis manzanas",
+    "vocals": [{ "clipId": 12, "title": "01_4_Vocabulary_clipId-12-0" }]
+  },
+  {
+    "phraseId": 42,
+    "eng": "four men",
+    "span": "cuatro hombres",
+    "vocals": [{ "clipId": 13, "title": "01_4_Vocabulary_clipId-13-0" }]
+  },
+  {
+    "phraseId": 43,
+    "eng": "three cats",
+    "span": "tres gatos",
+    "vocals": [{ "clipId": 14, "title": "01_4_Vocabulary_clipId-14-0" }]
+  },
+  {
+    "phraseId": 44,
+    "eng": "shoes",
+    "span": "zapatos",
+    "vocals": [{ "clipId": 15, "title": "01_4_Vocabulary_clipId-15-0" }]
+  },
+  {
+    "phraseId": 45,
+    "eng": "three bicycles",
+    "span": "tres bicicletas",
+    "vocals": [{ "clipId": 16, "title": "01_4_Vocabulary_clipId-16-0" }]
+  },
+  {
+    "phraseId": 46,
+    "eng": "three (3)",
+    "span": "tres",
+    "vocals": [{ "clipId": 18, "title": "01_4_Vocabulary_clipId-18-0" }]
+  },
+  {
+    "phraseId": 47,
+    "eng": "four (4)",
+    "span": "cuatro",
+    "vocals": [{ "clipId": 19, "title": "01_4_Vocabulary_clipId-19-0" }]
+  },
+  {
+    "phraseId": 48,
+    "eng": "five books",
+    "span": "cinco libros",
+    "vocals": [{ "clipId": 20, "title": "01_4_Vocabulary_clipId-20-0" }]
+  },
+  {
+    "phraseId": 49,
+    "eng": "a skirt",
+    "span": "una falda",
+    "vocals": [{ "clipId": 21, "title": "01_4_Vocabulary_clipId-21-0" }]
+  },
+  {
+    "phraseId": 50,
+    "eng": "two dogs",
+    "span": "dos perros",
+    "vocals": [{ "clipId": 22, "title": "01_4_Vocabulary_clipId-22-0" }]
+  },
+  {
+    "phraseId": 51,
+    "eng": "pants",
+    "span": "pantalones",
+    "vocals": [{ "clipId": 23, "title": "01_4_Vocabulary_clipId-23-0" }]
+  },
+  {
+    "phraseId": 52,
+    "eng": "five newspapers",
+    "span": "cinco periódicos",
+    "vocals": [{ "clipId": 24, "title": "01_4_Vocabulary_clipId-24-0" }]
+  },
+  {
+    "phraseId": 53,
+    "eng": "six girls",
+    "span": "seis niñas",
+    "vocals": [{ "clipId": 25, "title": "01_4_Vocabulary_clipId-25-0" }]
+  },
+  {
+    "phraseId": 54,
+    "eng": "six (6)",
+    "span": "seis",
+    "vocals": [{ "clipId": 27, "title": "01_4_Vocabulary_clipId-27-0" }]
+  },
+  {
+    "phraseId": 55,
+    "eng": "the woman-baby",
+    "span": "la mujer bebé",
+    "vocals": [{ "clipId": 0, "title": "01_1_Phrases_clipId-0-0" }]
+  },
+  {
+    "phraseId": 56,
+    "eng": "The woman is eating.",
+    "span": "La mujer come",
+    "vocals": [{ "clipId": 1, "title": "01_1_Phrases_clipId-1-0" }]
+  },
+  {
+    "phraseId": 57,
+    "eng": "The man is eating.",
+    "span": "el hombre come",
+    "vocals": [{ "clipId": 2, "title": "01_1_Phrases_clipId-2-0" }]
+  },
+  {
+    "phraseId": 58,
+    "eng": "the baby girl",
+    "span": "la niña bebé",
+    "vocals": [{ "clipId": 3, "title": "01_1_Phrases_clipId-3-0" }]
+  },
+  {
+    "phraseId": 59,
+    "eng": "the baby man",
+    "span": "el hombre bebé",
+    "vocals": [{ "clipId": 4, "title": "01_1_Phrases_clipId-4-0" }]
+  },
+  {
+    "phraseId": 60,
+    "eng": "The girl is eating.",
+    "span": "la niña come",
+    "vocals": [{ "clipId": 5, "title": "01_1_Phrases_clipId-5-0" }]
+  },
+  {
+    "phraseId": 61,
+    "eng": "The girl is running.",
+    "span": "la niña corre",
+    "vocals": [
+      { "clipId": 6, "title": "01_1_Phrases_clipId-6-0" },
+      { "clipId": 13, "title": "01_2_Phrases_clipId-13-0" }
+    ]
+  },
+  {
+    "phraseId": 62,
+    "eng": "The man is running.",
+    "span": "el hombre corre",
+    "vocals": [
+      { "clipId": 7, "title": "01_1_Phrases_clipId-7-0" },
+      { "clipId": 11, "title": "01_2_Phrases_clipId-11-0" }
+    ]
+  },
+  {
+    "phraseId": 63,
+    "eng": "The woman is running.",
+    "span": "la mujer corre",
+    "vocals": [{ "clipId": 8, "title": "01_1_Phrases_clipId-8-0" }]
+  },
+  {
+    "phraseId": 64,
+    "eng": "The man is reading.",
+    "span": "el hombre Lee",
+    "vocals": [{ "clipId": 9, "title": "01_1_Phrases_clipId-9-0" }]
+  },
+  {
+    "phraseId": 65,
+    "eng": "The woman is reading",
+    "span": "La mujer lee",
+    "vocals": [{ "clipId": 10, "title": "01_1_Phrases_clipId-10-0" }]
+  },
+  {
+    "phraseId": 66,
+    "eng": "The boy is running.",
+    "span": "el niño corre",
+    "vocals": [{ "clipId": 11, "title": "01_1_Phrases_clipId-11-0" }]
+  },
+  {
+    "phraseId": 67,
+    "eng": "The boy is eating.",
+    "span": "El niño come",
+    "vocals": [{ "clipId": 12, "title": "01_1_Phrases_clipId-12-0" }]
+  },
+  {
+    "phraseId": 68,
+    "eng": "the baby boy",
+    "span": "el niño bebé",
+    "vocals": [{ "clipId": 13, "title": "01_1_Phrases_clipId-13-0" }]
+  },
+  {
+    "phraseId": 69,
+    "eng": "The boy is reading.",
+    "span": "el niño Lee",
+    "vocals": [{ "clipId": 14, "title": "01_1_Phrases_clipId-14-0" }]
+  },
+  {
+    "phraseId": 70,
+    "eng": "The girls are drinking.",
+    "span": "Las niñas beben",
+    "vocals": [{ "clipId": 15, "title": "01_1_Phrases_clipId-15-0" }]
+  },
+  {
+    "phraseId": 71,
+    "eng": "The children are eating.",
+    "span": "los niños comen",
+    "vocals": [{ "clipId": 16, "title": "01_1_Phrases_clipId-16-0" }]
+  },
+  {
+    "phraseId": 72,
+    "eng": "The girls are running.",
+    "span": "las niñas corren",
+    "vocals": [{ "clipId": 17, "title": "01_1_Phrases_clipId-17-0" }]
+  },
+  {
+    "phraseId": 73,
+    "eng": "The men are drinking.",
+    "span": "los hombres beben",
+    "vocals": [{ "clipId": 18, "title": "01_1_Phrases_clipId-18-0" }]
+  },
+  {
+    "phraseId": 74,
+    "eng": "The children are reading.",
+    "span": "los niños leen",
+    "vocals": [{ "clipId": 19, "title": "01_1_Phrases_clipId-19-0" }]
+  },
+  {
+    "phraseId": 75,
+    "eng": "The women are eating.",
+    "span": "las mujeres comen",
+    "vocals": [{ "clipId": 20, "title": "01_1_Phrases_clipId-20-0" }]
+  },
+  {
+    "phraseId": 76,
+    "eng": "The girl is reading.",
+    "span": "la niña Lee",
+    "vocals": [{ "clipId": 21, "title": "01_1_Phrases_clipId-21-0" }]
+  },
+  {
+    "phraseId": 77,
+    "eng": "The women are reading.",
+    "span": "las mujeres leen",
+    "vocals": [{ "clipId": 22, "title": "01_1_Phrases_clipId-22-0" }]
+  },
+  {
+    "phraseId": 78,
+    "eng": "The girls are reading.",
+    "span": "las niñas leen",
+    "vocals": [{ "clipId": 23, "title": "01_1_Phrases_clipId-23-0" }]
+  },
+  {
+    "phraseId": 79,
+    "eng": "He is running.",
+    "span": "él corre",
+    "vocals": [{ "clipId": 24, "title": "01_1_Phrases_clipId-24-0" }]
+  },
+  {
+    "phraseId": 80,
+    "eng": "He is eating.",
+    "span": "Él come",
+    "vocals": [{ "clipId": 25, "title": "01_1_Phrases_clipId-25-0" }]
+  },
+  {
+    "phraseId": 81,
+    "eng": "She is drinking.",
+    "span": "ella bebé",
+    "vocals": [{ "clipId": 26, "title": "01_1_Phrases_clipId-26-0" }]
+  },
+  {
+    "phraseId": 82,
+    "eng": "They are eating.",
+    "span": "ellas comen",
+    "vocals": [{ "clipId": 27, "title": "01_1_Phrases_clipId-27-0" }]
+  },
+  {
+    "phraseId": 83,
+    "eng": "They are reading.",
+    "span": "ellos leen",
+    "vocals": [
+      { "clipId": 28, "title": "01_1_Phrases_clipId-28-0" },
+      { "clipId": 26, "title": "01_2_Phrases_clipId-26-0" }
+    ]
+  },
+  {
+    "phraseId": 84,
+    "eng": "She is running.",
+    "span": "ella corre",
+    "vocals": [{ "clipId": 29, "title": "01_1_Phrases_clipId-29-0" }]
+  },
+  {
+    "phraseId": 85,
+    "eng": "They are running.",
+    "span": "ellas corren",
+    "vocals": [{ "clipId": 30, "title": "01_1_Phrases_clipId-30-0" }]
+  },
+  {
+    "phraseId": 86,
+    "eng": "She is cooking.",
+    "span": "ella cocina",
+    "vocals": [{ "clipId": 31, "title": "01_1_Phrases_clipId-31-0" }]
+  },
+  {
+    "phraseId": 87,
+    "eng": "They are cooking.",
+    "span": "ellos cocinan",
+    "vocals": [{ "clipId": 32, "title": "01_1_Phrases_clipId-32-0" }]
+  },
+  {
+    "phraseId": 88,
+    "eng": "The children are swimming.",
+    "span": "los niños nadan",
+    "vocals": [
+      { "clipId": 33, "title": "01_1_Phrases_clipId-33-0" },
+      { "clipId": 31, "title": "01_2_Phrases_clipId-31-0" }
+    ]
+  },
+  {
+    "phraseId": 89,
+    "eng": "The girl is swimming.",
+    "span": "la niña nada",
+    "vocals": [{ "clipId": 34, "title": "01_1_Phrases_clipId-34-0" }]
+  },
+  {
+    "phraseId": 90,
+    "eng": "The man is swimming.",
+    "span": "el hombre nada",
+    "vocals": [{ "clipId": 35, "title": "01_1_Phrases_clipId-35-0" }]
+  },
+  {
+    "phraseId": 91,
+    "eng": "The women are swimming.",
+    "span": "las mujeres nadan",
+    "vocals": [{ "clipId": 36, "title": "01_1_Phrases_clipId-36-0" }]
+  },
+  {
+    "phraseId": 92,
+    "eng": "The man is cooking.",
+    "span": "el hombre cocina",
+    "vocals": [{ "clipId": 37, "title": "01_1_Phrases_clipId-37-0" }]
+  },
+  {
+    "phraseId": 93,
+    "eng": "The men are cooking.",
+    "span": "los hombres cocinan",
+    "vocals": [{ "clipId": 38, "title": "01_1_Phrases_clipId-38-0" }]
+  },
+  {
+    "phraseId": 94,
+    "eng": "The men are eating.",
+    "span": "los hombres comen",
+    "vocals": [{ "clipId": 39, "title": "01_1_Phrases_clipId-39-0" }]
+  },
+  {
+    "phraseId": 95,
+    "eng": "He is swimming.",
+    "span": "él nada",
+    "vocals": [{ "clipId": 40, "title": "01_1_Phrases_clipId-40-0" }]
+  },
+  {
+    "phraseId": 96,
+    "eng": "He is cooking.",
+    "span": "Él cocina",
+    "vocals": [{ "clipId": 41, "title": "01_1_Phrases_clipId-41-0" }]
+  },
+  {
+    "phraseId": 97,
+    "eng": "He is writing.",
+    "span": "él escribe",
+    "vocals": [{ "clipId": 42, "title": "01_1_Phrases_clipId-42-0" }]
+  },
+  {
+    "phraseId": 98,
+    "eng": "They are writing.",
+    "span": "ellos escriben",
+    "vocals": [{ "clipId": 43, "title": "01_1_Phrases_clipId-43-0" }]
+  },
+  {
+    "phraseId": 99,
+    "eng": "They are eating.",
+    "span": "ellos comen",
+    "vocals": [{ "clipId": 44, "title": "01_1_Phrases_clipId-44-0" }]
+  },
+  {
+    "phraseId": 100,
+    "eng": "They are cooking.",
+    "span": "ellas cocinan",
+    "vocals": [{ "clipId": 45, "title": "01_1_Phrases_clipId-45-0" }]
+  },
+  {
+    "phraseId": 101,
+    "eng": "They are swimming.",
+    "span": "ellos nadan",
+    "vocals": [
+      { "clipId": 46, "title": "01_1_Phrases_clipId-46-0" },
+      { "clipId": 25, "title": "01_2_Phrases_clipId-25-0" }
+    ]
+  },
+  {
+    "phraseId": 102,
+    "eng": "They are writing to each other.",
+    "span": "ella se escriben",
+    "vocals": [{ "clipId": 47, "title": "01_1_Phrases_clipId-47-0" }]
+  },
+  {
+    "phraseId": 103,
+    "eng": "The girls are writing.",
+    "span": "las niñas escriben",
+    "vocals": [{ "clipId": 48, "title": "01_1_Phrases_clipId-48-0" }]
+  },
+  {
+    "phraseId": 104,
+    "eng": "The girl is writing.",
+    "span": "la niña escribe",
+    "vocals": [{ "clipId": 49, "title": "01_1_Phrases_clipId-49-0" }]
+  },
+  {
+    "phraseId": 105,
+    "eng": "She is writing.",
+    "span": "ella escribe",
+    "vocals": [{ "clipId": 50, "title": "01_1_Phrases_clipId-50-0" }]
+  },
+  {
+    "phraseId": 106,
+    "eng": "She is eating.",
+    "span": "ella come",
+    "vocals": [{ "clipId": 51, "title": "01_1_Phrases_clipId-51-0" }]
+  },
+  {
+    "phraseId": 107,
+    "eng": "the baby",
+    "span": "el bebé",
+    "vocals": [{ "clipId": 52, "title": "01_1_Phrases_clipId-52-0" }]
+  },
+  {
+    "phraseId": 108,
+    "eng": "a girl and a woman",
+    "span": "una niña y una mujer",
+    "vocals": [{ "clipId": 0, "title": "01_2_Phrases_clipId-0-0" }]
+  },
+  {
+    "phraseId": 109,
+    "eng": "a boy and a man",
+    "span": "un niño y un hombre",
+    "vocals": [{ "clipId": 1, "title": "01_2_Phrases_clipId-1-0" }]
+  },
+  {
+    "phraseId": 110,
+    "eng": "a sandwich and milk",
+    "span": "un sándwich y leche",
+    "vocals": [{ "clipId": 2, "title": "01_2_Phrases_clipId-2-0" }]
+  },
+  {
+    "phraseId": 111,
+    "eng": "She is eating an apple.",
+    "span": "ella come una manzana",
+    "vocals": [{ "clipId": 3, "title": "01_2_Phrases_clipId-3-0" }]
+  },
+  {
+    "phraseId": 112,
+    "eng": "They are eating eggs.",
+    "span": "ellos comen huevos",
+    "vocals": [{ "clipId": 4, "title": "01_2_Phrases_clipId-4-0" }]
+  },
+  {
+    "phraseId": 113,
+    "eng": "They are eating sandwiches.",
+    "span": "ellos comen sándwiches",
+    "vocals": [{ "clipId": 5, "title": "01_2_Phrases_clipId-5-0" }]
+  },
+  {
+    "phraseId": 114,
+    "eng": "He is eating rice.",
+    "span": "Él come arroz",
+    "vocals": [{ "clipId": 6, "title": "01_2_Phrases_clipId-6-0" }]
+  },
+  {
+    "phraseId": 115,
+    "eng": "She is drinking water.",
+    "span": "ella bebe agua",
+    "vocals": [{ "clipId": 7, "title": "01_2_Phrases_clipId-7-0" }]
+  },
+  {
+    "phraseId": 116,
+    "eng": "The man is driving a car.",
+    "span": "el hombre maneja un carro",
+    "vocals": [{ "clipId": 8, "title": "01_2_Phrases_clipId-8-0" }]
+  },
+  {
+    "phraseId": 117,
+    "eng": "The woman is driving a car.",
+    "span": "la mujer maneja un carro",
+    "vocals": [{ "clipId": 9, "title": "01_2_Phrases_clipId-9-0" }]
+  },
+  {
+    "phraseId": 118,
+    "eng": "The girl is walking.",
+    "span": "la niña camina",
+    "vocals": [{ "clipId": 10, "title": "01_2_Phrases_clipId-10-0" }]
+  },
+  {
+    "phraseId": 119,
+    "eng": "The woman is walking.",
+    "span": "la mujer camina",
+    "vocals": [{ "clipId": 12, "title": "01_2_Phrases_clipId-12-0" }]
+  },
+  {
+    "phraseId": 120,
+    "eng": "The boy is walking.",
+    "span": "el niño camina",
+    "vocals": [{ "clipId": 14, "title": "01_2_Phrases_clipId-14-0" }]
+  },
+  {
+    "phraseId": 121,
+    "eng": "He has a cat.",
+    "span": "él tiene un gato",
+    "vocals": [{ "clipId": 15, "title": "01_2_Phrases_clipId-15-0" }]
+  },
+  {
+    "phraseId": 122,
+    "eng": "She has a dog.",
+    "span": "ella tiene un perro",
+    "vocals": [{ "clipId": 16, "title": "01_2_Phrases_clipId-16-0" }]
+  },
+  {
+    "phraseId": 123,
+    "eng": "They have a newspaper.",
+    "span": "Ellos tienen un periódico",
+    "vocals": [{ "clipId": 17, "title": "01_2_Phrases_clipId-17-0" }]
+  },
+  {
+    "phraseId": 124,
+    "eng": "He has a car.",
+    "span": "él tiene un carro",
+    "vocals": [{ "clipId": 18, "title": "01_2_Phrases_clipId-18-0" }]
+  },
+  {
+    "phraseId": 125,
+    "eng": "She has sandwiches.",
+    "span": "ella tiene sándwiches",
+    "vocals": [{ "clipId": 19, "title": "01_2_Phrases_clipId-19-0" }]
+  },
+  {
+    "phraseId": 126,
+    "eng": "They have a horse.",
+    "span": "Ellas tienen un caballo",
+    "vocals": [{ "clipId": 20, "title": "01_2_Phrases_clipId-20-0" }]
+  },
+  {
+    "phraseId": 127,
+    "eng": "The fish is swimming.",
+    "span": "el pez nada",
+    "vocals": [{ "clipId": 21, "title": "01_2_Phrases_clipId-21-0" }]
+  },
+  {
+    "phraseId": 128,
+    "eng": "The cat is sleeping.",
+    "span": "el gato duerme",
+    "vocals": [{ "clipId": 22, "title": "01_2_Phrases_clipId-22-0" }]
+  },
+  {
+    "phraseId": 129,
+    "eng": "The dog eating.",
+    "span": "el perro come",
+    "vocals": [{ "clipId": 23, "title": "01_2_Phrases_clipId-23-0" }]
+  },
+  {
+    "phraseId": 130,
+    "eng": "The horse is running.",
+    "span": "el caballo corre",
+    "vocals": [{ "clipId": 24, "title": "01_2_Phrases_clipId-24-0" }]
+  },
+  {
+    "phraseId": 131,
+    "eng": "They are walking.",
+    "span": "ellos caminan",
+    "vocals": [{ "clipId": 27, "title": "01_2_Phrases_clipId-27-0" }]
+  },
+  {
+    "phraseId": 132,
+    "eng": "They are sleeping.",
+    "span": "ellas duermen",
+    "vocals": [{ "clipId": 28, "title": "01_2_Phrases_clipId-28-0" }]
+  },
+  {
+    "phraseId": 133,
+    "eng": "The children are drinking.",
+    "span": "los niños beben",
+    "vocals": [{ "clipId": 29, "title": "01_2_Phrases_clipId-29-0" }]
+  },
+  {
+    "phraseId": 134,
+    "eng": "The adults are eating.",
+    "span": "los adultos comen",
+    "vocals": [{ "clipId": 30, "title": "01_2_Phrases_clipId-30-0" }]
+  },
+  {
+    "phraseId": 135,
+    "eng": "The the adults are running.",
+    "span": "los adultos corren",
+    "vocals": [{ "clipId": 32, "title": "01_2_Phrases_clipId-32-0" }]
+  },
+  {
+    "phraseId": 136,
+    "eng": "The children are running.",
+    "span": "los niños corren",
+    "vocals": [{ "clipId": 33, "title": "01_2_Phrases_clipId-33-0" }]
+  },
+  {
+    "phraseId": 137,
+    "eng": "The adult is reading.",
+    "span": "el adulto Lee",
+    "vocals": [{ "clipId": 34, "title": "01_2_Phrases_clipId-34-0" }]
+  },
+  {
+    "phraseId": 138,
+    "eng": "The adults are reading.",
+    "span": "los adultos leen",
+    "vocals": [{ "clipId": 35, "title": "01_2_Phrases_clipId-35-0" }]
+  },
+  {
+    "phraseId": 139,
+    "eng": "The man is driving.",
+    "span": "el hombre maneja",
+    "vocals": [{ "clipId": 36, "title": "01_2_Phrases_clipId-36-0" }]
+  },
+  {
+    "phraseId": 140,
+    "eng": "The boy is not driving.",
+    "span": "el niño no maneja",
+    "vocals": [{ "clipId": 37, "title": "01_2_Phrases_clipId-37-0" }]
+  },
+  {
+    "phraseId": 141,
+    "eng": "The woman is driving.",
+    "span": "la mujer maneja",
+    "vocals": [{ "clipId": 38, "title": "01_2_Phrases_clipId-38-0" }]
+  },
+  {
+    "phraseId": 142,
+    "eng": "The girl is not driving.",
+    "span": "la niña no maneja",
+    "vocals": [{ "clipId": 39, "title": "01_2_Phrases_clipId-39-0" }]
+  },
+  {
+    "phraseId": 143,
+    "eng": "They are not swimming.",
+    "span": "ellos no nadan",
+    "vocals": [{ "clipId": 40, "title": "01_2_Phrases_clipId-40-0" }]
+  },
+  {
+    "phraseId": 144,
+    "eng": "He is sleeping.",
+    "span": "Él duerme",
+    "vocals": [
+      { "clipId": 41, "title": "01_2_Phrases_clipId-41-0" },
+      { "clipId": 1, "title": "01_2_Speaking_clipId-1-0" }
+    ]
+  },
+  {
+    "phraseId": 145,
+    "eng": "He is not sleeping.",
+    "span": "el no duerme",
+    "vocals": [{ "clipId": 42, "title": "01_2_Phrases_clipId-42-0" }]
+  },
+  {
+    "phraseId": 146,
+    "eng": "Milk is white.",
+    "span": "la leche es blanca",
+    "vocals": [{ "clipId": 0, "title": "01_3_Phrases_clipId-0-0" }]
+  },
+  {
+    "phraseId": 147,
+    "eng": "The rice is white.",
+    "span": "el arroz es blanco",
+    "vocals": [{ "clipId": 1, "title": "01_3_Phrases_clipId-1-0" }]
+  },
+  {
+    "phraseId": 148,
+    "eng": "The car is green.",
+    "span": "el carro es verde",
+    "vocals": [{ "clipId": 2, "title": "01_3_Phrases_clipId-2-0" }]
+  },
+  {
+    "phraseId": 149,
+    "eng": "The apple is green.",
+    "span": "La manzana es verde",
+    "vocals": [{ "clipId": 3, "title": "01_3_Phrases_clipId-3-0" }]
+  },
+  {
+    "phraseId": 150,
+    "eng": "The bicycle is green.",
+    "span": "la bicicleta es verde",
+    "vocals": [{ "clipId": 4, "title": "01_3_Phrases_clipId-4-0" }]
+  },
+  {
+    "phraseId": 151,
+    "eng": "The car is red.",
+    "span": "el carro es rojo",
+    "vocals": [{ "clipId": 5, "title": "01_3_Phrases_clipId-5-0" }]
+  },
+  {
+    "phraseId": 152,
+    "eng": "The cars are red.",
+    "span": "los carros son rojos",
+    "vocals": [{ "clipId": 6, "title": "01_3_Phrases_clipId-6-0" }]
+  },
+  {
+    "phraseId": 153,
+    "eng": "The cats are black.",
+    "span": "los gatos son negros",
+    "vocals": [{ "clipId": 7, "title": "01_3_Phrases_clipId-7-0" }]
+  },
+  {
+    "phraseId": 154,
+    "eng": "It is red.",
+    "span": "es roja",
+    "vocals": [{ "clipId": 8, "title": "01_3_Phrases_clipId-8-0" }]
+  },
+  {
+    "phraseId": 155,
+    "eng": "It is blue.",
+    "span": "es azul",
+    "vocals": [{ "clipId": 9, "title": "01_3_Phrases_clipId-9-0" }]
+  },
+  {
+    "phraseId": 156,
+    "eng": "It is black.",
+    "span": "es negro",
+    "vocals": [{ "clipId": 10, "title": "01_3_Phrases_clipId-10-0" }]
+  },
+  {
+    "phraseId": 157,
+    "eng": "It is white.",
+    "span": "es blanco",
+    "vocals": [{ "clipId": 11, "title": "01_3_Phrases_clipId-11-0" }]
+  },
+  {
+    "phraseId": 158,
+    "eng": "It is green.",
+    "span": "es verde",
+    "vocals": [{ "clipId": 12, "title": "01_3_Phrases_clipId-12-0" }]
+  },
+  {
+    "phraseId": 159,
+    "eng": "It is red.",
+    "span": "es rojo",
+    "vocals": [{ "clipId": 13, "title": "01_3_Phrases_clipId-13-0" }]
+  },
+  {
+    "phraseId": 160,
+    "eng": "They are white",
+    "span": "son blancos",
+    "vocals": [{ "clipId": 14, "title": "01_3_Phrases_clipId-14-0" }]
+  },
+  {
+    "phraseId": 161,
+    "eng": "It is yellow.",
+    "span": "es amarillo",
+    "vocals": [{ "clipId": 15, "title": "01_3_Phrases_clipId-15-0" }]
+  },
+  {
+    "phraseId": 162,
+    "eng": "They are green.",
+    "span": "son verdes",
+    "vocals": [{ "clipId": 16, "title": "01_3_Phrases_clipId-16-0" }]
+  },
+  {
+    "phraseId": 163,
+    "eng": "It is black and white.",
+    "span": "es blanco y negro",
+    "vocals": [{ "clipId": 17, "title": "01_3_Phrases_clipId-17-0" }]
+  },
+  {
+    "phraseId": 164,
+    "eng": "They are red.",
+    "span": "son rojas",
+    "vocals": [{ "clipId": 18, "title": "01_3_Phrases_clipId-18-0" }]
+  },
+  {
+    "phraseId": 165,
+    "eng": "It is blue and green.",
+    "span": "es azul y verde",
+    "vocals": [{ "clipId": 19, "title": "01_3_Phrases_clipId-19-0" }]
+  },
+  {
+    "phraseId": 166,
+    "eng": "The dog is black.",
+    "span": "el perro es negro",
+    "vocals": [{ "clipId": 20, "title": "01_3_Phrases_clipId-20-0" }]
+  },
+  {
+    "phraseId": 167,
+    "eng": "The dog is white.",
+    "span": "el perro es blanco",
+    "vocals": [{ "clipId": 21, "title": "01_3_Phrases_clipId-21-0" }]
+  },
+  {
+    "phraseId": 168,
+    "eng": "The cat is black.",
+    "span": "el gato es negro",
+    "vocals": [{ "clipId": 22, "title": "01_3_Phrases_clipId-22-0" }]
+  },
+  {
+    "phraseId": 169,
+    "eng": "The cat is white.",
+    "span": "el gato es blanco",
+    "vocals": [{ "clipId": 23, "title": "01_3_Phrases_clipId-23-0" }]
+  },
+  {
+    "phraseId": 170,
+    "eng": "The sky is blue.",
+    "span": "el cielo es azul",
+    "vocals": [{ "clipId": 24, "title": "01_3_Phrases_clipId-24-0" }]
+  },
+  {
+    "phraseId": 171,
+    "eng": "The sun is yellow.",
+    "span": "el sol es amarillo",
+    "vocals": [{ "clipId": 25, "title": "01_3_Phrases_clipId-25-0" }]
+  },
+  {
+    "phraseId": 172,
+    "eng": "The flower is red.",
+    "span": "la flor es roja",
+    "vocals": [{ "clipId": 26, "title": "01_3_Phrases_clipId-26-0" }]
+  },
+  {
+    "phraseId": 173,
+    "eng": "The moon is white.",
+    "span": "la luna es blanca",
+    "vocals": [{ "clipId": 27, "title": "01_3_Phrases_clipId-27-0" }]
+  },
+  {
+    "phraseId": 174,
+    "eng": "The car is white.",
+    "span": "el carro es blanco",
+    "vocals": [{ "clipId": 28, "title": "01_3_Phrases_clipId-28-0" }]
+  },
+  {
+    "phraseId": 175,
+    "eng": "The grass is green.",
+    "span": "el pasto es verde",
+    "vocals": [{ "clipId": 29, "title": "01_3_Phrases_clipId-29-0" }]
+  },
+  {
+    "phraseId": 176,
+    "eng": "The ball is green.",
+    "span": "la pelota es verde",
+    "vocals": [{ "clipId": 30, "title": "01_3_Phrases_clipId-30-0" }]
+  },
+  {
+    "phraseId": 177,
+    "eng": "The flower is small.",
+    "span": "la flor es pequeña",
+    "vocals": [{ "clipId": 31, "title": "01_3_Phrases_clipId-31-0" }]
+  },
+  {
+    "phraseId": 178,
+    "eng": "The egg is small.",
+    "span": "el huevo es pequeño",
+    "vocals": [{ "clipId": 32, "title": "01_3_Phrases_clipId-32-0" }]
+  },
+  {
+    "phraseId": 179,
+    "eng": "The eggs are small.",
+    "span": "los huevos son pequeños",
+    "vocals": [{ "clipId": 33, "title": "01_3_Phrases_clipId-33-0" }]
+  },
+  {
+    "phraseId": 180,
+    "eng": "The dog is big.",
+    "span": "el perro es grande",
+    "vocals": [{ "clipId": 34, "title": "01_3_Phrases_clipId-34-0" }]
+  },
+  {
+    "phraseId": 181,
+    "eng": "The dog is small.",
+    "span": "el perro es pequeño",
+    "vocals": [{ "clipId": 35, "title": "01_3_Phrases_clipId-35-0" }]
+  },
+  {
+    "phraseId": 182,
+    "eng": "These flowers are large.",
+    "span": "las flores son grandes",
+    "vocals": [{ "clipId": 36, "title": "01_3_Phrases_clipId-36-0" }]
+  },
+  {
+    "phraseId": 183,
+    "eng": "These flowers are small.",
+    "span": "las flores son pequeñas",
+    "vocals": [{ "clipId": 37, "title": "01_3_Phrases_clipId-37-0" }]
+  },
+  {
+    "phraseId": 184,
+    "eng": "She is a doctor.",
+    "span": "ella es doctora",
+    "vocals": [{ "clipId": 38, "title": "01_3_Phrases_clipId-38-0" }]
+  },
+  {
+    "phraseId": 185,
+    "eng": "He is a teacher.",
+    "span": "él es maestro",
+    "vocals": [{ "clipId": 39, "title": "01_3_Phrases_clipId-39-0" }]
+  },
+  {
+    "phraseId": 186,
+    "eng": "They are police officers.",
+    "span": "ellos son policías",
+    "vocals": [{ "clipId": 40, "title": "01_3_Phrases_clipId-40-0" }]
+  },
+  {
+    "phraseId": 187,
+    "eng": "He is a student.",
+    "span": "él es alumno",
+    "vocals": [{ "clipId": 41, "title": "01_3_Phrases_clipId-41-0" }]
+  },
+  {
+    "phraseId": 188,
+    "eng": "She is a student.",
+    "span": "ella es alumna",
+    "vocals": [{ "clipId": 42, "title": "01_3_Phrases_clipId-42-0" }]
+  },
+  {
+    "phraseId": 189,
+    "eng": "He is a police officer.",
+    "span": "él es policía",
+    "vocals": [{ "clipId": 43, "title": "01_3_Phrases_clipId-43-0" }]
+  },
+  {
+    "phraseId": 190,
+    "eng": "She is a teacher.",
+    "span": "ella es maestra",
+    "vocals": [{ "clipId": 44, "title": "01_3_Phrases_clipId-44-0" }]
+  },
+  {
+    "phraseId": 191,
+    "eng": "He is a doctor.",
+    "span": "Él es médico",
+    "vocals": [{ "clipId": 45, "title": "01_3_Phrases_clipId-45-0" }]
+  },
+  {
+    "phraseId": 192,
+    "eng": "They are students.",
+    "span": "ellos son alumnos",
+    "vocals": [{ "clipId": 46, "title": "01_3_Phrases_clipId-46-0" }]
+  },
+  {
+    "phraseId": 193,
+    "eng": "There is a fish.",
+    "span": "hay un pez",
+    "vocals": [{ "clipId": 0, "title": "01_4_Phrases_clipId-0-0" }]
+  },
+  {
+    "phraseId": 194,
+    "eng": "There is a book.",
+    "span": "hay un libro",
+    "vocals": [{ "clipId": 1, "title": "01_4_Phrases_clipId-1-0" }]
+  },
+  {
+    "phraseId": 195,
+    "eng": "There is a woman.",
+    "span": "hay una mujer",
+    "vocals": [{ "clipId": 2, "title": "01_4_Phrases_clipId-2-0" }]
+  },
+  {
+    "phraseId": 196,
+    "eng": "There’s a ton.",
+    "span": "hay un huevo",
+    "vocals": [{ "clipId": 3, "title": "01_4_Phrases_clipId-3-0" }]
+  },
+  {
+    "phraseId": 197,
+    "eng": "There is a boy",
+    "span": "hay un niño",
+    "vocals": [{ "clipId": 4, "title": "01_4_Phrases_clipId-4-0" }]
+  },
+  {
+    "phraseId": 198,
+    "eng": "There is a cell phone.",
+    "span": "hay un celular",
+    "vocals": [{ "clipId": 5, "title": "01_4_Phrases_clipId-5-0" }]
+  },
+  {
+    "phraseId": 199,
+    "eng": "There are five fish.",
+    "span": "hay cinco peces",
+    "vocals": [{ "clipId": 6, "title": "01_4_Phrases_clipId-6-0" }]
+  },
+  {
+    "phraseId": 200,
+    "eng": "There are three books.",
+    "span": "hay tres libros",
+    "vocals": [{ "clipId": 7, "title": "01_4_Phrases_clipId-7-0" }]
+  },
+  {
+    "phraseId": 201,
+    "eng": "There are four women.",
+    "span": "hay cuatro mujeres",
+    "vocals": [{ "clipId": 8, "title": "01_4_Phrases_clipId-8-0" }]
+  },
+  {
+    "phraseId": 202,
+    "eng": "There are six eggs.",
+    "span": "hay seis huevos",
+    "vocals": [{ "clipId": 9, "title": "01_4_Phrases_clipId-9-0" }]
+  },
+  {
+    "phraseId": 203,
+    "eng": "There are two children.",
+    "span": "hay dos niños",
+    "vocals": [{ "clipId": 10, "title": "01_4_Phrases_clipId-10-0" }]
+  },
+  {
+    "phraseId": 204,
+    "eng": "There are two cell phones.",
+    "span": "hay dos celulares",
+    "vocals": [{ "clipId": 11, "title": "01_4_Phrases_clipId-11-0" }]
+  },
+  {
+    "phraseId": 205,
+    "eng": "There are three balls.",
+    "span": "hay tres pelotas",
+    "vocals": [{ "clipId": 12, "title": "01_4_Phrases_clipId-12-0" }]
+  },
+  {
+    "phraseId": 206,
+    "eng": "There is a bed.",
+    "span": "Hay una cama",
+    "vocals": [{ "clipId": 13, "title": "01_4_Phrases_clipId-13-0" }]
+  },
+  {
+    "phraseId": 207,
+    "eng": "There are four keys.",
+    "span": "hay cuatro llaves",
+    "vocals": [{ "clipId": 14, "title": "01_4_Phrases_clipId-14-0" }]
+  },
+  {
+    "phraseId": 208,
+    "eng": "There is a cup.",
+    "span": "hay una taza",
+    "vocals": [{ "clipId": 15, "title": "01_4_Phrases_clipId-15-0" }]
+  },
+  {
+    "phraseId": 209,
+    "eng": "There are four chairs.",
+    "span": "hay cuatro sillas",
+    "vocals": [{ "clipId": 16, "title": "01_4_Phrases_clipId-16-0" }]
+  },
+  {
+    "phraseId": 210,
+    "eng": "There are three phones.",
+    "span": "hay tres teléfonos",
+    "vocals": [{ "clipId": 17, "title": "01_4_Phrases_clipId-17-0" }]
+  },
+  {
+    "phraseId": 211,
+    "eng": "There is a ball.",
+    "span": "hay una pelota",
+    "vocals": [{ "clipId": 18, "title": "01_4_Phrases_clipId-18-0" }]
+  },
+  {
+    "phraseId": 212,
+    "eng": "There are three chairs.",
+    "span": "hay tres sillas",
+    "vocals": [{ "clipId": 19, "title": "01_4_Phrases_clipId-19-0" }]
+  },
+  {
+    "phraseId": 213,
+    "eng": "There is a table.",
+    "span": "hay una mesa",
+    "vocals": [{ "clipId": 20, "title": "01_4_Phrases_clipId-20-0" }]
+  },
+  {
+    "phraseId": 214,
+    "eng": "There are two tables.",
+    "span": "hay dos mesas",
+    "vocals": [{ "clipId": 21, "title": "01_4_Phrases_clipId-21-0" }]
+  },
+  {
+    "phraseId": 215,
+    "eng": "There are three eggs.",
+    "span": "hay tres huevos",
+    "vocals": [{ "clipId": 22, "title": "01_4_Phrases_clipId-22-0" }]
+  },
+  {
+    "phraseId": 216,
+    "eng": "There are five eggs.",
+    "span": "hay cinco huevos",
+    "vocals": [{ "clipId": 23, "title": "01_4_Phrases_clipId-23-0" }]
+  },
+  {
+    "phraseId": 217,
+    "eng": "There are four cups.",
+    "span": "Hay cuatro tazas.",
+    "vocals": [{ "clipId": 24, "title": "01_4_Phrases_clipId-24-0" }]
+  },
+  {
+    "phraseId": 218,
+    "eng": "There are six cups.",
+    "span": "hay seis tazas",
+    "vocals": [{ "clipId": 25, "title": "01_4_Phrases_clipId-25-0" }]
+  },
+  {
+    "phraseId": 219,
+    "eng": "The girl is wearing a T-shirt.",
+    "span": "la niña lleva camiseta",
+    "vocals": [{ "clipId": 26, "title": "01_4_Phrases_clipId-26-0" }]
+  },
+  {
+    "phraseId": 220,
+    "eng": "The boy is not wearing a T-shirt.",
+    "span": "el niño no lleva camiseta",
+    "vocals": [{ "clipId": 27, "title": "01_4_Phrases_clipId-27-0" }]
+  },
+  {
+    "phraseId": 221,
+    "eng": "The woman is wearing shoes.",
+    "span": "la mujer lleva zapatos",
+    "vocals": [{ "clipId": 28, "title": "01_4_Phrases_clipId-28-0" }]
+  },
+  {
+    "phraseId": 222,
+    "eng": "The man is not wearing shoes.",
+    "span": "el hombre no lleva zapatos",
+    "vocals": [{ "clipId": 29, "title": "01_4_Phrases_clipId-29-0" }]
+  },
+  {
+    "phraseId": 223,
+    "eng": "The woman is wearing a dress.",
+    "span": "la mujer lleva vestido",
+    "vocals": [{ "clipId": 30, "title": "01_4_Phrases_clipId-30-0" }]
+  },
+  {
+    "phraseId": 224,
+    "eng": "The woman is wearing a skirt.",
+    "span": "la mujer y lleva falda",
+    "vocals": [{ "clipId": 31, "title": "01_4_Phrases_clipId-31-0" }]
+  },
+  {
+    "phraseId": 225,
+    "eng": "The woman is wearing trousers.",
+    "span": "la mujer lleva pantalones",
+    "vocals": [{ "clipId": 32, "title": "01_4_Phrases_clipId-32-0" }]
+  },
+  {
+    "phraseId": 226,
+    "eng": "The woman is wearing a hat.",
+    "span": "la mujer lleva sombrero",
+    "vocals": [{ "clipId": 33, "title": "01_4_Phrases_clipId-33-0" }]
+  },
+  {
+    "phraseId": 227,
+    "eng": "He is buying a hat.",
+    "span": "él compra un sombrero",
+    "vocals": [{ "clipId": 34, "title": "01_4_Phrases_clipId-34-0" }]
+  },
+  {
+    "phraseId": 228,
+    "eng": "She is buying two hats.",
+    "span": "ella compra dos sombreros",
+    "vocals": [{ "clipId": 35, "title": "01_4_Phrases_clipId-35-0" }]
+  },
+  {
+    "phraseId": 229,
+    "eng": "He is buying three T-shirts.",
+    "span": "el compra tres camisetas",
+    "vocals": [{ "clipId": 36, "title": "01_4_Phrases_clipId-36-0" }]
+  },
+  {
+    "phraseId": 230,
+    "eng": "She is buying four T-shirts.",
+    "span": "ella compra cuatro camisetas",
+    "vocals": [{ "clipId": 37, "title": "01_4_Phrases_clipId-37-0" }]
+  },
+  {
+    "phraseId": 231,
+    "eng": "The man is wearing a coat.",
+    "span": "el hombre lleva abrigo",
+    "vocals": [{ "clipId": 38, "title": "01_4_Phrases_clipId-38-0" }]
+  },
+  {
+    "phraseId": 232,
+    "eng": "The man is buying a coat.",
+    "span": "el hombre compra un abrigo",
+    "vocals": [{ "clipId": 39, "title": "01_4_Phrases_clipId-39-0" }]
+  },
+  {
+    "phraseId": 233,
+    "eng": "The man is wearing a hat.",
+    "span": "el hombre lleva sombrero",
+    "vocals": [{ "clipId": 40, "title": "01_4_Phrases_clipId-40-0" }]
+  },
+  {
+    "phraseId": 234,
+    "eng": "The man is buying a hat.",
+    "span": "el hombre compra un sombrero",
+    "vocals": [{ "clipId": 41, "title": "01_4_Phrases_clipId-41-0" }]
+  },
+  {
+    "phraseId": 235,
+    "eng": "Hello",
+    "span": "Hola",
+    "vocals": [{ "clipId": 0, "title": "01_2_Speaking_clipId-0-0" }]
+  },
+  {
+    "phraseId": 236,
+    "eng": "she is sleeping",
+    "span": "ella duerme",
+    "vocals": [{ "clipId": 2, "title": "01_2_Speaking_clipId-2-0" }]
+  },
+  {
+    "phraseId": 237,
+    "eng": "they are sleeping",
+    "span": "ellos duermen",
+    "vocals": [{ "clipId": 3, "title": "01_2_Speaking_clipId-3-0" }]
+  },
+  {
+    "phraseId": 238,
+    "eng": "It is an apple.",
+    "span": "es una manzana",
+    "vocals": [{ "clipId": 4, "title": "01_2_Speaking_clipId-4-0" }]
+  },
+  {
+    "phraseId": 239,
+    "eng": "it is a newspaper",
+    "span": "es un periódico",
+    "vocals": [{ "clipId": 5, "title": "01_2_Speaking_clipId-5-0" }]
+  },
+  {
+    "phraseId": 240,
+    "eng": "it is a cat",
+    "span": "es un gato",
+    "vocals": [{ "clipId": 6, "title": "01_2_Speaking_clipId-6-0" }]
+  },
+  {
+    "phraseId": 241,
+    "eng": "it is a bicycle",
+    "span": "es una bicicleta",
+    "vocals": [{ "clipId": 7, "title": "01_2_Speaking_clipId-7-0" }]
+  },
+  {
+    "phraseId": 242,
+    "eng": "what is this",
+    "span": "qué es esto",
+    "vocals": [{ "clipId": 8, "title": "01_2_Speaking_clipId-8-0" }]
+  },
+  {
+    "phraseId": 243,
+    "eng": "It's an egg.",
+    "span": "es un huevo",
+    "vocals": [{ "clipId": 9, "title": "01_2_Speaking_clipId-9-0" }]
+  },
+  {
+    "phraseId": 244,
+    "eng": "It is a pen.",
+    "span": "es un bolígrafo",
+    "vocals": [{ "clipId": 10, "title": "01_2_Speaking_clipId-10-0" }]
+  },
+  {
+    "phraseId": 245,
+    "eng": "it is a fish",
+    "span": "es un pez",
+    "vocals": [{ "clipId": 11, "title": "01_2_Speaking_clipId-11-0" }]
+  },
+  {
+    "phraseId": 246,
+    "eng": "it's rice",
+    "span": "es arroz",
+    "vocals": [{ "clipId": 12, "title": "01_2_Speaking_clipId-12-0" }]
+  },
+  {
+    "phraseId": 247,
+    "eng": "he is sleeping",
+    "span": "duerme él",
+    "vocals": [{ "clipId": 13, "title": "01_2_Speaking_clipId-13-0" }]
+  },
+  {
+    "phraseId": 248,
+    "eng": "\"Yes, put me to sleep.\"",
+    "span": "sí duérmeme",
+    "vocals": [{ "clipId": 14, "title": "01_2_Speaking_clipId-14-0" }]
+  },
+  {
+    "phraseId": 249,
+    "eng": "she sleeps",
+    "span": "duerme ella",
+    "vocals": [{ "clipId": 15, "title": "01_2_Speaking_clipId-15-0" }]
+  },
+  {
+    "phraseId": 250,
+    "eng": "\"No, she isn't sleeping.\"",
+    "span": "no no duerme",
+    "vocals": [{ "clipId": 16, "title": "01_2_Speaking_clipId-16-0" }]
+  },
+  {
+    "phraseId": 251,
+    "eng": "The dog swims.",
+    "span": "el perro nada",
+    "vocals": [{ "clipId": 17, "title": "01_2_Speaking_clipId-17-0" }]
+  },
+  {
+    "phraseId": 252,
+    "eng": "Yeah",
+    "span": "sí",
+    "vocals": [{ "clipId": 18, "title": "01_2_Speaking_clipId-18-0" }]
+  },
+  {
+    "phraseId": 253,
+    "eng": "the horse swims",
+    "span": "el caballo nada",
+    "vocals": [{ "clipId": 19, "title": "01_2_Speaking_clipId-19-0" }]
+  },
+  {
+    "phraseId": 254,
+    "eng": "No",
+    "span": "no",
+    "vocals": [{ "clipId": 20, "title": "01_2_Speaking_clipId-20-0" }]
+  },
+  {
+    "phraseId": 255,
+    "eng": "She is reading a newspaper.",
+    "span": "ella lee un periódico",
+    "vocals": [{ "clipId": 21, "title": "01_2_Speaking_clipId-21-0" }]
+  },
+  {
+    "phraseId": 256,
+    "eng": "She is reading a book.",
+    "span": "ella lee un libro",
+    "vocals": [{ "clipId": 22, "title": "01_2_Speaking_clipId-22-0" }]
+  },
+  {
+    "phraseId": 257,
+    "eng": "He is eating an apple.",
+    "span": "Él come una manzana",
+    "vocals": [{ "clipId": 23, "title": "01_2_Speaking_clipId-23-0" }]
+  },
+  {
+    "phraseId": 258,
+    "eng": "bye",
+    "span": "adiós",
+    "vocals": [{ "clipId": 24, "title": "01_2_Speaking_clipId-24-0" }]
+  }
+]

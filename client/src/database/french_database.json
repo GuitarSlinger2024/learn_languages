@@ -1,0 +1,5255 @@
+[
+  {
+    "phraseId": 1,
+    "eng": "a man",
+    "fren": "un homme",
+    "vocals": [
+      { "clipId": 0, "title": "01_1_Vocabulary_clipId-0-0" },
+      { "clipId": 15, "title": "01_2_Vocabulary_clipId-15-0" },
+      { "clipId": 23, "title": "01_3_Vocabulary_clipId-23-0" },
+      { "clipId": 18, "title": "02_1_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 2,
+    "eng": "a boy",
+    "fren": "un garçon",
+    "vocals": [
+      { "clipId": 1, "title": "01_1_Vocabulary_clipId-1-0" },
+      { "clipId": 13, "title": "01_2_Vocabulary_clipId-13-0" },
+      { "clipId": 4, "title": "01_3_Vocabulary_clipId-4-0" },
+      { "clipId": 0, "title": "01_4_Vocabulary_clipId-0-0" },
+      { "clipId": 16, "title": "02_1_Vocabulary_clipId-16-0" }
+    ]
+  },
+  {
+    "phraseId": 3,
+    "eng": "boys",
+    "fren": "des garçons",
+    "vocals": [
+      { "clipId": 2, "title": "01_1_Vocabulary_clipId-2-0" },
+      { "clipId": 22, "title": "01_2_Vocabulary_clipId-22-0" },
+      { "clipId": 20, "title": "01_3_Vocabulary_clipId-20-0" },
+      { "clipId": 21, "title": "01_4_Vocabulary_clipId-21-0" },
+      { "clipId": 25, "title": "02_1_Vocabulary_clipId-25-0" }
+    ]
+  },
+  {
+    "phraseId": 4,
+    "eng": "a woman",
+    "fren": "une femme",
+    "vocals": [
+      { "clipId": 3, "title": "01_1_Vocabulary_clipId-3-0" },
+      { "clipId": 6, "title": "01_2_Vocabulary_clipId-6-0" },
+      { "clipId": 10, "title": "01_3_Vocabulary_clipId-10-0" },
+      { "clipId": 10, "title": "01_4_Vocabulary_clipId-10-0" },
+      { "clipId": 21, "title": "02_1_Vocabulary_clipId-21-0" }
+    ]
+  },
+  {
+    "phraseId": 5,
+    "eng": "men",
+    "fren": "des hommes",
+    "vocals": [
+      { "clipId": 4, "title": "01_1_Vocabulary_clipId-4-0" },
+      { "clipId": 20, "title": "01_2_Vocabulary_clipId-20-0" },
+      { "clipId": 21, "title": "01_3_Vocabulary_clipId-21-0" }
+    ]
+  },
+  {
+    "phraseId": 6,
+    "eng": "a girl",
+    "fren": "une fille",
+    "vocals": [
+      { "clipId": 5, "title": "01_1_Vocabulary_clipId-5-0" },
+      { "clipId": 10, "title": "01_2_Vocabulary_clipId-10-0" },
+      { "clipId": 5, "title": "01_3_Vocabulary_clipId-5-0" },
+      { "clipId": 14, "title": "01_4_Vocabulary_clipId-14-0" },
+      { "clipId": 19, "title": "02_1_Vocabulary_clipId-19-0" }
+    ]
+  },
+  {
+    "phraseId": 7,
+    "eng": "women",
+    "fren": "des femmes",
+    "vocals": [
+      { "clipId": 6, "title": "01_1_Vocabulary_clipId-6-0" },
+      { "clipId": 14, "title": "01_2_Vocabulary_clipId-14-0" },
+      { "clipId": 6, "title": "01_3_Vocabulary_clipId-6-0" }
+    ]
+  },
+  {
+    "phraseId": 8,
+    "eng": "girls",
+    "fren": "des filles",
+    "vocals": [
+      { "clipId": 7, "title": "01_1_Vocabulary_clipId-7-0" },
+      { "clipId": 12, "title": "01_2_Vocabulary_clipId-12-0" },
+      { "clipId": 17, "title": "01_3_Vocabulary_clipId-17-0" },
+      { "clipId": 12, "title": "02_1_Vocabulary_clipId-12-0" }
+    ]
+  },
+  {
+    "phraseId": 9,
+    "eng": "a sandwich",
+    "fren": "un sandwich",
+    "vocals": [
+      { "clipId": 0, "title": "01_2_Vocabulary_clipId-0-0" },
+      { "clipId": 9, "title": "01_3_Vocabulary_clipId-9-0" }
+    ]
+  },
+  {
+    "phraseId": 10,
+    "eng": "a car",
+    "fren": "une voiture",
+    "vocals": [
+      { "clipId": 1, "title": "01_2_Vocabulary_clipId-1-0" },
+      { "clipId": 16, "title": "01_3_Vocabulary_clipId-16-0" },
+      { "clipId": 27, "title": "01_4_Vocabulary_clipId-27-0" }
+    ]
+  },
+  {
+    "phraseId": 11,
+    "eng": "an egg",
+    "fren": "un œuf",
+    "vocals": [
+      { "clipId": 2, "title": "01_2_Vocabulary_clipId-2-0" },
+      { "clipId": 19, "title": "01_3_Vocabulary_clipId-19-0" },
+      { "clipId": 12, "title": "01_4_Vocabulary_clipId-12-0" }
+    ]
+  },
+  {
+    "phraseId": 12,
+    "eng": "a fish",
+    "fren": "un poisson",
+    "vocals": [
+      { "clipId": 3, "title": "01_2_Vocabulary_clipId-3-0" },
+      { "clipId": 15, "title": "01_3_Vocabulary_clipId-15-0" }
+    ]
+  },
+  {
+    "phraseId": 13,
+    "eng": "a horse",
+    "fren": "un cheval",
+    "vocals": [
+      { "clipId": 4, "title": "01_2_Vocabulary_clipId-4-0" },
+      { "clipId": 24, "title": "01_3_Vocabulary_clipId-24-0" },
+      { "clipId": 6, "title": "02_1_Vocabulary_clipId-6-0" }
+    ]
+  },
+  {
+    "phraseId": 14,
+    "eng": "bread",
+    "fren": "du pain",
+    "vocals": [
+      { "clipId": 5, "title": "01_2_Vocabulary_clipId-5-0" },
+      { "clipId": 2, "title": "01_3_Vocabulary_clipId-2-0" }
+    ]
+  },
+  {
+    "phraseId": 15,
+    "eng": "an apple",
+    "fren": "une pomme",
+    "vocals": [
+      { "clipId": 7, "title": "01_2_Vocabulary_clipId-7-0" },
+      { "clipId": 8, "title": "01_3_Vocabulary_clipId-8-0" }
+    ]
+  },
+  {
+    "phraseId": 16,
+    "eng": "a pen",
+    "fren": "un stylo",
+    "vocals": [
+      { "clipId": 8, "title": "01_2_Vocabulary_clipId-8-0" },
+      { "clipId": 0, "title": "01_3_Vocabulary_clipId-0-0" }
+    ]
+  },
+  {
+    "phraseId": 17,
+    "eng": "a newspaper",
+    "fren": "un journal",
+    "vocals": [
+      { "clipId": 9, "title": "01_2_Vocabulary_clipId-9-0" },
+      { "clipId": 27, "title": "01_3_Vocabulary_clipId-27-0" }
+    ]
+  },
+  {
+    "phraseId": 18,
+    "eng": "coffee",
+    "fren": "du café",
+    "vocals": [
+      { "clipId": 11, "title": "01_2_Vocabulary_clipId-11-0" },
+      { "clipId": 14, "title": "01_3_Vocabulary_clipId-14-0" }
+    ]
+  },
+  {
+    "phraseId": 19,
+    "eng": "milk",
+    "fren": "du lait",
+    "vocals": [
+      { "clipId": 16, "title": "01_2_Vocabulary_clipId-16-0" },
+      { "clipId": 18, "title": "01_3_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 20,
+    "eng": "a dog",
+    "fren": "un chien",
+    "vocals": [
+      { "clipId": 17, "title": "01_2_Vocabulary_clipId-17-0" },
+      { "clipId": 1, "title": "01_3_Vocabulary_clipId-1-0" },
+      { "clipId": 5, "title": "02_1_Vocabulary_clipId-5-0" }
+    ]
+  },
+  {
+    "phraseId": 21,
+    "eng": "a bicycle",
+    "fren": "un vélo",
+    "vocals": [
+      { "clipId": 18, "title": "01_2_Vocabulary_clipId-18-0" },
+      { "clipId": 3, "title": "01_3_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 22,
+    "eng": "a book",
+    "fren": "un livre",
+    "vocals": [
+      { "clipId": 19, "title": "01_2_Vocabulary_clipId-19-0" },
+      { "clipId": 7, "title": "01_3_Vocabulary_clipId-7-0" }
+    ]
+  },
+  {
+    "phraseId": 23,
+    "eng": "a cat",
+    "fren": "un chat",
+    "vocals": [
+      { "clipId": 21, "title": "01_2_Vocabulary_clipId-21-0" },
+      { "clipId": 28, "title": "01_3_Vocabulary_clipId-28-0" },
+      { "clipId": 31, "title": "02_1_Vocabulary_clipId-31-0" }
+    ]
+  },
+  {
+    "phraseId": 24,
+    "eng": "blue",
+    "fren": "bleu",
+    "vocals": [
+      { "clipId": 11, "title": "01_3_Vocabulary_clipId-11-0" },
+      { "clipId": 21, "title": "02_4_Vocabulary_clipId-21-0" }
+    ]
+  },
+  {
+    "phraseId": 25,
+    "eng": "green",
+    "fren": "verte",
+    "vocals": [
+      { "clipId": 12, "title": "01_3_Vocabulary_clipId-12-0" },
+      { "clipId": 6, "title": "02_4_Vocabulary_clipId-6-0" }
+    ]
+  },
+  {
+    "phraseId": 26,
+    "eng": "black",
+    "fren": "noir",
+    "vocals": [{ "clipId": 13, "title": "01_3_Vocabulary_clipId-13-0" }]
+  },
+  {
+    "phraseId": 27,
+    "eng": "red",
+    "fren": "rouge",
+    "vocals": [{ "clipId": 22, "title": "01_3_Vocabulary_clipId-22-0" }]
+  },
+  {
+    "phraseId": 28,
+    "eng": "white",
+    "fren": "blanc",
+    "vocals": [{ "clipId": 25, "title": "01_3_Vocabulary_clipId-25-0" }]
+  },
+  {
+    "phraseId": 29,
+    "eng": "yellow",
+    "fren": "jaune",
+    "vocals": [
+      { "clipId": 26, "title": "01_3_Vocabulary_clipId-26-0" },
+      { "clipId": 23, "title": "02_4_Vocabulary_clipId-23-0" }
+    ]
+  },
+  {
+    "phraseId": 30,
+    "eng": "five (5)",
+    "fren": "cinq",
+    "vocals": [{ "clipId": 1, "title": "01_4_Vocabulary_clipId-1-0" }]
+  },
+  {
+    "phraseId": 31,
+    "eng": "a yellow t-shirt",
+    "fren": "un t-shirt jaune",
+    "vocals": [{ "clipId": 2, "title": "01_4_Vocabulary_clipId-2-0" }]
+  },
+  {
+    "phraseId": 32,
+    "eng": "four (4)",
+    "fren": "quatre",
+    "vocals": [{ "clipId": 3, "title": "01_4_Vocabulary_clipId-3-0" }]
+  },
+  {
+    "phraseId": 33,
+    "eng": "trousers",
+    "fren": "un pantalon",
+    "vocals": [{ "clipId": 4, "title": "01_4_Vocabulary_clipId-4-0" }]
+  },
+  {
+    "phraseId": 34,
+    "eng": "a coat",
+    "fren": "un manteau",
+    "vocals": [{ "clipId": 5, "title": "01_4_Vocabulary_clipId-5-0" }]
+  },
+  {
+    "phraseId": 35,
+    "eng": "two pens",
+    "fren": "deux stylos",
+    "vocals": [{ "clipId": 6, "title": "01_4_Vocabulary_clipId-6-0" }]
+  },
+  {
+    "phraseId": 36,
+    "eng": "six (6)",
+    "fren": "six",
+    "vocals": [
+      { "clipId": 7, "title": "01_4_Vocabulary_clipId-7-0" },
+      { "clipId": 24, "title": "02_1_Vocabulary_clipId-24-0" },
+      { "clipId": 16, "title": "02_2_Vocabulary_clipId-16-0" },
+      { "clipId": 2, "title": "02_3_Vocabulary_clipId-2-0" },
+      { "clipId": 11, "title": "02_4_Vocabulary_clipId-11-0" }
+    ]
+  },
+  {
+    "phraseId": 37,
+    "eng": "a shirt",
+    "fren": "une chemise",
+    "vocals": [{ "clipId": 8, "title": "01_4_Vocabulary_clipId-8-0" }]
+  },
+  {
+    "phraseId": 38,
+    "eng": "a skirt",
+    "fren": "une jupe",
+    "vocals": [{ "clipId": 9, "title": "01_4_Vocabulary_clipId-9-0" }]
+  },
+  {
+    "phraseId": 39,
+    "eng": "two dogs",
+    "fren": "deux chiens",
+    "vocals": [{ "clipId": 11, "title": "01_4_Vocabulary_clipId-11-0" }]
+  },
+  {
+    "phraseId": 40,
+    "eng": "three bicycles",
+    "fren": "trois vélos",
+    "vocals": [{ "clipId": 13, "title": "01_4_Vocabulary_clipId-13-0" }]
+  },
+  {
+    "phraseId": 41,
+    "eng": "a green t-shirt",
+    "fren": "un t-shirt vert",
+    "vocals": [{ "clipId": 15, "title": "01_4_Vocabulary_clipId-15-0" }]
+  },
+  {
+    "phraseId": 42,
+    "eng": "six apples",
+    "fren": "six pommes",
+    "vocals": [{ "clipId": 16, "title": "01_4_Vocabulary_clipId-16-0" }]
+  },
+  {
+    "phraseId": 43,
+    "eng": "five books",
+    "fren": "cinq livres",
+    "vocals": [{ "clipId": 17, "title": "01_4_Vocabulary_clipId-17-0" }]
+  },
+  {
+    "phraseId": 44,
+    "eng": "four boys",
+    "fren": "quatre garçons",
+    "vocals": [{ "clipId": 18, "title": "01_4_Vocabulary_clipId-18-0" }]
+  },
+  {
+    "phraseId": 45,
+    "eng": "five newspapers",
+    "fren": "cinq journaux",
+    "vocals": [{ "clipId": 19, "title": "01_4_Vocabulary_clipId-19-0" }]
+  },
+  {
+    "phraseId": 46,
+    "eng": "shoes",
+    "fren": "des chaussures",
+    "vocals": [{ "clipId": 20, "title": "01_4_Vocabulary_clipId-20-0" }]
+  },
+  {
+    "phraseId": 47,
+    "eng": "a red blouse",
+    "fren": "un chemisier rouge",
+    "vocals": [{ "clipId": 22, "title": "01_4_Vocabulary_clipId-22-0" }]
+  },
+  {
+    "phraseId": 48,
+    "eng": "four men",
+    "fren": "quatre hommes",
+    "vocals": [{ "clipId": 23, "title": "01_4_Vocabulary_clipId-23-0" }]
+  },
+  {
+    "phraseId": 49,
+    "eng": "three cats",
+    "fren": "trois chats",
+    "vocals": [{ "clipId": 24, "title": "01_4_Vocabulary_clipId-24-0" }]
+  },
+  {
+    "phraseId": 50,
+    "eng": "six girls",
+    "fren": "six girls",
+    "vocals": [{ "clipId": 25, "title": "01_4_Vocabulary_clipId-25-0" }]
+  },
+  {
+    "phraseId": 51,
+    "eng": "three (3)",
+    "fren": "trois",
+    "vocals": [{ "clipId": 26, "title": "01_4_Vocabulary_clipId-26-0" }]
+  },
+  {
+    "phraseId": 52,
+    "eng": "two (2)",
+    "fren": "deux",
+    "vocals": [{ "clipId": 28, "title": "01_4_Vocabulary_clipId-28-0" }]
+  },
+  {
+    "phraseId": 53,
+    "eng": "a, one (1)",
+    "fren": "un",
+    "vocals": [{ "clipId": 29, "title": "01_4_Vocabulary_clipId-29-0" }]
+  },
+  {
+    "phraseId": 54,
+    "eng": "a blue shirt",
+    "fren": "une chemise bleue",
+    "vocals": [{ "clipId": 30, "title": "01_4_Vocabulary_clipId-30-0" }]
+  },
+  {
+    "phraseId": 55,
+    "eng": "a dress",
+    "fren": "une robe",
+    "vocals": [{ "clipId": 31, "title": "01_4_Vocabulary_clipId-31-0" }]
+  },
+  {
+    "phraseId": 56,
+    "eng": "The boy is drinking.",
+    "fren": "le garçon boit",
+    "vocals": [{ "clipId": 0, "title": "01_1_Phrases_clipId-0-0" }]
+  },
+  {
+    "phraseId": 57,
+    "eng": "The woman is drinking.",
+    "fren": "la femme boit",
+    "vocals": [{ "clipId": 1, "title": "01_1_Phrases_clipId-1-0" }]
+  },
+  {
+    "phraseId": 58,
+    "eng": "The man is eating.",
+    "fren": "l'homme mange",
+    "vocals": [{ "clipId": 2, "title": "01_1_Phrases_clipId-2-0" }]
+  },
+  {
+    "phraseId": 59,
+    "eng": "The woman is eating.",
+    "fren": "la femme mange",
+    "vocals": [{ "clipId": 3, "title": "01_1_Phrases_clipId-3-0" }]
+  },
+  {
+    "phraseId": 60,
+    "eng": "The man is drinking.",
+    "fren": "l'homme boit",
+    "vocals": [{ "clipId": 4, "title": "01_1_Phrases_clipId-4-0" }]
+  },
+  {
+    "phraseId": 61,
+    "eng": "The girl is eating.",
+    "fren": "la fille mange",
+    "vocals": [{ "clipId": 5, "title": "01_1_Phrases_clipId-5-0" }]
+  },
+  {
+    "phraseId": 62,
+    "eng": "The boy is eating.",
+    "fren": "le garçon mange",
+    "vocals": [{ "clipId": 6, "title": "01_1_Phrases_clipId-6-0" }]
+  },
+  {
+    "phraseId": 63,
+    "eng": "The girl is drinking.",
+    "fren": "la fille boit",
+    "vocals": [{ "clipId": 7, "title": "01_1_Phrases_clipId-7-0" }]
+  },
+  {
+    "phraseId": 64,
+    "eng": "The man is running.",
+    "fren": "l'homme court",
+    "vocals": [
+      { "clipId": 8, "title": "01_1_Phrases_clipId-8-0" },
+      { "clipId": 5, "title": "01_2_Phrases_clipId-5-0" }
+    ]
+  },
+  {
+    "phraseId": 65,
+    "eng": "The girl is reading.",
+    "fren": "la fille lit",
+    "vocals": [{ "clipId": 9, "title": "01_1_Phrases_clipId-9-0" }]
+  },
+  {
+    "phraseId": 66,
+    "eng": "The boy is reading.",
+    "fren": "le garçon lit",
+    "vocals": [{ "clipId": 10, "title": "01_1_Phrases_clipId-10-0" }]
+  },
+  {
+    "phraseId": 67,
+    "eng": "The man is reading.",
+    "fren": "l'homme lit",
+    "vocals": [{ "clipId": 11, "title": "01_1_Phrases_clipId-11-0" }]
+  },
+  {
+    "phraseId": 68,
+    "eng": "The woman is reading.",
+    "fren": "la femme lit",
+    "vocals": [
+      { "clipId": 12, "title": "01_1_Phrases_clipId-12-0" },
+      { "clipId": 40, "title": "01_3_Speaking_clipId-40-0" }
+    ]
+  },
+  {
+    "phraseId": 69,
+    "eng": "The boy is running.",
+    "fren": "le garçon court",
+    "vocals": [
+      { "clipId": 13, "title": "01_1_Phrases_clipId-13-0" },
+      { "clipId": 42, "title": "01_3_Speaking_clipId-42-0" }
+    ]
+  },
+  {
+    "phraseId": 70,
+    "eng": "The girls are drinking.",
+    "fren": "les filles boivent",
+    "vocals": [{ "clipId": 14, "title": "01_1_Phrases_clipId-14-0" }]
+  },
+  {
+    "phraseId": 71,
+    "eng": "The boys are eating.",
+    "fren": "les garçons mangent",
+    "vocals": [{ "clipId": 15, "title": "01_1_Phrases_clipId-15-0" }]
+  },
+  {
+    "phraseId": 72,
+    "eng": "The girl is running.",
+    "fren": "la fille court",
+    "vocals": [
+      { "clipId": 16, "title": "01_1_Phrases_clipId-16-0" },
+      { "clipId": 7, "title": "01_2_Phrases_clipId-7-0" }
+    ]
+  },
+  {
+    "phraseId": 73,
+    "eng": "The girls are running.",
+    "fren": "les filles courent",
+    "vocals": [{ "clipId": 17, "title": "01_1_Phrases_clipId-17-0" }]
+  },
+  {
+    "phraseId": 74,
+    "eng": "The men are drinking.",
+    "fren": "les hommes boivent",
+    "vocals": [{ "clipId": 18, "title": "01_1_Phrases_clipId-18-0" }]
+  },
+  {
+    "phraseId": 75,
+    "eng": "The boys are reading.",
+    "fren": "les garçons lisent",
+    "vocals": [{ "clipId": 19, "title": "01_1_Phrases_clipId-19-0" }]
+  },
+  {
+    "phraseId": 76,
+    "eng": "The women are eating",
+    "fren": "les femmes mangent",
+    "vocals": [{ "clipId": 20, "title": "01_1_Phrases_clipId-20-0" }]
+  },
+  {
+    "phraseId": 77,
+    "eng": "The men are reading.",
+    "fren": "les hommes lisent",
+    "vocals": [{ "clipId": 21, "title": "01_1_Phrases_clipId-21-0" }]
+  },
+  {
+    "phraseId": 78,
+    "eng": "The men are running.",
+    "fren": "les hommes courent",
+    "vocals": [{ "clipId": 22, "title": "01_1_Phrases_clipId-22-0" }]
+  },
+  {
+    "phraseId": 79,
+    "eng": "The women are reading.",
+    "fren": "les femmes lisent",
+    "vocals": [{ "clipId": 23, "title": "01_1_Phrases_clipId-23-0" }]
+  },
+  {
+    "phraseId": 80,
+    "eng": "The women are drinking.",
+    "fren": "les femmes boivent",
+    "vocals": [
+      { "clipId": 24, "title": "01_1_Phrases_clipId-24-0" },
+      { "clipId": 14, "title": "01_4_Speaking_clipId-14-0" }
+    ]
+  },
+  {
+    "phraseId": 81,
+    "eng": "He is running.",
+    "fren": "il court",
+    "vocals": [{ "clipId": 25, "title": "01_1_Phrases_clipId-25-0" }]
+  },
+  {
+    "phraseId": 82,
+    "eng": "He is eating.",
+    "fren": "il mange",
+    "vocals": [{ "clipId": 26, "title": "01_1_Phrases_clipId-26-0" }]
+  },
+  {
+    "phraseId": 83,
+    "eng": "She is drinking.",
+    "fren": "elle boit",
+    "vocals": [{ "clipId": 27, "title": "01_1_Phrases_clipId-27-0" }]
+  },
+  {
+    "phraseId": 84,
+    "eng": "She is reading.",
+    "fren": "elle lit",
+    "vocals": [{ "clipId": 28, "title": "01_1_Phrases_clipId-28-0" }]
+  },
+  {
+    "phraseId": 85,
+    "eng": "She is eating.",
+    "fren": "elle mange",
+    "vocals": [{ "clipId": 29, "title": "01_1_Phrases_clipId-29-0" }]
+  },
+  {
+    "phraseId": 86,
+    "eng": "They are reading.",
+    "fren": "ils lisent",
+    "vocals": [
+      { "clipId": 30, "title": "01_1_Phrases_clipId-30-0" },
+      { "clipId": 27, "title": "01_2_Phrases_clipId-27-0" }
+    ]
+  },
+  {
+    "phraseId": 87,
+    "eng": "They are drinking.",
+    "fren": "ils boivent",
+    "vocals": [{ "clipId": 31, "title": "01_1_Phrases_clipId-31-0" }]
+  },
+  {
+    "phraseId": 88,
+    "eng": "She is running.",
+    "fren": "elle court",
+    "vocals": [{ "clipId": 32, "title": "01_1_Phrases_clipId-32-0" }]
+  },
+  {
+    "phraseId": 89,
+    "eng": "He is cooking.",
+    "fren": "il cuisine",
+    "vocals": [{ "clipId": 33, "title": "01_1_Phrases_clipId-33-0" }]
+  },
+  {
+    "phraseId": 90,
+    "eng": "She is cooking.",
+    "fren": "elle cuisine",
+    "vocals": [{ "clipId": 34, "title": "01_1_Phrases_clipId-34-0" }]
+  },
+  {
+    "phraseId": 91,
+    "eng": "The boys are swimming.",
+    "fren": "les garçons nagent",
+    "vocals": [{ "clipId": 35, "title": "01_1_Phrases_clipId-35-0" }]
+  },
+  {
+    "phraseId": 92,
+    "eng": "The girl is swimming.",
+    "fren": "la fille nage",
+    "vocals": [{ "clipId": 36, "title": "01_1_Phrases_clipId-36-0" }]
+  },
+  {
+    "phraseId": 93,
+    "eng": "The man is swimming.",
+    "fren": "l'homme nage",
+    "vocals": [{ "clipId": 37, "title": "01_1_Phrases_clipId-37-0" }]
+  },
+  {
+    "phraseId": 94,
+    "eng": "The man is cooking.",
+    "fren": "l'homme cuisine",
+    "vocals": [
+      { "clipId": 38, "title": "01_1_Phrases_clipId-38-0" },
+      { "clipId": 38, "title": "01_3_Speaking_clipId-38-0" }
+    ]
+  },
+  {
+    "phraseId": 95,
+    "eng": "The men are cooking.",
+    "fren": "les hommes cuisinent",
+    "vocals": [{ "clipId": 39, "title": "01_1_Phrases_clipId-39-0" }]
+  },
+  {
+    "phraseId": 96,
+    "eng": "The men are eating.",
+    "fren": "les hommes mangent",
+    "vocals": [{ "clipId": 40, "title": "01_1_Phrases_clipId-40-0" }]
+  },
+  {
+    "phraseId": 97,
+    "eng": "The woman are running.",
+    "fren": "la femme court",
+    "vocals": [{ "clipId": 41, "title": "01_1_Phrases_clipId-41-0" }]
+  },
+  {
+    "phraseId": 98,
+    "eng": "The woman are swimming.",
+    "fren": "la femme nage",
+    "vocals": [{ "clipId": 42, "title": "01_1_Phrases_clipId-42-0" }]
+  },
+  {
+    "phraseId": 99,
+    "eng": "The women are running.",
+    "fren": "les femmes courent",
+    "vocals": [{ "clipId": 43, "title": "01_1_Phrases_clipId-43-0" }]
+  },
+  {
+    "phraseId": 100,
+    "eng": "The women are swimming.",
+    "fren": "les femmes nage",
+    "vocals": [{ "clipId": 44, "title": "01_1_Phrases_clipId-44-0" }]
+  },
+  {
+    "phraseId": 101,
+    "eng": "He is swimming.",
+    "fren": "il nage",
+    "vocals": [{ "clipId": 45, "title": "01_1_Phrases_clipId-45-0" }]
+  },
+  {
+    "phraseId": 102,
+    "eng": "He is writing.",
+    "fren": "il écrit",
+    "vocals": [{ "clipId": 46, "title": "01_1_Phrases_clipId-46-0" }]
+  },
+  {
+    "phraseId": 103,
+    "eng": "They are writing.",
+    "fren": "ils écrivent",
+    "vocals": [{ "clipId": 47, "title": "01_1_Phrases_clipId-47-0" }]
+  },
+  {
+    "phraseId": 104,
+    "eng": "They are writing.",
+    "fren": "elles écrivent",
+    "vocals": [{ "clipId": 48, "title": "01_1_Phrases_clipId-48-0" }]
+  },
+  {
+    "phraseId": 105,
+    "eng": "The girls are reading.",
+    "fren": "les filles lisent",
+    "vocals": [{ "clipId": 49, "title": "01_1_Phrases_clipId-49-0" }]
+  },
+  {
+    "phraseId": 106,
+    "eng": "The girls are writing.",
+    "fren": "les filles écrivent",
+    "vocals": [{ "clipId": 50, "title": "01_1_Phrases_clipId-50-0" }]
+  },
+  {
+    "phraseId": 107,
+    "eng": "The girl is writing.",
+    "fren": "la fille écrit",
+    "vocals": [
+      { "clipId": 51, "title": "01_1_Phrases_clipId-51-0" },
+      { "clipId": 16, "title": "01_4_Speaking_clipId-16-0" }
+    ]
+  },
+  {
+    "phraseId": 108,
+    "eng": "He is drinking.",
+    "fren": "il boit",
+    "vocals": [{ "clipId": 52, "title": "01_1_Phrases_clipId-52-0" }]
+  },
+  {
+    "phraseId": 109,
+    "eng": "She is writing.",
+    "fren": "elle écrit",
+    "vocals": [{ "clipId": 53, "title": "01_1_Phrases_clipId-53-0" }]
+  },
+  {
+    "phraseId": 110,
+    "eng": "She is eating an apple.",
+    "fren": "elle mange une pomme",
+    "vocals": [{ "clipId": 0, "title": "01_2_Phrases_clipId-0-0" }]
+  },
+  {
+    "phraseId": 111,
+    "eng": "He is eating eggs.",
+    "fren": "il mange des œufs",
+    "vocals": [{ "clipId": 1, "title": "01_2_Phrases_clipId-1-0" }]
+  },
+  {
+    "phraseId": 112,
+    "eng": "He is eating sandwiches",
+    "fren": "il mange des sandwichs",
+    "vocals": [{ "clipId": 2, "title": "01_2_Phrases_clipId-2-0" }]
+  },
+  {
+    "phraseId": 113,
+    "eng": "He is eating rice.",
+    "fren": "il mange du riz",
+    "vocals": [{ "clipId": 3, "title": "01_2_Phrases_clipId-3-0" }]
+  },
+  {
+    "phraseId": 114,
+    "eng": "She is drinking water.",
+    "fren": "elle boit de l'eau",
+    "vocals": [{ "clipId": 4, "title": "01_2_Phrases_clipId-4-0" }]
+  },
+  {
+    "phraseId": 115,
+    "eng": "The woman is walking.",
+    "fren": "la femme marche",
+    "vocals": [{ "clipId": 6, "title": "01_2_Phrases_clipId-6-0" }]
+  },
+  {
+    "phraseId": 116,
+    "eng": "The boy is walking.",
+    "fren": "le garçon marche",
+    "vocals": [{ "clipId": 8, "title": "01_2_Phrases_clipId-8-0" }]
+  },
+  {
+    "phraseId": 117,
+    "eng": "He is eating an apple.",
+    "fren": "il mange des pommes",
+    "vocals": [{ "clipId": 9, "title": "01_2_Phrases_clipId-9-0" }]
+  },
+  {
+    "phraseId": 118,
+    "eng": "He is driving a car.",
+    "fren": "il conduit une voiture",
+    "vocals": [{ "clipId": 10, "title": "01_2_Phrases_clipId-10-0" }]
+  },
+  {
+    "phraseId": 119,
+    "eng": "He is reading a newspaper.",
+    "fren": "il lit un journal",
+    "vocals": [{ "clipId": 11, "title": "01_2_Phrases_clipId-11-0" }]
+  },
+  {
+    "phraseId": 120,
+    "eng": "She is reading a book.",
+    "fren": "elle lit un livre",
+    "vocals": [{ "clipId": 12, "title": "01_2_Phrases_clipId-12-0" }]
+  },
+  {
+    "phraseId": 121,
+    "eng": "He has a cat.",
+    "fren": "il a un chat",
+    "vocals": [{ "clipId": 13, "title": "01_2_Phrases_clipId-13-0" }]
+  },
+  {
+    "phraseId": 122,
+    "eng": "She has a dog.",
+    "fren": "elle a un chien",
+    "vocals": [{ "clipId": 14, "title": "01_2_Phrases_clipId-14-0" }]
+  },
+  {
+    "phraseId": 123,
+    "eng": "They have a newspaper.",
+    "fren": "ils ont un journal",
+    "vocals": [{ "clipId": 15, "title": "01_2_Phrases_clipId-15-0" }]
+  },
+  {
+    "phraseId": 124,
+    "eng": "He has a car.",
+    "fren": "il a une voiture",
+    "vocals": [{ "clipId": 16, "title": "01_2_Phrases_clipId-16-0" }]
+  },
+  {
+    "phraseId": 125,
+    "eng": "She has sandwiches.",
+    "fren": "elle a des sandwichs",
+    "vocals": [{ "clipId": 17, "title": "01_2_Phrases_clipId-17-0" }]
+  },
+  {
+    "phraseId": 126,
+    "eng": "They have a horse.",
+    "fren": "elles ont un cheval",
+    "vocals": [{ "clipId": 18, "title": "01_2_Phrases_clipId-18-0" }]
+  },
+  {
+    "phraseId": 127,
+    "eng": "He has books.",
+    "fren": "il a des livres",
+    "vocals": [{ "clipId": 19, "title": "01_2_Phrases_clipId-19-0" }]
+  },
+  {
+    "phraseId": 128,
+    "eng": "She has a fish.",
+    "fren": "elle a un poisson",
+    "vocals": [{ "clipId": 20, "title": "01_2_Phrases_clipId-20-0" }]
+  },
+  {
+    "phraseId": 129,
+    "eng": "They have pens.",
+    "fren": "ils ont des stylos",
+    "vocals": [{ "clipId": 21, "title": "01_2_Phrases_clipId-21-0" }]
+  },
+  {
+    "phraseId": 130,
+    "eng": "The fish is swimming.",
+    "fren": "le poisson nage",
+    "vocals": [{ "clipId": 22, "title": "01_2_Phrases_clipId-22-0" }]
+  },
+  {
+    "phraseId": 131,
+    "eng": "The cat is sleeping.",
+    "fren": "le chat dort",
+    "vocals": [{ "clipId": 23, "title": "01_2_Phrases_clipId-23-0" }]
+  },
+  {
+    "phraseId": 132,
+    "eng": "The dog is running.",
+    "fren": "le chien mange",
+    "vocals": [{ "clipId": 24, "title": "01_2_Phrases_clipId-24-0" }]
+  },
+  {
+    "phraseId": 133,
+    "eng": "The horse is running.",
+    "fren": "le cheval court",
+    "vocals": [{ "clipId": 25, "title": "01_2_Phrases_clipId-25-0" }]
+  },
+  {
+    "phraseId": 134,
+    "eng": "He is swimming.",
+    "fren": "Il nage",
+    "vocals": [{ "clipId": 26, "title": "01_2_Phrases_clipId-26-0" }]
+  },
+  {
+    "phraseId": 135,
+    "eng": "He is walking.",
+    "fren": "il marche",
+    "vocals": [{ "clipId": 28, "title": "01_2_Phrases_clipId-28-0" }]
+  },
+  {
+    "phraseId": 136,
+    "eng": "She is sleeping.",
+    "fren": "elle dorme",
+    "vocals": [{ "clipId": 29, "title": "01_2_Phrases_clipId-29-0" }]
+  },
+  {
+    "phraseId": 137,
+    "eng": "The children are drinking.",
+    "fren": "les enfants boivent",
+    "vocals": [{ "clipId": 30, "title": "01_2_Phrases_clipId-30-0" }]
+  },
+  {
+    "phraseId": 138,
+    "eng": "The adults are eating.",
+    "fren": "les adultes mangent",
+    "vocals": [{ "clipId": 31, "title": "01_2_Phrases_clipId-31-0" }]
+  },
+  {
+    "phraseId": 139,
+    "eng": "The children are swimming.",
+    "fren": "les enfants nagent",
+    "vocals": [{ "clipId": 32, "title": "01_2_Phrases_clipId-32-0" }]
+  },
+  {
+    "phraseId": 140,
+    "eng": "The adults are running.",
+    "fren": "les adultes courent",
+    "vocals": [{ "clipId": 33, "title": "01_2_Phrases_clipId-33-0" }]
+  },
+  {
+    "phraseId": 141,
+    "eng": "The child is running.",
+    "fren": "l'enfant court",
+    "vocals": [{ "clipId": 34, "title": "01_2_Phrases_clipId-34-0" }]
+  },
+  {
+    "phraseId": 142,
+    "eng": "The children are running.",
+    "fren": "les enfants courent",
+    "vocals": [{ "clipId": 35, "title": "01_2_Phrases_clipId-35-0" }]
+  },
+  {
+    "phraseId": 143,
+    "eng": "The adult is reading.",
+    "fren": "l'adulte lit",
+    "vocals": [{ "clipId": 36, "title": "01_2_Phrases_clipId-36-0" }]
+  },
+  {
+    "phraseId": 144,
+    "eng": "The adults are reading.",
+    "fren": "les adultes lisent",
+    "vocals": [{ "clipId": 37, "title": "01_2_Phrases_clipId-37-0" }]
+  },
+  {
+    "phraseId": 145,
+    "eng": "The man is driving.",
+    "fren": "l'homme conduit",
+    "vocals": [{ "clipId": 38, "title": "01_2_Phrases_clipId-38-0" }]
+  },
+  {
+    "phraseId": 146,
+    "eng": "The boy is not driving.",
+    "fren": "le garçon ne conduit pas",
+    "vocals": [{ "clipId": 39, "title": "01_2_Phrases_clipId-39-0" }]
+  },
+  {
+    "phraseId": 147,
+    "eng": "The woman is driving.",
+    "fren": "la femme conduit",
+    "vocals": [{ "clipId": 40, "title": "01_2_Phrases_clipId-40-0" }]
+  },
+  {
+    "phraseId": 148,
+    "eng": "The girl is not driving.",
+    "fren": "la fille ne conduit pas",
+    "vocals": [{ "clipId": 41, "title": "01_2_Phrases_clipId-41-0" }]
+  },
+  {
+    "phraseId": 149,
+    "eng": "He does not swim.",
+    "fren": "il ne nage pas",
+    "vocals": [{ "clipId": 42, "title": "01_2_Phrases_clipId-42-0" }]
+  },
+  {
+    "phraseId": 150,
+    "eng": "He is sleeping.",
+    "fren": "il dort",
+    "vocals": [
+      { "clipId": 43, "title": "01_2_Phrases_clipId-43-0" },
+      { "clipId": 1, "title": "01_2_Speaking_clipId-1-0" }
+    ]
+  },
+  {
+    "phraseId": 151,
+    "eng": "He is not sleeping.",
+    "fren": "il ne dort pas",
+    "vocals": [{ "clipId": 44, "title": "01_2_Phrases_clipId-44-0" }]
+  },
+  {
+    "phraseId": 152,
+    "eng": "The boy has some milk.",
+    "fren": "le garçon a du lait",
+    "vocals": [{ "clipId": 45, "title": "01_2_Phrases_clipId-45-0" }]
+  },
+  {
+    "phraseId": 153,
+    "eng": "The boy has no milk.",
+    "fren": "le garçon n'a pas de lait",
+    "vocals": [{ "clipId": 46, "title": "01_2_Phrases_clipId-46-0" }]
+  },
+  {
+    "phraseId": 154,
+    "eng": "The girls have bicycles.",
+    "fren": "les filles ont des vélos",
+    "vocals": [{ "clipId": 47, "title": "01_2_Phrases_clipId-47-0" }]
+  },
+  {
+    "phraseId": 155,
+    "eng": "The girls don't have a bike.",
+    "fren": "les filles n'ont pas de vélo",
+    "vocals": [{ "clipId": 48, "title": "01_2_Phrases_clipId-48-0" }]
+  },
+  {
+    "phraseId": 156,
+    "eng": "The dog is running.",
+    "fren": "le chien court",
+    "vocals": [{ "clipId": 49, "title": "01_2_Phrases_clipId-49-0" }]
+  },
+  {
+    "phraseId": 157,
+    "eng": "The dog is not running.",
+    "fren": "le chien ne court pas",
+    "vocals": [{ "clipId": 50, "title": "01_2_Phrases_clipId-50-0" }]
+  },
+  {
+    "phraseId": 158,
+    "eng": "The boys have water.",
+    "fren": "les garçons ont de l'eau",
+    "vocals": [{ "clipId": 51, "title": "01_2_Phrases_clipId-51-0" }]
+  },
+  {
+    "phraseId": 159,
+    "eng": "The boys have no water.",
+    "fren": "les garçons n'ont pas d'eau",
+    "vocals": [{ "clipId": 52, "title": "01_2_Phrases_clipId-52-0" }]
+  },
+  {
+    "phraseId": 160,
+    "eng": "The milk is white.",
+    "fren": "le lait est blanc",
+    "vocals": [{ "clipId": 0, "title": "01_3_Phrases_clipId-0-0" }]
+  },
+  {
+    "phraseId": 161,
+    "eng": "The rice is white.",
+    "fren": "le riz est blanc",
+    "vocals": [{ "clipId": 1, "title": "01_3_Phrases_clipId-1-0" }]
+  },
+  {
+    "phraseId": 162,
+    "eng": "The car is green.",
+    "fren": "la voiture est verte",
+    "vocals": [{ "clipId": 2, "title": "01_3_Phrases_clipId-2-0" }]
+  },
+  {
+    "phraseId": 163,
+    "eng": "The apple is green.",
+    "fren": "la pomme est verte",
+    "vocals": [{ "clipId": 3, "title": "01_3_Phrases_clipId-3-0" }]
+  },
+  {
+    "phraseId": 164,
+    "eng": "The bicycle is green.",
+    "fren": "le vélo est vert",
+    "vocals": [{ "clipId": 4, "title": "01_3_Phrases_clipId-4-0" }]
+  },
+  {
+    "phraseId": 165,
+    "eng": "The egg is blue.",
+    "fren": "L'œuf est bleu.",
+    "vocals": [{ "clipId": 5, "title": "01_3_Phrases_clipId-5-0" }]
+  },
+  {
+    "phraseId": 166,
+    "eng": "The eggs are blue.",
+    "fren": "les œufs sont bleus",
+    "vocals": [{ "clipId": 6, "title": "01_3_Phrases_clipId-6-0" }]
+  },
+  {
+    "phraseId": 167,
+    "eng": "The bicycle is yellow.",
+    "fren": "le vélo est jaune",
+    "vocals": [{ "clipId": 7, "title": "01_3_Phrases_clipId-7-0" }]
+  },
+  {
+    "phraseId": 168,
+    "eng": "The bicycles are yellow.",
+    "fren": "les vélos sont jaunes",
+    "vocals": [{ "clipId": 8, "title": "01_3_Phrases_clipId-8-0" }]
+  },
+  {
+    "phraseId": 169,
+    "eng": "The car is black.",
+    "fren": "la voiture est noire",
+    "vocals": [{ "clipId": 9, "title": "01_3_Phrases_clipId-9-0" }]
+  },
+  {
+    "phraseId": 170,
+    "eng": "The cars are black.",
+    "fren": "les voitures sont noires",
+    "vocals": [{ "clipId": 10, "title": "01_3_Phrases_clipId-10-0" }]
+  },
+  {
+    "phraseId": 171,
+    "eng": "The balloon is red.",
+    "fren": "le ballon est rouge",
+    "vocals": [{ "clipId": 11, "title": "01_3_Phrases_clipId-11-0" }]
+  },
+  {
+    "phraseId": 172,
+    "eng": "The balloons are red.",
+    "fren": "les ballons sont rouges",
+    "vocals": [{ "clipId": 12, "title": "01_3_Phrases_clipId-12-0" }]
+  },
+  {
+    "phraseId": 173,
+    "eng": "It is red.",
+    "fren": "elle est rouge",
+    "vocals": [{ "clipId": 13, "title": "01_3_Phrases_clipId-13-0" }]
+  },
+  {
+    "phraseId": 174,
+    "eng": "It is blue.",
+    "fren": "elle est bleue",
+    "vocals": [{ "clipId": 14, "title": "01_3_Phrases_clipId-14-0" }]
+  },
+  {
+    "phraseId": 175,
+    "eng": "It is black.",
+    "fren": "elle est noire",
+    "vocals": [{ "clipId": 15, "title": "01_3_Phrases_clipId-15-0" }]
+  },
+  {
+    "phraseId": 176,
+    "eng": "It is white.",
+    "fren": "il est blanc",
+    "vocals": [{ "clipId": 16, "title": "01_3_Phrases_clipId-16-0" }]
+  },
+  {
+    "phraseId": 177,
+    "eng": "It is green.",
+    "fren": "il est vert",
+    "vocals": [{ "clipId": 17, "title": "01_3_Phrases_clipId-17-0" }]
+  },
+  {
+    "phraseId": 178,
+    "eng": "It is red.",
+    "fren": "il est rouge",
+    "vocals": [{ "clipId": 18, "title": "01_3_Phrases_clipId-18-0" }]
+  },
+  {
+    "phraseId": 179,
+    "eng": "They are white.",
+    "fren": "ils sont blancs",
+    "vocals": [{ "clipId": 19, "title": "01_3_Phrases_clipId-19-0" }]
+  },
+  {
+    "phraseId": 180,
+    "eng": "It is yellow.",
+    "fren": "il est jaune",
+    "vocals": [{ "clipId": 20, "title": "01_3_Phrases_clipId-20-0" }]
+  },
+  {
+    "phraseId": 181,
+    "eng": "They are green.",
+    "fren": "elles sont vertes",
+    "vocals": [{ "clipId": 21, "title": "01_3_Phrases_clipId-21-0" }]
+  },
+  {
+    "phraseId": 182,
+    "eng": "It is black and white.",
+    "fren": "il est noir et blanc",
+    "vocals": [{ "clipId": 22, "title": "01_3_Phrases_clipId-22-0" }]
+  },
+  {
+    "phraseId": 183,
+    "eng": "They are red.",
+    "fren": "ils sont rouges",
+    "vocals": [{ "clipId": 23, "title": "01_3_Phrases_clipId-23-0" }]
+  },
+  {
+    "phraseId": 184,
+    "eng": "They are white.",
+    "fren": "elles sont blanches",
+    "vocals": [{ "clipId": 24, "title": "01_3_Phrases_clipId-24-0" }]
+  },
+  {
+    "phraseId": 185,
+    "eng": "It is blue and green.",
+    "fren": "il est bleu et vert",
+    "vocals": [{ "clipId": 25, "title": "01_3_Phrases_clipId-25-0" }]
+  },
+  {
+    "phraseId": 186,
+    "eng": "The dog is black.",
+    "fren": "le chien est noir",
+    "vocals": [{ "clipId": 26, "title": "01_3_Phrases_clipId-26-0" }]
+  },
+  {
+    "phraseId": 187,
+    "eng": "The dog is white.",
+    "fren": "le chien est blanc",
+    "vocals": [{ "clipId": 27, "title": "01_3_Phrases_clipId-27-0" }]
+  },
+  {
+    "phraseId": 188,
+    "eng": "The cat is black.",
+    "fren": "le chat est noir",
+    "vocals": [{ "clipId": 28, "title": "01_3_Phrases_clipId-28-0" }]
+  },
+  {
+    "phraseId": 189,
+    "eng": "The cat is white.",
+    "fren": "le chat est blanc",
+    "vocals": [{ "clipId": 29, "title": "01_3_Phrases_clipId-29-0" }]
+  },
+  {
+    "phraseId": 190,
+    "eng": "The grass is green.",
+    "fren": "l'herbe est verte",
+    "vocals": [{ "clipId": 30, "title": "01_3_Phrases_clipId-30-0" }]
+  },
+  {
+    "phraseId": 191,
+    "eng": "The sky is blue.",
+    "fren": "le ciel est bleu",
+    "vocals": [{ "clipId": 31, "title": "01_3_Phrases_clipId-31-0" }]
+  },
+  {
+    "phraseId": 192,
+    "eng": "The moon is white.",
+    "fren": "la Lune est blanche",
+    "vocals": [{ "clipId": 32, "title": "01_3_Phrases_clipId-32-0" }]
+  },
+  {
+    "phraseId": 193,
+    "eng": "The sun is yellow.",
+    "fren": "le soleil est jaune",
+    "vocals": [{ "clipId": 33, "title": "01_3_Phrases_clipId-33-0" }]
+  },
+  {
+    "phraseId": 194,
+    "eng": "The flower is red.",
+    "fren": "la fleur est rouge",
+    "vocals": [{ "clipId": 34, "title": "01_3_Phrases_clipId-34-0" }]
+  },
+  {
+    "phraseId": 195,
+    "eng": "The car is white.",
+    "fren": "la voiture est blanche",
+    "vocals": [{ "clipId": 35, "title": "01_3_Phrases_clipId-35-0" }]
+  },
+  {
+    "phraseId": 196,
+    "eng": "The ball is green.",
+    "fren": "le ballon est vert",
+    "vocals": [{ "clipId": 36, "title": "01_3_Phrases_clipId-36-0" }]
+  },
+  {
+    "phraseId": 197,
+    "eng": "The flower is small.",
+    "fren": "la fleur est petite",
+    "vocals": [{ "clipId": 37, "title": "01_3_Phrases_clipId-37-0" }]
+  },
+  {
+    "phraseId": 198,
+    "eng": "The egg is small.",
+    "fren": "l'oeuf est petit",
+    "vocals": [{ "clipId": 38, "title": "01_3_Phrases_clipId-38-0" }]
+  },
+  {
+    "phraseId": 199,
+    "eng": "The flowers are small.",
+    "fren": "les fleurs sont petites",
+    "vocals": [{ "clipId": 39, "title": "01_3_Phrases_clipId-39-0" }]
+  },
+  {
+    "phraseId": 200,
+    "eng": "The eggs are small.",
+    "fren": "les œufs sont petits",
+    "vocals": [{ "clipId": 40, "title": "01_3_Phrases_clipId-40-0" }]
+  },
+  {
+    "phraseId": 201,
+    "eng": "The flowers are large.",
+    "fren": "les fleurs sont grosses",
+    "vocals": [{ "clipId": 41, "title": "01_3_Phrases_clipId-41-0" }]
+  },
+  {
+    "phraseId": 202,
+    "eng": "The books are big.",
+    "fren": "les livres sont gros",
+    "vocals": [{ "clipId": 42, "title": "01_3_Phrases_clipId-42-0" }]
+  },
+  {
+    "phraseId": 203,
+    "eng": "The fish is big.",
+    "fren": "le poisson est gros",
+    "vocals": [{ "clipId": 43, "title": "01_3_Phrases_clipId-43-0" }]
+  },
+  {
+    "phraseId": 204,
+    "eng": "The egg is big.",
+    "fren": "L'œuf est gros",
+    "vocals": [{ "clipId": 44, "title": "01_3_Phrases_clipId-44-0" }]
+  },
+  {
+    "phraseId": 205,
+    "eng": "She is a doctor.",
+    "fren": "elle est médecin",
+    "vocals": [{ "clipId": 45, "title": "01_3_Phrases_clipId-45-0" }]
+  },
+  {
+    "phraseId": 206,
+    "eng": "He is a professor.",
+    "fren": "il est professeur",
+    "vocals": [{ "clipId": 46, "title": "01_3_Phrases_clipId-46-0" }]
+  },
+  {
+    "phraseId": 207,
+    "eng": "They are police officers.",
+    "fren": "ils sont policiers",
+    "vocals": [{ "clipId": 47, "title": "01_3_Phrases_clipId-47-0" }]
+  },
+  {
+    "phraseId": 208,
+    "eng": "The teacher is reading.",
+    "fren": "la maîtresse lit",
+    "vocals": [{ "clipId": 48, "title": "01_3_Phrases_clipId-48-0" }]
+  },
+  {
+    "phraseId": 209,
+    "eng": "The teacher is writing.",
+    "fren": "le maître écrit",
+    "vocals": [{ "clipId": 49, "title": "01_3_Phrases_clipId-49-0" }]
+  },
+  {
+    "phraseId": 210,
+    "eng": "The professor is reading.",
+    "fren": "le professeur lit",
+    "vocals": [{ "clipId": 50, "title": "01_3_Phrases_clipId-50-0" }]
+  },
+  {
+    "phraseId": 211,
+    "eng": "The professor is writing.",
+    "fren": "le professeur écrit",
+    "vocals": [{ "clipId": 51, "title": "01_3_Phrases_clipId-51-0" }]
+  },
+  {
+    "phraseId": 212,
+    "eng": "He is a police officer.",
+    "fren": "il est policier",
+    "vocals": [{ "clipId": 52, "title": "01_3_Phrases_clipId-52-0" }]
+  },
+  {
+    "phraseId": 213,
+    "eng": "She is a teacher.",
+    "fren": "elle est professeur",
+    "vocals": [{ "clipId": 53, "title": "01_3_Phrases_clipId-53-0" }]
+  },
+  {
+    "phraseId": 214,
+    "eng": "He is a doctor.",
+    "fren": "il est médecin",
+    "vocals": [{ "clipId": 54, "title": "01_3_Phrases_clipId-54-0" }]
+  },
+  {
+    "phraseId": 215,
+    "eng": "They are students.",
+    "fren": "ce sont des élèves",
+    "vocals": [{ "clipId": 55, "title": "01_3_Phrases_clipId-55-0" }]
+  },
+  {
+    "phraseId": 216,
+    "eng": "There is a fish.",
+    "fren": "il y a un poisson",
+    "vocals": [{ "clipId": 0, "title": "01_4_Phrases_clipId-0-0" }]
+  },
+  {
+    "phraseId": 217,
+    "eng": "There is a book.",
+    "fren": "il y a un livre",
+    "vocals": [{ "clipId": 1, "title": "01_4_Phrases_clipId-1-0" }]
+  },
+  {
+    "phraseId": 218,
+    "eng": "There is a woman.",
+    "fren": "il y a une femme",
+    "vocals": [{ "clipId": 2, "title": "01_4_Phrases_clipId-2-0" }]
+  },
+  {
+    "phraseId": 219,
+    "eng": "There is an egg.",
+    "fren": "il y a un œuf",
+    "vocals": [{ "clipId": 3, "title": "01_4_Phrases_clipId-3-0" }]
+  },
+  {
+    "phraseId": 220,
+    "eng": "There is a child.",
+    "fren": "il y a un enfant",
+    "vocals": [{ "clipId": 4, "title": "01_4_Phrases_clipId-4-0" }]
+  },
+  {
+    "phraseId": 221,
+    "eng": "There is a mobile phone.",
+    "fren": "il y a un portable",
+    "vocals": [{ "clipId": 5, "title": "01_4_Phrases_clipId-5-0" }]
+  },
+  {
+    "phraseId": 222,
+    "eng": "There are five fish.",
+    "fren": "Il y a cinq poissons ",
+    "vocals": [{ "clipId": 6, "title": "01_4_Phrases_clipId-6-0" }]
+  },
+  {
+    "phraseId": 223,
+    "eng": "There are three books.",
+    "fren": "il y a trois livres",
+    "vocals": [{ "clipId": 7, "title": "01_4_Phrases_clipId-7-0" }]
+  },
+  {
+    "phraseId": 224,
+    "eng": "There are four women.",
+    "fren": "il y a quatre femmes",
+    "vocals": [{ "clipId": 8, "title": "01_4_Phrases_clipId-8-0" }]
+  },
+  {
+    "phraseId": 225,
+    "eng": "There are six eggs.",
+    "fren": "il y a six œufs",
+    "vocals": [{ "clipId": 9, "title": "01_4_Phrases_clipId-9-0" }]
+  },
+  {
+    "phraseId": 226,
+    "eng": "There are two children.",
+    "fren": "il y a deux enfants",
+    "vocals": [{ "clipId": 10, "title": "01_4_Phrases_clipId-10-0" }]
+  },
+  {
+    "phraseId": 227,
+    "eng": "There are two laptops.",
+    "fren": "il y a deux portables",
+    "vocals": [{ "clipId": 11, "title": "01_4_Phrases_clipId-11-0" }]
+  },
+  {
+    "phraseId": 228,
+    "eng": "There are three balls.",
+    "fren": "il y a trois balles",
+    "vocals": [{ "clipId": 12, "title": "01_4_Phrases_clipId-12-0" }]
+  },
+  {
+    "phraseId": 229,
+    "eng": "There is a bed.",
+    "fren": "il y a un lit",
+    "vocals": [{ "clipId": 13, "title": "01_4_Phrases_clipId-13-0" }]
+  },
+  {
+    "phraseId": 230,
+    "eng": "There are four keys.",
+    "fren": "il y a quatre clés",
+    "vocals": [{ "clipId": 14, "title": "01_4_Phrases_clipId-14-0" }]
+  },
+  {
+    "phraseId": 231,
+    "eng": "There is a cup.",
+    "fren": "il y a une tasse",
+    "vocals": [{ "clipId": 15, "title": "01_4_Phrases_clipId-15-0" }]
+  },
+  {
+    "phraseId": 232,
+    "eng": "There are four chairs.",
+    "fren": "il y a quatre chaises",
+    "vocals": [{ "clipId": 16, "title": "01_4_Phrases_clipId-16-0" }]
+  },
+  {
+    "phraseId": 233,
+    "eng": "There are three telephones.",
+    "fren": "il y a trois téléphones",
+    "vocals": [{ "clipId": 17, "title": "01_4_Phrases_clipId-17-0" }]
+  },
+  {
+    "phraseId": 234,
+    "eng": "There is a ball.",
+    "fren": "il y a une balle",
+    "vocals": [{ "clipId": 18, "title": "01_4_Phrases_clipId-18-0" }]
+  },
+  {
+    "phraseId": 235,
+    "eng": "There are three chairs.",
+    "fren": "il y a trois chaises",
+    "vocals": [{ "clipId": 19, "title": "01_4_Phrases_clipId-19-0" }]
+  },
+  {
+    "phraseId": 236,
+    "eng": "There is a table.",
+    "fren": "il y a une table",
+    "vocals": [{ "clipId": 20, "title": "01_4_Phrases_clipId-20-0" }]
+  },
+  {
+    "phraseId": 237,
+    "eng": "There are two tables.",
+    "fren": "il y a deux tables",
+    "vocals": [{ "clipId": 21, "title": "01_4_Phrases_clipId-21-0" }]
+  },
+  {
+    "phraseId": 238,
+    "eng": "There are three eggs.",
+    "fren": "il y a trois œufs",
+    "vocals": [{ "clipId": 22, "title": "01_4_Phrases_clipId-22-0" }]
+  },
+  {
+    "phraseId": 239,
+    "eng": "There are five eggs.",
+    "fren": "Il y a cinq œufs",
+    "vocals": [{ "clipId": 23, "title": "01_4_Phrases_clipId-23-0" }]
+  },
+  {
+    "phraseId": 240,
+    "eng": "There are four cups.",
+    "fren": "Il y a quatre tasses",
+    "vocals": [{ "clipId": 24, "title": "01_4_Phrases_clipId-24-0" }]
+  },
+  {
+    "phraseId": 241,
+    "eng": "There are six cups.",
+    "fren": "il y a six tasse",
+    "vocals": [{ "clipId": 25, "title": "01_4_Phrases_clipId-25-0" }]
+  },
+  {
+    "phraseId": 242,
+    "eng": "Three plates are white.",
+    "fren": "trois assiettes sont blanches",
+    "vocals": [{ "clipId": 26, "title": "01_4_Phrases_clipId-26-0" }]
+  },
+  {
+    "phraseId": 243,
+    "eng": "Some apples are green.",
+    "fren": "des pommes sont vertes",
+    "vocals": [{ "clipId": 27, "title": "01_4_Phrases_clipId-27-0" }]
+  },
+  {
+    "phraseId": 244,
+    "eng": "One flower is red.",
+    "fren": "une fleur est rouge",
+    "vocals": [{ "clipId": 28, "title": "01_4_Phrases_clipId-28-0" }]
+  },
+  {
+    "phraseId": 245,
+    "eng": "Four bowls are blue.",
+    "fren": "Quatre bols sont bleus.",
+    "vocals": [{ "clipId": 29, "title": "01_4_Phrases_clipId-29-0" }]
+  },
+  {
+    "phraseId": 246,
+    "eng": "The girl is wearing a t-shirt.",
+    "fren": "la fille porte un t-shirt",
+    "vocals": [{ "clipId": 30, "title": "01_4_Phrases_clipId-30-0" }]
+  },
+  {
+    "phraseId": 247,
+    "eng": "The boy is not wearing a t-shirt.",
+    "fren": "le garçon ne porte pas de t-shirt",
+    "vocals": [{ "clipId": 31, "title": "01_4_Phrases_clipId-31-0" }]
+  },
+  {
+    "phraseId": 248,
+    "eng": "The woman is wearing shoes.",
+    "fren": "la femme porte des chaussures",
+    "vocals": [{ "clipId": 32, "title": "01_4_Phrases_clipId-32-0" }]
+  },
+  {
+    "phraseId": 249,
+    "eng": "The man is not wearing shoes.",
+    "fren": "l'homme ne porte pas de chaussures",
+    "vocals": [{ "clipId": 33, "title": "01_4_Phrases_clipId-33-0" }]
+  },
+  {
+    "phraseId": 250,
+    "eng": "The woman is wearing a dress.",
+    "fren": "la femme porte une robe",
+    "vocals": [{ "clipId": 34, "title": "01_4_Phrases_clipId-34-0" }]
+  },
+  {
+    "phraseId": 251,
+    "eng": "The woman is wearing a skirt.",
+    "fren": "la femme porte une jupe",
+    "vocals": [{ "clipId": 35, "title": "01_4_Phrases_clipId-35-0" }]
+  },
+  {
+    "phraseId": 252,
+    "eng": "The woman is wearing trousers.",
+    "fren": "la femme porte un pantalon",
+    "vocals": [{ "clipId": 36, "title": "01_4_Phrases_clipId-36-0" }]
+  },
+  {
+    "phraseId": 253,
+    "eng": "The woman is wearing a hat.",
+    "fren": "la femme porte un chapeau",
+    "vocals": [{ "clipId": 37, "title": "01_4_Phrases_clipId-37-0" }]
+  },
+  {
+    "phraseId": 254,
+    "eng": "He is buying a hat.",
+    "fren": "il achète un chapeau",
+    "vocals": [{ "clipId": 38, "title": "01_4_Phrases_clipId-38-0" }]
+  },
+  {
+    "phraseId": 255,
+    "eng": "She is buying two hats.",
+    "fren": "elle achète deux chapeaux",
+    "vocals": [{ "clipId": 39, "title": "01_4_Phrases_clipId-39-0" }]
+  },
+  {
+    "phraseId": 256,
+    "eng": "He is buying three t-shirts.",
+    "fren": "il achète trois t-shirts",
+    "vocals": [{ "clipId": 40, "title": "01_4_Phrases_clipId-40-0" }]
+  },
+  {
+    "phraseId": 257,
+    "eng": "She is buying 4 t-shirts.",
+    "fren": "elle achète 4 t-shirts",
+    "vocals": [{ "clipId": 41, "title": "01_4_Phrases_clipId-41-0" }]
+  },
+  {
+    "phraseId": 258,
+    "eng": "The man is wearing a coat.",
+    "fren": "l'homme porte un manteau",
+    "vocals": [{ "clipId": 42, "title": "01_4_Phrases_clipId-42-0" }]
+  },
+  {
+    "phraseId": 259,
+    "eng": "The man is buying a coat.",
+    "fren": "l'homme achète un manteau",
+    "vocals": [{ "clipId": 43, "title": "01_4_Phrases_clipId-43-0" }]
+  },
+  {
+    "phraseId": 260,
+    "eng": "The man is wearing a hat.",
+    "fren": "l'homme porte un chapeau",
+    "vocals": [{ "clipId": 44, "title": "01_4_Phrases_clipId-44-0" }]
+  },
+  {
+    "phraseId": 261,
+    "eng": "The man is buying a hat.",
+    "fren": "l'homme achète un chapeau",
+    "vocals": [{ "clipId": 45, "title": "01_4_Phrases_clipId-45-0" }]
+  },
+  {
+    "phraseId": 262,
+    "eng": "Hello!",
+    "fren": "Bonjour!",
+    "vocals": [
+      { "clipId": 0, "title": "01_2_Speaking_clipId-0-0" },
+      { "clipId": 0, "title": "01_3_Speaking_clipId-0-0" }
+    ]
+  },
+  {
+    "phraseId": 263,
+    "eng": "She is sleeping.",
+    "fren": "elle dort",
+    "vocals": [{ "clipId": 2, "title": "01_2_Speaking_clipId-2-0" }]
+  },
+  {
+    "phraseId": 264,
+    "eng": "They are sleeping.",
+    "fren": "ils dorment",
+    "vocals": [{ "clipId": 3, "title": "01_2_Speaking_clipId-3-0" }]
+  },
+  {
+    "phraseId": 265,
+    "eng": "It is an apple.",
+    "fren": "c'est une pomme",
+    "vocals": [{ "clipId": 4, "title": "01_2_Speaking_clipId-4-0" }]
+  },
+  {
+    "phraseId": 266,
+    "eng": "It is a newspaper.",
+    "fren": "c'est un journal",
+    "vocals": [{ "clipId": 5, "title": "01_2_Speaking_clipId-5-0" }]
+  },
+  {
+    "phraseId": 267,
+    "eng": "It's a cat.",
+    "fren": "c'est un chat",
+    "vocals": [{ "clipId": 6, "title": "01_2_Speaking_clipId-6-0" }]
+  },
+  {
+    "phraseId": 268,
+    "eng": "It's a bike.",
+    "fren": "c'est un vélo",
+    "vocals": [
+      { "clipId": 7, "title": "01_2_Speaking_clipId-7-0" },
+      { "clipId": 46, "title": "01_4_Speaking_clipId-46-0" }
+    ]
+  },
+  {
+    "phraseId": 269,
+    "eng": "What is this?",
+    "fren": "qu'est-ce que c'est",
+    "vocals": [
+      { "clipId": 8, "title": "01_2_Speaking_clipId-8-0" },
+      { "clipId": 40, "title": "01_4_Speaking_clipId-40-0" }
+    ]
+  },
+  {
+    "phraseId": 270,
+    "eng": "It's an egg.",
+    "fren": "c'est un œuf",
+    "vocals": [{ "clipId": 9, "title": "01_2_Speaking_clipId-9-0" }]
+  },
+  {
+    "phraseId": 271,
+    "eng": "It is a pen.",
+    "fren": "c'est un stylo",
+    "vocals": [{ "clipId": 10, "title": "01_2_Speaking_clipId-10-0" }]
+  },
+  {
+    "phraseId": 272,
+    "eng": "It is a fish.",
+    "fren": "c'est un poisson",
+    "vocals": [{ "clipId": 11, "title": "01_2_Speaking_clipId-11-0" }]
+  },
+  {
+    "phraseId": 273,
+    "eng": "It is rice.",
+    "fren": "c'est du riz",
+    "vocals": [{ "clipId": 12, "title": "01_2_Speaking_clipId-12-0" }]
+  },
+  {
+    "phraseId": 274,
+    "eng": "Is he sleeping?",
+    "fren": "est-ce qu'il dort",
+    "vocals": [{ "clipId": 13, "title": "01_2_Speaking_clipId-13-0" }]
+  },
+  {
+    "phraseId": 275,
+    "eng": "Yes, he is sleeping.",
+    "fren": "oui il dort",
+    "vocals": [{ "clipId": 14, "title": "01_2_Speaking_clipId-14-0" }]
+  },
+  {
+    "phraseId": 276,
+    "eng": "No, she's not asleep.",
+    "fren": "non elle ne dort pas",
+    "vocals": [{ "clipId": 15, "title": "01_2_Speaking_clipId-15-0" }]
+  },
+  {
+    "phraseId": 277,
+    "eng": "Is the dog swimming?",
+    "fren": "est-ce que le chien nage",
+    "vocals": [{ "clipId": 16, "title": "01_2_Speaking_clipId-16-0" }]
+  },
+  {
+    "phraseId": 278,
+    "eng": "Is the horse swimming?",
+    "fren": "est-ce que le cheval nage",
+    "vocals": [{ "clipId": 17, "title": "01_2_Speaking_clipId-17-0" }]
+  },
+  {
+    "phraseId": 279,
+    "eng": "Is there a newspaper?",
+    "fren": "est-ce qu'il y a un journal",
+    "vocals": [{ "clipId": 18, "title": "01_2_Speaking_clipId-18-0" }]
+  },
+  {
+    "phraseId": 280,
+    "eng": "no",
+    "fren": "non",
+    "vocals": [{ "clipId": 19, "title": "01_2_Speaking_clipId-19-0" }]
+  },
+  {
+    "phraseId": 281,
+    "eng": "Are you reading a book?",
+    "fren": "est-ce que lis un livre",
+    "vocals": [{ "clipId": 20, "title": "01_2_Speaking_clipId-20-0" }]
+  },
+  {
+    "phraseId": 282,
+    "eng": "yes",
+    "fren": "oui",
+    "vocals": [{ "clipId": 21, "title": "01_2_Speaking_clipId-21-0" }]
+  },
+  {
+    "phraseId": 283,
+    "eng": "Is he eating an apple?",
+    "fren": "est-ce qu'il mange une pomme",
+    "vocals": [{ "clipId": 22, "title": "01_2_Speaking_clipId-22-0" }]
+  },
+  {
+    "phraseId": 284,
+    "eng": "farewell / goodbye",
+    "fren": "au revoir",
+    "vocals": [
+      { "clipId": 23, "title": "01_2_Speaking_clipId-23-0" },
+      { "clipId": 52, "title": "01_3_Speaking_clipId-52-0" },
+      { "clipId": 53, "title": "01_4_Speaking_clipId-53-0" }
+    ]
+  },
+  {
+    "phraseId": 285,
+    "eng": "I am a boy.",
+    "fren": "je suis un garçon",
+    "vocals": [{ "clipId": 1, "title": "01_3_Speaking_clipId-1-0" }]
+  },
+  {
+    "phraseId": 286,
+    "eng": "I am a man.",
+    "fren": "je suis un homme",
+    "vocals": [{ "clipId": 2, "title": "01_3_Speaking_clipId-2-0" }]
+  },
+  {
+    "phraseId": 287,
+    "eng": "I am a woman.",
+    "fren": "je suis une femme",
+    "vocals": [{ "clipId": 3, "title": "01_3_Speaking_clipId-3-0" }]
+  },
+  {
+    "phraseId": 288,
+    "eng": "I am a teacher.",
+    "fren": "je suis professeur",
+    "vocals": [{ "clipId": 4, "title": "01_3_Speaking_clipId-4-0" }]
+  },
+  {
+    "phraseId": 289,
+    "eng": "I am not a teacher.",
+    "fren": "je ne suis pas professeur",
+    "vocals": [{ "clipId": 5, "title": "01_3_Speaking_clipId-5-0" }]
+  },
+  {
+    "phraseId": 290,
+    "eng": "I am a doctor.",
+    "fren": "je suis médecin",
+    "vocals": [{ "clipId": 6, "title": "01_3_Speaking_clipId-6-0" }]
+  },
+  {
+    "phraseId": 291,
+    "eng": "I am not a doctor.",
+    "fren": "je ne suis pas médecin",
+    "vocals": [{ "clipId": 7, "title": "01_3_Speaking_clipId-7-0" }]
+  },
+  {
+    "phraseId": 292,
+    "eng": "I am a student.",
+    "fren": "je suis élève",
+    "vocals": [{ "clipId": 8, "title": "01_3_Speaking_clipId-8-0" }]
+  },
+  {
+    "phraseId": 293,
+    "eng": "I am not a student.",
+    "fren": "je ne suis pas élève",
+    "vocals": [{ "clipId": 9, "title": "01_3_Speaking_clipId-9-0" }]
+  },
+  {
+    "phraseId": 294,
+    "eng": "I have a green book.",
+    "fren": "j'ai un livre vert",
+    "vocals": [{ "clipId": 10, "title": "01_3_Speaking_clipId-10-0" }]
+  },
+  {
+    "phraseId": 295,
+    "eng": "I have a yellow book.",
+    "fren": "j'ai un Livre jaune",
+    "vocals": [{ "clipId": 11, "title": "01_3_Speaking_clipId-11-0" }]
+  },
+  {
+    "phraseId": 296,
+    "eng": "I have a red book.",
+    "fren": "j'ai un livre rouge",
+    "vocals": [{ "clipId": 12, "title": "01_3_Speaking_clipId-12-0" }]
+  },
+  {
+    "phraseId": 297,
+    "eng": "You have a green book.",
+    "fren": "vous avez un livre vert",
+    "vocals": [{ "clipId": 13, "title": "01_3_Speaking_clipId-13-0" }]
+  },
+  {
+    "phraseId": 298,
+    "eng": "You have a yellow Book.",
+    "fren": "vous avez un Livre jaune",
+    "vocals": [{ "clipId": 14, "title": "01_3_Speaking_clipId-14-0" }]
+  },
+  {
+    "phraseId": 299,
+    "eng": "You have a red book",
+    "fren": "vous avez un livre rouge",
+    "vocals": [{ "clipId": 15, "title": "01_3_Speaking_clipId-15-0" }]
+  },
+  {
+    "phraseId": 300,
+    "eng": "Are you a doctor?",
+    "fren": "est-ce que vous êtes médecin",
+    "vocals": [{ "clipId": 16, "title": "01_3_Speaking_clipId-16-0" }]
+  },
+  {
+    "phraseId": 301,
+    "eng": "Yes, I am a doctor.",
+    "fren": "oui je suis médecin",
+    "vocals": [{ "clipId": 17, "title": "01_3_Speaking_clipId-17-0" }]
+  },
+  {
+    "phraseId": 302,
+    "eng": "No, I am not a doctor.",
+    "fren": "non je ne suis pas médecin",
+    "vocals": [{ "clipId": 18, "title": "01_3_Speaking_clipId-18-0" }]
+  },
+  {
+    "phraseId": 303,
+    "eng": "What are you drinking?",
+    "fren": "qu'est-ce que vous buvez",
+    "vocals": [{ "clipId": 19, "title": "01_3_Speaking_clipId-19-0" }]
+  },
+  {
+    "phraseId": 304,
+    "eng": "I am drinking water.",
+    "fren": "je bois de l'eau",
+    "vocals": [{ "clipId": 20, "title": "01_3_Speaking_clipId-20-0" }]
+  },
+  {
+    "phraseId": 305,
+    "eng": "What are you eating?",
+    "fren": "qu'est-ce que vous mangez",
+    "vocals": [{ "clipId": 21, "title": "01_3_Speaking_clipId-21-0" }]
+  },
+  {
+    "phraseId": 306,
+    "eng": "I am eating rice.",
+    "fren": "je mange du riz",
+    "vocals": [{ "clipId": 22, "title": "01_3_Speaking_clipId-22-0" }]
+  },
+  {
+    "phraseId": 307,
+    "eng": "What do you have?",
+    "fren": "qu'est-ce que vous avez",
+    "vocals": [{ "clipId": 23, "title": "01_3_Speaking_clipId-23-0" }]
+  },
+  {
+    "phraseId": 308,
+    "eng": "I have a sandwich.",
+    "fren": "j'ai un sandwich",
+    "vocals": [{ "clipId": 24, "title": "01_3_Speaking_clipId-24-0" }]
+  },
+  {
+    "phraseId": 309,
+    "eng": "I have a pen.",
+    "fren": "j'ai un stylo",
+    "vocals": [{ "clipId": 25, "title": "01_3_Speaking_clipId-25-0" }]
+  },
+  {
+    "phraseId": 310,
+    "eng": "I am a teacher.",
+    "fren": "je suis maîtresse",
+    "vocals": [{ "clipId": 26, "title": "01_3_Speaking_clipId-26-0" }]
+  },
+  {
+    "phraseId": 311,
+    "eng": "We are professors.",
+    "fren": "nous sommes professeur",
+    "vocals": [{ "clipId": 27, "title": "01_3_Speaking_clipId-27-0" }]
+  },
+  {
+    "phraseId": 312,
+    "eng": "I am a girl.",
+    "fren": "je suis une fille",
+    "vocals": [{ "clipId": 28, "title": "01_3_Speaking_clipId-28-0" }]
+  },
+  {
+    "phraseId": 313,
+    "eng": "We are girls.",
+    "fren": "nous sommes des filles",
+    "vocals": [{ "clipId": 29, "title": "01_3_Speaking_clipId-29-0" }]
+  },
+  {
+    "phraseId": 314,
+    "eng": "We are boys.",
+    "fren": "nous sommes des garçons",
+    "vocals": [{ "clipId": 30, "title": "01_3_Speaking_clipId-30-0" }]
+  },
+  {
+    "phraseId": 315,
+    "eng": "We are police officers.",
+    "fren": "nous sommes policiers",
+    "vocals": [{ "clipId": 31, "title": "01_3_Speaking_clipId-31-0" }]
+  },
+  {
+    "phraseId": 316,
+    "eng": "We are doctors.",
+    "fren": "nous sommes médecins",
+    "vocals": [{ "clipId": 32, "title": "01_3_Speaking_clipId-32-0" }]
+  },
+  {
+    "phraseId": 317,
+    "eng": "I have a red bicycle.",
+    "fren": "j'ai un vélo rouge",
+    "vocals": [{ "clipId": 33, "title": "01_3_Speaking_clipId-33-0" }]
+  },
+  {
+    "phraseId": 318,
+    "eng": "We have green bicycles.",
+    "fren": "nous avons des vélos verts",
+    "vocals": [{ "clipId": 34, "title": "01_3_Speaking_clipId-34-0" }]
+  },
+  {
+    "phraseId": 319,
+    "eng": "I have red apples.",
+    "fren": "j'ai des pommes rouges",
+    "vocals": [{ "clipId": 35, "title": "01_3_Speaking_clipId-35-0" }]
+  },
+  {
+    "phraseId": 320,
+    "eng": "We have green apples.",
+    "fren": "nous avons des pommes vertes",
+    "vocals": [{ "clipId": 36, "title": "01_3_Speaking_clipId-36-0" }]
+  },
+  {
+    "phraseId": 321,
+    "eng": "What is the man doing?",
+    "fren": "qu'est-ce que l'homme fait",
+    "vocals": [{ "clipId": 37, "title": "01_3_Speaking_clipId-37-0" }]
+  },
+  {
+    "phraseId": 322,
+    "eng": "What is the woman doing?",
+    "fren": "qu'est-ce que la femme fait",
+    "vocals": [{ "clipId": 39, "title": "01_3_Speaking_clipId-39-0" }]
+  },
+  {
+    "phraseId": 323,
+    "eng": "What is the boy doing?",
+    "fren": "qu'est-ce que le garçon fait",
+    "vocals": [{ "clipId": 41, "title": "01_3_Speaking_clipId-41-0" }]
+  },
+  {
+    "phraseId": 324,
+    "eng": "What is the doctor doing?",
+    "fren": "qu'est-ce que le médecin a fait",
+    "vocals": [{ "clipId": 43, "title": "01_3_Speaking_clipId-43-0" }]
+  },
+  {
+    "phraseId": 325,
+    "eng": "The doctor is writing.",
+    "fren": "le médecin écrit",
+    "vocals": [{ "clipId": 44, "title": "01_3_Speaking_clipId-44-0" }]
+  },
+  {
+    "phraseId": 326,
+    "eng": "What is the policeman doing?",
+    "fren": "qu'est-ce que le policier fait",
+    "vocals": [{ "clipId": 45, "title": "01_3_Speaking_clipId-45-0" }]
+  },
+  {
+    "phraseId": 327,
+    "eng": "The police officer is driving.",
+    "fren": "le policier conduit",
+    "vocals": [{ "clipId": 46, "title": "01_3_Speaking_clipId-46-0" }]
+  },
+  {
+    "phraseId": 328,
+    "eng": "What is the girl doing?",
+    "fren": "qu'est-ce que la fille fait",
+    "vocals": [{ "clipId": 47, "title": "01_3_Speaking_clipId-47-0" }]
+  },
+  {
+    "phraseId": 329,
+    "eng": "The girl is walking.",
+    "fren": "la fille marche",
+    "vocals": [{ "clipId": 48, "title": "01_3_Speaking_clipId-48-0" }]
+  },
+  {
+    "phraseId": 330,
+    "eng": "What are you doing?",
+    "fren": "qu'est-ce que vous faites",
+    "vocals": [{ "clipId": 49, "title": "01_3_Speaking_clipId-49-0" }]
+  },
+  {
+    "phraseId": 331,
+    "eng": "I am writing.",
+    "fren": "j'écris",
+    "vocals": [{ "clipId": 50, "title": "01_3_Speaking_clipId-50-0" }]
+  },
+  {
+    "phraseId": 332,
+    "eng": "I am driving.",
+    "fren": "je conduis",
+    "vocals": [{ "clipId": 51, "title": "01_3_Speaking_clipId-51-0" }]
+  },
+  {
+    "phraseId": 333,
+    "eng": "Hello!",
+    "fren": "bonjour",
+    "vocals": [{ "clipId": 0, "title": "01_4_Speaking_clipId-0-0" }]
+  },
+  {
+    "phraseId": 334,
+    "eng": "How many bowls do you have?",
+    "fren": "combien de bols avez-vous",
+    "vocals": [
+      { "clipId": 1, "title": "01_4_Speaking_clipId-1-0" },
+      { "clipId": 4, "title": "01_4_Conversation_clipId-4-0" }
+    ]
+  },
+  {
+    "phraseId": 335,
+    "eng": "I have three bowls.",
+    "fren": "j'ai trois bols",
+    "vocals": [
+      { "clipId": 2, "title": "01_4_Speaking_clipId-2-0" },
+      { "clipId": 5, "title": "01_4_Conversation_clipId-5-0" }
+    ]
+  },
+  {
+    "phraseId": 336,
+    "eng": "How many plates do you have?",
+    "fren": "combien d'assiettes avez-vous",
+    "vocals": [
+      { "clipId": 3, "title": "01_4_Speaking_clipId-3-0" },
+      { "clipId": 6, "title": "01_4_Conversation_clipId-6-0" }
+    ]
+  },
+  {
+    "phraseId": 337,
+    "eng": "I have two plates.",
+    "fren": "j'ai deux assiettes",
+    "vocals": [
+      { "clipId": 4, "title": "01_4_Speaking_clipId-4-0" },
+      { "clipId": 7, "title": "01_4_Conversation_clipId-7-0" }
+    ]
+  },
+  {
+    "phraseId": 338,
+    "eng": "I'm buying a skirt.",
+    "fren": "j'achète une jupe",
+    "vocals": [{ "clipId": 5, "title": "01_4_Speaking_clipId-5-0" }]
+  },
+  {
+    "phraseId": 339,
+    "eng": "I'm wearing a skirt.",
+    "fren": "je porte une jupe",
+    "vocals": [{ "clipId": 6, "title": "01_4_Speaking_clipId-6-0" }]
+  },
+  {
+    "phraseId": 340,
+    "eng": "I'm buying a pair of trousers.",
+    "fren": "j'achète un pantalon",
+    "vocals": [{ "clipId": 7, "title": "01_4_Speaking_clipId-7-0" }]
+  },
+  {
+    "phraseId": 341,
+    "eng": "I am wearing trousers.",
+    "fren": "je porte un pantalon",
+    "vocals": [{ "clipId": 8, "title": "01_4_Speaking_clipId-8-0" }]
+  },
+  {
+    "phraseId": 342,
+    "eng": "Who is eating?",
+    "fren": "qui mange",
+    "vocals": [{ "clipId": 9, "title": "01_4_Speaking_clipId-9-0" }]
+  },
+  {
+    "phraseId": 343,
+    "eng": "The policeman is eating.",
+    "fren": "le policier mange",
+    "vocals": [{ "clipId": 10, "title": "01_4_Speaking_clipId-10-0" }]
+  },
+  {
+    "phraseId": 344,
+    "eng": "Who is reading?",
+    "fren": "Qui lit ?",
+    "vocals": [{ "clipId": 11, "title": "01_4_Speaking_clipId-11-0" }]
+  },
+  {
+    "phraseId": 345,
+    "eng": "The students are reading.",
+    "fren": "les élèves lisent",
+    "vocals": [{ "clipId": 12, "title": "01_4_Speaking_clipId-12-0" }]
+  },
+  {
+    "phraseId": 346,
+    "eng": "Who is drinking?",
+    "fren": "qui boit",
+    "vocals": [{ "clipId": 13, "title": "01_4_Speaking_clipId-13-0" }]
+  },
+  {
+    "phraseId": 347,
+    "eng": "Who is writing?",
+    "fren": "qui a écrit",
+    "vocals": [{ "clipId": 15, "title": "01_4_Speaking_clipId-15-0" }]
+  },
+  {
+    "phraseId": 348,
+    "eng": "Who has a hat",
+    "fren": "qui a le chapeau",
+    "vocals": [{ "clipId": 17, "title": "01_4_Speaking_clipId-17-0" }]
+  },
+  {
+    "phraseId": 349,
+    "eng": "The woman has a hat?",
+    "fren": "la femme a le chapeau",
+    "vocals": [{ "clipId": 18, "title": "01_4_Speaking_clipId-18-0" }]
+  },
+  {
+    "phraseId": 350,
+    "eng": "Who has a ball?",
+    "fren": "qui a le ballon",
+    "vocals": [{ "clipId": 19, "title": "01_4_Speaking_clipId-19-0" }]
+  },
+  {
+    "phraseId": 351,
+    "eng": "The boy has a ball.",
+    "fren": "le garçon a le ballon",
+    "vocals": [{ "clipId": 20, "title": "01_4_Speaking_clipId-20-0" }]
+  },
+  {
+    "phraseId": 352,
+    "eng": "Who has books?",
+    "fren": "qui a les livres",
+    "vocals": [{ "clipId": 21, "title": "01_4_Speaking_clipId-21-0" }]
+  },
+  {
+    "phraseId": 353,
+    "eng": "The girls have books.",
+    "fren": "les filles ont les livres",
+    "vocals": [{ "clipId": 22, "title": "01_4_Speaking_clipId-22-0" }]
+  },
+  {
+    "phraseId": 354,
+    "eng": "Who has a newspaper?",
+    "fren": "qui a le journal",
+    "vocals": [{ "clipId": 23, "title": "01_4_Speaking_clipId-23-0" }]
+  },
+  {
+    "phraseId": 355,
+    "eng": "The doctor has a newspaper.",
+    "fren": "le médecin a le journal",
+    "vocals": [{ "clipId": 24, "title": "01_4_Speaking_clipId-24-0" }]
+  },
+  {
+    "phraseId": 356,
+    "eng": "Who is wearing shoes?",
+    "fren": "qui porte des chaussures",
+    "vocals": [{ "clipId": 25, "title": "01_4_Speaking_clipId-25-0" }]
+  },
+  {
+    "phraseId": 357,
+    "eng": "I am wearing shoes.",
+    "fren": "je porte des chaussures",
+    "vocals": [{ "clipId": 26, "title": "01_4_Speaking_clipId-26-0" }]
+  },
+  {
+    "phraseId": 358,
+    "eng": "Who is wearing a hat?",
+    "fren": "qui porte un chapeau",
+    "vocals": [{ "clipId": 27, "title": "01_4_Speaking_clipId-27-0" }]
+  },
+  {
+    "phraseId": 359,
+    "eng": "We wear are wearing hats.",
+    "fren": "nous portons un chapeau",
+    "vocals": [{ "clipId": 28, "title": "01_4_Speaking_clipId-28-0" }]
+  },
+  {
+    "phraseId": 360,
+    "eng": "Who is walking?",
+    "fren": "Qui marche ?",
+    "vocals": [{ "clipId": 29, "title": "01_4_Speaking_clipId-29-0" }]
+  },
+  {
+    "phraseId": 361,
+    "eng": "We are walking.",
+    "fren": "nous marchons",
+    "vocals": [{ "clipId": 30, "title": "01_4_Speaking_clipId-30-0" }]
+  },
+  {
+    "phraseId": 362,
+    "eng": "Who is running?",
+    "fren": "qui court",
+    "vocals": [{ "clipId": 31, "title": "01_4_Speaking_clipId-31-0" }]
+  },
+  {
+    "phraseId": 363,
+    "eng": "We are running.",
+    "fren": "nous courons",
+    "vocals": [{ "clipId": 32, "title": "01_4_Speaking_clipId-32-0" }]
+  },
+  {
+    "phraseId": 364,
+    "eng": "How many trees are there?",
+    "fren": "combien y a-t-il d'arbres",
+    "vocals": [{ "clipId": 33, "title": "01_4_Speaking_clipId-33-0" }]
+  },
+  {
+    "phraseId": 365,
+    "eng": "There are three trees",
+    "fren": "Il y a trois arbres",
+    "vocals": [{ "clipId": 34, "title": "01_4_Speaking_clipId-34-0" }]
+  },
+  {
+    "phraseId": 366,
+    "eng": "There are four trees",
+    "fren": "Il y a quatre arbres",
+    "vocals": [{ "clipId": 35, "title": "01_4_Speaking_clipId-35-0" }]
+  },
+  {
+    "phraseId": 367,
+    "eng": "How many bowls are there?",
+    "fren": "combien y a-t-il de bols",
+    "vocals": [{ "clipId": 36, "title": "01_4_Speaking_clipId-36-0" }]
+  },
+  {
+    "phraseId": 368,
+    "eng": "There is one bowl.",
+    "fren": "il y a un bol",
+    "vocals": [{ "clipId": 37, "title": "01_4_Speaking_clipId-37-0" }]
+  },
+  {
+    "phraseId": 369,
+    "eng": "How many children are there?",
+    "fren": "combien y a-t-il d'enfants",
+    "vocals": [{ "clipId": 38, "title": "01_4_Speaking_clipId-38-0" }]
+  },
+  {
+    "phraseId": 370,
+    "eng": "There are six children.",
+    "fren": "Il y a six enfants",
+    "vocals": [{ "clipId": 39, "title": "01_4_Speaking_clipId-39-0" }]
+  },
+  {
+    "phraseId": 371,
+    "eng": "This is water.",
+    "fren": "c'est de l'eau",
+    "vocals": [{ "clipId": 41, "title": "01_4_Speaking_clipId-41-0" }]
+  },
+  {
+    "phraseId": 372,
+    "eng": "This is a plate.",
+    "fren": "c'est une assiette",
+    "vocals": [{ "clipId": 42, "title": "01_4_Speaking_clipId-42-0" }]
+  },
+  {
+    "phraseId": 373,
+    "eng": "This is a tree.",
+    "fren": "c'est un arbre",
+    "vocals": [{ "clipId": 43, "title": "01_4_Speaking_clipId-43-0" }]
+  },
+  {
+    "phraseId": 374,
+    "eng": "Is the grass green?",
+    "fren": "est-ce que l'herbe est verte",
+    "vocals": [{ "clipId": 44, "title": "01_4_Speaking_clipId-44-0" }]
+  },
+  {
+    "phraseId": 375,
+    "eng": "Yes, the grass is green.",
+    "fren": "oui l'herbe est verte",
+    "vocals": [{ "clipId": 45, "title": "01_4_Speaking_clipId-45-0" }]
+  },
+  {
+    "phraseId": 376,
+    "eng": "How many bicycles are there?",
+    "fren": "combien y a-t-il de vélo",
+    "vocals": [{ "clipId": 47, "title": "01_4_Speaking_clipId-47-0" }]
+  },
+  {
+    "phraseId": 377,
+    "eng": "There are three bicycles.",
+    "fren": "il y a trois vélos",
+    "vocals": [{ "clipId": 48, "title": "01_4_Speaking_clipId-48-0" }]
+  },
+  {
+    "phraseId": 378,
+    "eng": "Who has a bicycle?",
+    "fren": "qui a un vélo",
+    "vocals": [{ "clipId": 49, "title": "01_4_Speaking_clipId-49-0" }]
+  },
+  {
+    "phraseId": 379,
+    "eng": "She has a bicycle.",
+    "fren": "elle a un vélo",
+    "vocals": [{ "clipId": 50, "title": "01_4_Speaking_clipId-50-0" }]
+  },
+  {
+    "phraseId": 380,
+    "eng": "Does she have a bicycle?",
+    "fren": "est-ce qu'elle a un vélo",
+    "vocals": [{ "clipId": 51, "title": "01_4_Speaking_clipId-51-0" }]
+  },
+  {
+    "phraseId": 381,
+    "eng": "Yes, she has a bicycle.",
+    "fren": "oui elle a un vélo",
+    "vocals": [{ "clipId": 52, "title": "01_4_Speaking_clipId-52-0" }]
+  },
+  {
+    "phraseId": 382,
+    "eng": "How many cups do you have?",
+    "fren": "combien de tasses avez-vous",
+    "vocals": [{ "clipId": 0, "title": "01_4_Conversation_clipId-0-0" }]
+  },
+  {
+    "phraseId": 383,
+    "eng": "We have four cups.",
+    "fren": "nous avons quatre tasses",
+    "vocals": [{ "clipId": 1, "title": "01_4_Conversation_clipId-1-0" }]
+  },
+  {
+    "phraseId": 384,
+    "eng": "How many sandwiches do you have?",
+    "fren": "combien de sandwichs avez-vous",
+    "vocals": [{ "clipId": 2, "title": "01_4_Conversation_clipId-2-0" }]
+  },
+  {
+    "phraseId": 385,
+    "eng": "We have 5 sandwiches.",
+    "fren": "nous avons cinq sandwichs",
+    "vocals": [{ "clipId": 3, "title": "01_4_Conversation_clipId-3-0" }]
+  },
+  {
+    "phraseId": 386,
+    "eng": "10 plates",
+    "fren": "dix assiettes",
+    "vocals": [
+      { "clipId": 0, "title": "02_1_Vocabulary_clipId-0-0" },
+      { "clipId": 0, "title": "02_3_Vocabulary_clipId-0-0" },
+      { "clipId": 4, "title": "02_4_Vocabulary_clipId-4-0" }
+    ]
+  },
+  {
+    "phraseId": 387,
+    "eng": "the father",
+    "fren": "le père",
+    "vocals": [
+      { "clipId": 1, "title": "02_1_Vocabulary_clipId-1-0" },
+      { "clipId": 14, "title": "02_2_Vocabulary_clipId-14-0" },
+      { "clipId": 4, "title": "02_3_Vocabulary_clipId-4-0" },
+      { "clipId": 14, "title": "02_4_Vocabulary_clipId-14-0" }
+    ]
+  },
+  {
+    "phraseId": 388,
+    "eng": "seven babies",
+    "fren": "sept bébés",
+    "vocals": [
+      { "clipId": 2, "title": "02_1_Vocabulary_clipId-2-0" },
+      { "clipId": 21, "title": "02_2_Vocabulary_clipId-21-0" },
+      { "clipId": 14, "title": "02_3_Vocabulary_clipId-14-0" },
+      { "clipId": 20, "title": "02_4_Vocabulary_clipId-20-0" }
+    ]
+  },
+  {
+    "phraseId": 389,
+    "eng": "seven pens",
+    "fren": "sept stylos",
+    "vocals": [
+      { "clipId": 3, "title": "02_1_Vocabulary_clipId-3-0" },
+      { "clipId": 28, "title": "02_2_Vocabulary_clipId-28-0" },
+      { "clipId": 32, "title": "02_3_Vocabulary_clipId-32-0" },
+      { "clipId": 32, "title": "02_4_Vocabulary_clipId-32-0" }
+    ]
+  },
+  {
+    "phraseId": 390,
+    "eng": "nine (9)",
+    "fren": "neuf",
+    "vocals": [{ "clipId": 4, "title": "02_1_Vocabulary_clipId-4-0" }]
+  },
+  {
+    "phraseId": 391,
+    "eng": "eight chairs",
+    "fren": "huit chaises",
+    "vocals": [
+      { "clipId": 7, "title": "02_1_Vocabulary_clipId-7-0" },
+      { "clipId": 9, "title": "02_2_Vocabulary_clipId-9-0" },
+      { "clipId": 12, "title": "02_3_Vocabulary_clipId-12-0" },
+      { "clipId": 1, "title": "02_4_Vocabulary_clipId-1-0" }
+    ]
+  },
+  {
+    "phraseId": 392,
+    "eng": "eight (8)",
+    "fren": "huit",
+    "vocals": [{ "clipId": 8, "title": "02_1_Vocabulary_clipId-8-0" }]
+  },
+  {
+    "phraseId": 393,
+    "eng": "the son",
+    "fren": "le fils",
+    "vocals": [
+      { "clipId": 9, "title": "02_1_Vocabulary_clipId-9-0" },
+      { "clipId": 18, "title": "02_2_Vocabulary_clipId-18-0" },
+      { "clipId": 17, "title": "02_3_Vocabulary_clipId-17-0" },
+      { "clipId": 15, "title": "02_4_Vocabulary_clipId-15-0" }
+    ]
+  },
+  {
+    "phraseId": 394,
+    "eng": "zero (0)",
+    "fren": "zéro",
+    "vocals": [{ "clipId": 10, "title": "02_1_Vocabulary_clipId-10-0" }]
+  },
+  {
+    "phraseId": 395,
+    "eng": "the girl",
+    "fren": "la fille",
+    "vocals": [
+      { "clipId": 11, "title": "02_1_Vocabulary_clipId-11-0" },
+      { "clipId": 2, "title": "02_2_Vocabulary_clipId-2-0" },
+      { "clipId": 29, "title": "02_3_Vocabulary_clipId-29-0" },
+      { "clipId": 10, "title": "02_4_Vocabulary_clipId-10-0" }
+    ]
+  },
+  {
+    "phraseId": 396,
+    "eng": "nine apples",
+    "fren": "neuf pommes",
+    "vocals": [
+      { "clipId": 13, "title": "02_1_Vocabulary_clipId-13-0" },
+      { "clipId": 6, "title": "02_2_Vocabulary_clipId-6-0" },
+      { "clipId": 19, "title": "02_3_Vocabulary_clipId-19-0" },
+      { "clipId": 3, "title": "02_4_Vocabulary_clipId-3-0" }
+    ]
+  },
+  {
+    "phraseId": 397,
+    "eng": "11 flowers",
+    "fren": "onze fleurs",
+    "vocals": [
+      { "clipId": 14, "title": "02_1_Vocabulary_clipId-14-0" },
+      { "clipId": 1, "title": "02_2_Vocabulary_clipId-1-0" },
+      { "clipId": 5, "title": "02_3_Vocabulary_clipId-5-0" },
+      { "clipId": 16, "title": "02_4_Vocabulary_clipId-16-0" }
+    ]
+  },
+  {
+    "phraseId": 398,
+    "eng": "12 balls",
+    "fren": "douze balles",
+    "vocals": [
+      { "clipId": 15, "title": "02_1_Vocabulary_clipId-15-0" },
+      { "clipId": 0, "title": "02_2_Vocabulary_clipId-0-0" },
+      { "clipId": 21, "title": "02_3_Vocabulary_clipId-21-0" },
+      { "clipId": 7, "title": "02_4_Vocabulary_clipId-7-0" }
+    ]
+  },
+  {
+    "phraseId": 399,
+    "eng": "eight eggs",
+    "fren": "huit œufs",
+    "vocals": [
+      { "clipId": 17, "title": "02_1_Vocabulary_clipId-17-0" },
+      { "clipId": 20, "title": "02_2_Vocabulary_clipId-20-0" },
+      { "clipId": 8, "title": "02_3_Vocabulary_clipId-8-0" },
+      { "clipId": 28, "title": "02_4_Vocabulary_clipId-28-0" }
+    ]
+  },
+  {
+    "phraseId": 400,
+    "eng": "seven (7)",
+    "fren": "sept",
+    "vocals": [{ "clipId": 20, "title": "02_1_Vocabulary_clipId-20-0" }]
+  },
+  {
+    "phraseId": 401,
+    "eng": "a baby",
+    "fren": "un bébé",
+    "vocals": [
+      { "clipId": 22, "title": "02_1_Vocabulary_clipId-22-0" },
+      { "clipId": 23, "title": "02_2_Vocabulary_clipId-23-0" },
+      { "clipId": 26, "title": "02_3_Vocabulary_clipId-26-0" },
+      { "clipId": 33, "title": "02_4_Vocabulary_clipId-33-0" }
+    ]
+  },
+  {
+    "phraseId": 402,
+    "eng": "12 keys",
+    "fren": "douze clés",
+    "vocals": [
+      { "clipId": 23, "title": "02_1_Vocabulary_clipId-23-0" },
+      { "clipId": 24, "title": "02_2_Vocabulary_clipId-24-0" },
+      { "clipId": 15, "title": "02_3_Vocabulary_clipId-15-0" },
+      { "clipId": 5, "title": "02_4_Vocabulary_clipId-5-0" }
+    ]
+  },
+  {
+    "phraseId": 403,
+    "eng": "the mother",
+    "fren": "la mère",
+    "vocals": [
+      { "clipId": 26, "title": "02_1_Vocabulary_clipId-26-0" },
+      { "clipId": 12, "title": "02_2_Vocabulary_clipId-12-0" },
+      { "clipId": 1, "title": "02_3_Vocabulary_clipId-1-0" },
+      { "clipId": 13, "title": "02_4_Vocabulary_clipId-13-0" }
+    ]
+  },
+  {
+    "phraseId": 404,
+    "eng": "ten cups",
+    "fren": "dix tasse",
+    "vocals": [{ "clipId": 27, "title": "02_1_Vocabulary_clipId-27-0" }]
+  },
+  {
+    "phraseId": 405,
+    "eng": "twelve (12)",
+    "fren": "douze",
+    "vocals": [{ "clipId": 28, "title": "02_1_Vocabulary_clipId-28-0" }]
+  },
+  {
+    "phraseId": 406,
+    "eng": "11 bowls",
+    "fren": "onze bols",
+    "vocals": [
+      { "clipId": 29, "title": "02_1_Vocabulary_clipId-29-0" },
+      { "clipId": 25, "title": "02_2_Vocabulary_clipId-25-0" },
+      { "clipId": 18, "title": "02_3_Vocabulary_clipId-18-0" },
+      { "clipId": 9, "title": "02_4_Vocabulary_clipId-9-0" }
+    ]
+  },
+  {
+    "phraseId": 407,
+    "eng": "a family",
+    "fren": "une famille",
+    "vocals": [
+      { "clipId": 30, "title": "02_1_Vocabulary_clipId-30-0" },
+      { "clipId": 30, "title": "02_2_Vocabulary_clipId-30-0" },
+      { "clipId": 9, "title": "02_3_Vocabulary_clipId-9-0" },
+      { "clipId": 27, "title": "02_4_Vocabulary_clipId-27-0" }
+    ]
+  },
+  {
+    "phraseId": 408,
+    "eng": "ten (10)",
+    "fren": "dix",
+    "vocals": [{ "clipId": 32, "title": "02_1_Vocabulary_clipId-32-0" }]
+  },
+  {
+    "phraseId": 409,
+    "eng": "eleven (11)",
+    "fren": "onze",
+    "vocals": [{ "clipId": 33, "title": "02_1_Vocabulary_clipId-33-0" }]
+  },
+  {
+    "phraseId": 410,
+    "eng": "nine hats",
+    "fren": "neuf chapeaux",
+    "vocals": [
+      { "clipId": 34, "title": "02_1_Vocabulary_clipId-34-0" },
+      { "clipId": 29, "title": "02_2_Vocabulary_clipId-29-0" },
+      { "clipId": 30, "title": "02_3_Vocabulary_clipId-30-0" },
+      { "clipId": 29, "title": "02_4_Vocabulary_clipId-29-0" }
+    ]
+  },
+  {
+    "phraseId": 411,
+    "eng": "a computer",
+    "fren": "un ordinateur",
+    "vocals": [{ "clipId": 3, "title": "02_2_Vocabulary_clipId-3-0" }]
+  },
+  {
+    "phraseId": 412,
+    "eng": "the living room",
+    "fren": "le salon",
+    "vocals": [{ "clipId": 4, "title": "02_2_Vocabulary_clipId-4-0" }]
+  },
+  {
+    "phraseId": 413,
+    "eng": "a living room",
+    "fren": "un salon",
+    "vocals": [{ "clipId": 5, "title": "02_2_Vocabulary_clipId-5-0" }]
+  },
+  {
+    "phraseId": 414,
+    "eng": "a laptop",
+    "fren": "un ordinateur portable",
+    "vocals": [{ "clipId": 7, "title": "02_2_Vocabulary_clipId-7-0" }]
+  },
+  {
+    "phraseId": 415,
+    "eng": "a window",
+    "fren": "une fenêtre",
+    "vocals": [{ "clipId": 8, "title": "02_2_Vocabulary_clipId-8-0" }]
+  },
+  {
+    "phraseId": 416,
+    "eng": "a radio",
+    "fren": "une radio",
+    "vocals": [{ "clipId": 10, "title": "02_2_Vocabulary_clipId-10-0" }]
+  },
+  {
+    "phraseId": 417,
+    "eng": "a sink",
+    "fren": "un évier",
+    "vocals": [{ "clipId": 11, "title": "02_2_Vocabulary_clipId-11-0" }]
+  },
+  {
+    "phraseId": 418,
+    "eng": "toilets",
+    "fren": "des toilettes",
+    "vocals": [{ "clipId": 13, "title": "02_2_Vocabulary_clipId-13-0" }]
+  },
+  {
+    "phraseId": 419,
+    "eng": "computers",
+    "fren": "des ordinateurs",
+    "vocals": [{ "clipId": 15, "title": "02_2_Vocabulary_clipId-15-0" }]
+  },
+  {
+    "phraseId": 420,
+    "eng": "a kitchen",
+    "fren": "une cuisine",
+    "vocals": [{ "clipId": 17, "title": "02_2_Vocabulary_clipId-17-0" }]
+  },
+  {
+    "phraseId": 421,
+    "eng": "a house",
+    "fren": "une maison",
+    "vocals": [
+      { "clipId": 19, "title": "02_2_Vocabulary_clipId-19-0" },
+      { "clipId": 27, "title": "02_3_Vocabulary_clipId-27-0" },
+      { "clipId": 18, "title": "02_4_Vocabulary_clipId-18-0" }
+    ]
+  },
+  {
+    "phraseId": 422,
+    "eng": "a television",
+    "fren": "une télévision",
+    "vocals": [{ "clipId": 22, "title": "02_2_Vocabulary_clipId-22-0" }]
+  },
+  {
+    "phraseId": 423,
+    "eng": "an apartment",
+    "fren": "un appartement",
+    "vocals": [{ "clipId": 26, "title": "02_2_Vocabulary_clipId-26-0" }]
+  },
+  {
+    "phraseId": 424,
+    "eng": "a door",
+    "fren": "une porte",
+    "vocals": [
+      { "clipId": 27, "title": "02_2_Vocabulary_clipId-27-0" },
+      { "clipId": 24, "title": "02_4_Vocabulary_clipId-24-0" }
+    ]
+  },
+  {
+    "phraseId": 425,
+    "eng": "6 plates",
+    "fren": "six assiettes",
+    "vocals": [{ "clipId": 31, "title": "02_2_Vocabulary_clipId-31-0" }]
+  },
+  {
+    "phraseId": 426,
+    "eng": "Rome",
+    "fren": "Rome",
+    "vocals": [{ "clipId": 3, "title": "02_3_Vocabulary_clipId-3-0" }]
+  },
+  {
+    "phraseId": 427,
+    "eng": "a bridge",
+    "fren": "un pont",
+    "vocals": [{ "clipId": 6, "title": "02_3_Vocabulary_clipId-6-0" }]
+  },
+  {
+    "phraseId": 428,
+    "eng": "Brazil",
+    "fren": "le Brésil",
+    "vocals": [{ "clipId": 7, "title": "02_3_Vocabulary_clipId-7-0" }]
+  },
+  {
+    "phraseId": 429,
+    "eng": "seven (7)",
+    "fren": "Sept",
+    "vocals": [{ "clipId": 10, "title": "02_3_Vocabulary_clipId-10-0" }]
+  },
+  {
+    "phraseId": 430,
+    "eng": "a park",
+    "fren": "un parc",
+    "vocals": [{ "clipId": 11, "title": "02_3_Vocabulary_clipId-11-0" }]
+  },
+  {
+    "phraseId": 431,
+    "eng": "Russia",
+    "fren": "la Russie",
+    "vocals": [{ "clipId": 13, "title": "02_3_Vocabulary_clipId-13-0" }]
+  },
+  {
+    "phraseId": 432,
+    "eng": "China",
+    "fren": "la Chine",
+    "vocals": [{ "clipId": 16, "title": "02_3_Vocabulary_clipId-16-0" }]
+  },
+  {
+    "phraseId": 433,
+    "eng": "Paris",
+    "fren": "Paris",
+    "vocals": [{ "clipId": 20, "title": "02_3_Vocabulary_clipId-20-0" }]
+  },
+  {
+    "phraseId": 434,
+    "eng": "10 cups",
+    "fren": "dix tasses",
+    "vocals": [
+      { "clipId": 22, "title": "02_3_Vocabulary_clipId-22-0" },
+      { "clipId": 0, "title": "02_4_Vocabulary_clipId-0-0" }
+    ]
+  },
+  {
+    "phraseId": 435,
+    "eng": "Moscow",
+    "fren": "Moscou",
+    "vocals": [{ "clipId": 23, "title": "02_3_Vocabulary_clipId-23-0" }]
+  },
+  {
+    "phraseId": 436,
+    "eng": "Japan",
+    "fren": "le Japon",
+    "vocals": [{ "clipId": 24, "title": "02_3_Vocabulary_clipId-24-0" }]
+  },
+  {
+    "phraseId": 437,
+    "eng": "Italy",
+    "fren": "l'Italie",
+    "vocals": [{ "clipId": 25, "title": "02_3_Vocabulary_clipId-25-0" }]
+  },
+  {
+    "phraseId": 438,
+    "eng": "Egypt",
+    "fren": "l'Égypte",
+    "vocals": [{ "clipId": 28, "title": "02_3_Vocabulary_clipId-28-0" }]
+  },
+  {
+    "phraseId": 439,
+    "eng": "a country",
+    "fren": "un pays",
+    "vocals": [{ "clipId": 31, "title": "02_3_Vocabulary_clipId-31-0" }]
+  },
+  {
+    "phraseId": 440,
+    "eng": "a street",
+    "fren": "une rue",
+    "vocals": [{ "clipId": 33, "title": "02_3_Vocabulary_clipId-33-0" }]
+  },
+  {
+    "phraseId": 441,
+    "eng": "a city",
+    "fren": "une ville",
+    "vocals": [{ "clipId": 34, "title": "02_3_Vocabulary_clipId-34-0" }]
+  },
+  {
+    "phraseId": 442,
+    "eng": "grey",
+    "fren": "gris",
+    "vocals": [{ "clipId": 2, "title": "02_4_Vocabulary_clipId-2-0" }]
+  },
+  {
+    "phraseId": 443,
+    "eng": "a sweater",
+    "fren": "un pull",
+    "vocals": [{ "clipId": 8, "title": "02_4_Vocabulary_clipId-8-0" }]
+  },
+  {
+    "phraseId": 444,
+    "eng": "orange",
+    "fren": "orange",
+    "vocals": [{ "clipId": 12, "title": "02_4_Vocabulary_clipId-12-0" }]
+  },
+  {
+    "phraseId": 445,
+    "eng": "pink",
+    "fren": "rose",
+    "vocals": [{ "clipId": 17, "title": "02_4_Vocabulary_clipId-17-0" }]
+  },
+  {
+    "phraseId": 446,
+    "eng": "purple",
+    "fren": "violet",
+    "vocals": [{ "clipId": 19, "title": "02_4_Vocabulary_clipId-19-0" }]
+  },
+  {
+    "phraseId": 447,
+    "eng": "a pair of jeans",
+    "fren": "un jean",
+    "vocals": [{ "clipId": 22, "title": "02_4_Vocabulary_clipId-22-0" }]
+  },
+  {
+    "phraseId": 448,
+    "eng": "a tie",
+    "fren": "une cravate",
+    "vocals": [{ "clipId": 25, "title": "02_4_Vocabulary_clipId-25-0" }]
+  },
+  {
+    "phraseId": 449,
+    "eng": "socks",
+    "fren": "des chaussettes",
+    "vocals": [{ "clipId": 26, "title": "02_4_Vocabulary_clipId-26-0" }]
+  },
+  {
+    "phraseId": 450,
+    "eng": "brown",
+    "fren": "marron",
+    "vocals": [{ "clipId": 30, "title": "02_4_Vocabulary_clipId-30-0" }]
+  },
+  {
+    "phraseId": 451,
+    "eng": "a suit",
+    "fren": "un costume",
+    "vocals": [{ "clipId": 31, "title": "02_4_Vocabulary_clipId-31-0" }]
+  },
+  {
+    "phraseId": 452,
+    "eng": "a belt",
+    "fren": "une ceinture",
+    "vocals": [{ "clipId": 34, "title": "02_4_Vocabulary_clipId-34-0" }]
+  },
+  {
+    "phraseId": 453,
+    "eng": "A man and a dog.",
+    "fren": "un homme et un chien",
+    "vocals": [{ "clipId": 0, "title": "02_1_Phrases_clipId-0-0" }]
+  },
+  {
+    "phraseId": 454,
+    "eng": "A woman and her dog.",
+    "fren": "une femme et son chien",
+    "vocals": [{ "clipId": 1, "title": "02_1_Phrases_clipId-1-0" }]
+  },
+  {
+    "phraseId": 455,
+    "eng": "A girl and a horse.",
+    "fren": "une fille et un cheval",
+    "vocals": [{ "clipId": 2, "title": "02_1_Phrases_clipId-2-0" }]
+  },
+  {
+    "phraseId": 456,
+    "eng": "A police officer and his horse.",
+    "fren": "un policier et son cheval",
+    "vocals": [{ "clipId": 3, "title": "02_1_Phrases_clipId-3-0" }]
+  },
+  {
+    "phraseId": 457,
+    "eng": "A woman and her car.",
+    "fren": "une femme et sa voiture",
+    "vocals": [{ "clipId": 4, "title": "02_1_Phrases_clipId-4-0" }]
+  },
+  {
+    "phraseId": 458,
+    "eng": "A woman with her cat.",
+    "fren": "une femme et son chat",
+    "vocals": [{ "clipId": 5, "title": "02_1_Phrases_clipId-5-0" }]
+  },
+  {
+    "phraseId": 459,
+    "eng": "A man and his car.",
+    "fren": "un homme et sa voiture",
+    "vocals": [{ "clipId": 6, "title": "02_1_Phrases_clipId-6-0" }]
+  },
+  {
+    "phraseId": 460,
+    "eng": "A man and his cat.",
+    "fren": "un homme et son chat",
+    "vocals": [{ "clipId": 7, "title": "02_1_Phrases_clipId-7-0" }]
+  },
+  {
+    "phraseId": 461,
+    "eng": "They are eating their sandwiches.",
+    "fren": "ils mange leur sandwichs",
+    "vocals": [{ "clipId": 8, "title": "02_1_Phrases_clipId-8-0" }]
+  },
+  {
+    "phraseId": 462,
+    "eng": "She is eating their sandwiches.",
+    "fren": "elles mange leur sandwichs",
+    "vocals": [{ "clipId": 9, "title": "02_1_Phrases_clipId-9-0" }]
+  },
+  {
+    "phraseId": 463,
+    "eng": "They are reading their newspaper.",
+    "fren": "ils lisent leur journal",
+    "vocals": [{ "clipId": 10, "title": "02_1_Phrases_clipId-10-0" }]
+  },
+  {
+    "phraseId": 464,
+    "eng": "They are reading their newspapers.",
+    "fren": "ils lisent leur journaux",
+    "vocals": [{ "clipId": 11, "title": "02_1_Phrases_clipId-11-0" }]
+  },
+  {
+    "phraseId": 465,
+    "eng": "She is reading the book.",
+    "fren": "elle lise le livre",
+    "vocals": [{ "clipId": 12, "title": "02_1_Phrases_clipId-12-0" }]
+  },
+  {
+    "phraseId": 466,
+    "eng": "They are eating their apples.",
+    "fren": "Ils mangent leurs pommes",
+    "vocals": [{ "clipId": 13, "title": "02_1_Phrases_clipId-13-0" }]
+  },
+  {
+    "phraseId": 467,
+    "eng": "They are reading the book.",
+    "fren": "ils lisent leur livre",
+    "vocals": [{ "clipId": 14, "title": "02_1_Phrases_clipId-14-0" }]
+  },
+  {
+    "phraseId": 468,
+    "eng": "She is reading her book.",
+    "fren": "elle lit son livre",
+    "vocals": [{ "clipId": 15, "title": "02_1_Phrases_clipId-15-0" }]
+  },
+  {
+    "phraseId": 469,
+    "eng": "He is reading his book.",
+    "fren": "Il lit son livre",
+    "vocals": [{ "clipId": 16, "title": "02_1_Phrases_clipId-16-0" }]
+  },
+  {
+    "phraseId": 470,
+    "eng": "They are eating their apples.",
+    "fren": "elles mangent leurs pommes",
+    "vocals": [{ "clipId": 17, "title": "02_1_Phrases_clipId-17-0" }]
+  },
+  {
+    "phraseId": 471,
+    "eng": "She is eating her apple.",
+    "fren": "elle mange sa pomme",
+    "vocals": [{ "clipId": 18, "title": "02_1_Phrases_clipId-18-0" }]
+  },
+  {
+    "phraseId": 472,
+    "eng": "He is eating his apple.",
+    "fren": "il mange sa pomme",
+    "vocals": [{ "clipId": 19, "title": "02_1_Phrases_clipId-19-0" }]
+  },
+  {
+    "phraseId": 473,
+    "eng": "A man and his wife.",
+    "fren": "un homme et sa femme",
+    "vocals": [{ "clipId": 20, "title": "02_1_Phrases_clipId-20-0" }]
+  },
+  {
+    "phraseId": 474,
+    "eng": "A woman and her children.",
+    "fren": "une femme et ses enfants",
+    "vocals": [{ "clipId": 21, "title": "02_1_Phrases_clipId-21-0" }]
+  },
+  {
+    "phraseId": 475,
+    "eng": "A father and his daughter.",
+    "fren": "un père et sa fille",
+    "vocals": [{ "clipId": 22, "title": "02_1_Phrases_clipId-22-0" }]
+  },
+  {
+    "phraseId": 476,
+    "eng": "The parents and their son.",
+    "fren": "les parents et leur fils",
+    "vocals": [{ "clipId": 23, "title": "02_1_Phrases_clipId-23-0" }]
+  },
+  {
+    "phraseId": 477,
+    "eng": "A mother and her baby.",
+    "fren": "une mère et son bébé",
+    "vocals": [{ "clipId": 24, "title": "02_1_Phrases_clipId-24-0" }]
+  },
+  {
+    "phraseId": 478,
+    "eng": "A father and his children.",
+    "fren": "un père et ses enfants",
+    "vocals": [{ "clipId": 25, "title": "02_1_Phrases_clipId-25-0" }]
+  },
+  {
+    "phraseId": 479,
+    "eng": "A husband and his wife.",
+    "fren": "un mari et sa femme",
+    "vocals": [{ "clipId": 26, "title": "02_1_Phrases_clipId-26-0" }]
+  },
+  {
+    "phraseId": 480,
+    "eng": "Parents and their daughters.",
+    "fren": "des parents et leurs filles",
+    "vocals": [{ "clipId": 27, "title": "02_1_Phrases_clipId-27-0" }]
+  },
+  {
+    "phraseId": 481,
+    "eng": "The father and his sons are playing.",
+    "fren": "le père et ses fils jouent",
+    "vocals": [{ "clipId": 28, "title": "02_1_Phrases_clipId-28-0" }]
+  },
+  {
+    "phraseId": 482,
+    "eng": "The mother and her daughters are playing.",
+    "fren": "la mère et ses filles jouent",
+    "vocals": [{ "clipId": 29, "title": "02_1_Phrases_clipId-29-0" }]
+  },
+  {
+    "phraseId": 483,
+    "eng": "The boy and his dog are playing.",
+    "fren": "le garçon et son chien jouent",
+    "vocals": [{ "clipId": 30, "title": "02_1_Phrases_clipId-30-0" }]
+  },
+  {
+    "phraseId": 484,
+    "eng": "The woman and her cat are playing.",
+    "fren": "la femme et son chat joue",
+    "vocals": [{ "clipId": 31, "title": "02_1_Phrases_clipId-31-0" }]
+  },
+  {
+    "phraseId": 485,
+    "eng": "The girls are sisters.",
+    "fren": "les filles sont sœurs",
+    "vocals": [{ "clipId": 32, "title": "02_1_Phrases_clipId-32-0" }]
+  },
+  {
+    "phraseId": 486,
+    "eng": "The boys are brothers.",
+    "fren": "les garçons sont frères",
+    "vocals": [{ "clipId": 33, "title": "02_1_Phrases_clipId-33-0" }]
+  },
+  {
+    "phraseId": 487,
+    "eng": "The boys are not brothers, they are friends.",
+    "fren": "les garçons ne sont pas frères ils sont amis",
+    "vocals": [{ "clipId": 34, "title": "02_1_Phrases_clipId-34-0" }]
+  },
+  {
+    "phraseId": 488,
+    "eng": "The girls are not sisters, they are friends.",
+    "fren": "les filles ne sont pas sœurs elles sont amies",
+    "vocals": [{ "clipId": 35, "title": "02_1_Phrases_clipId-35-0" }]
+  },
+  {
+    "phraseId": 489,
+    "eng": "She is one year old.",
+    "fren": "elle a un an",
+    "vocals": [{ "clipId": 36, "title": "02_1_Phrases_clipId-36-0" }]
+  },
+  {
+    "phraseId": 490,
+    "eng": "She is 2 years old.",
+    "fren": "elle a 2 ans",
+    "vocals": [{ "clipId": 37, "title": "02_1_Phrases_clipId-37-0" }]
+  },
+  {
+    "phraseId": 491,
+    "eng": "She is 3 years old.",
+    "fren": "elle a 3 ans",
+    "vocals": [{ "clipId": 38, "title": "02_1_Phrases_clipId-38-0" }]
+  },
+  {
+    "phraseId": 492,
+    "eng": "She is 4 years old.",
+    "fren": "Elle a quatre ans",
+    "vocals": [{ "clipId": 39, "title": "02_1_Phrases_clipId-39-0" }]
+  },
+  {
+    "phraseId": 493,
+    "eng": "She is 5 years old.",
+    "fren": "Elle a cinq ans",
+    "vocals": [{ "clipId": 40, "title": "02_1_Phrases_clipId-40-0" }]
+  },
+  {
+    "phraseId": 494,
+    "eng": "She is 6 years old.",
+    "fren": "Elle a six ans",
+    "vocals": [{ "clipId": 41, "title": "02_1_Phrases_clipId-41-0" }]
+  },
+  {
+    "phraseId": 495,
+    "eng": "She is 7 years old.",
+    "fren": "Elle a sept ans",
+    "vocals": [{ "clipId": 42, "title": "02_1_Phrases_clipId-42-0" }]
+  },
+  {
+    "phraseId": 496,
+    "eng": "She is 8 years old.",
+    "fren": "Elle a huit ans",
+    "vocals": [{ "clipId": 43, "title": "02_1_Phrases_clipId-43-0" }]
+  },
+  {
+    "phraseId": 497,
+    "eng": "The computer is on the table.",
+    "fren": "L'ordinateur est sur la table",
+    "vocals": [{ "clipId": 0, "title": "02_2_Phrases_clipId-0-0" }]
+  },
+  {
+    "phraseId": 498,
+    "eng": "The radio is on the chair.",
+    "fren": "La radio est sur la chaise",
+    "vocals": [{ "clipId": 1, "title": "02_2_Phrases_clipId-1-0" }]
+  },
+  {
+    "phraseId": 499,
+    "eng": "The cat is on (top of) the television.",
+    "fren": "Le chat est sur la télévision",
+    "vocals": [{ "clipId": 2, "title": "02_2_Phrases_clipId-2-0" }]
+  },
+  {
+    "phraseId": 500,
+    "eng": "The apple is on the computer.",
+    "fren": "La pomme est sur l'ordinateur",
+    "vocals": [{ "clipId": 3, "title": "02_2_Phrases_clipId-3-0" }]
+  },
+  {
+    "phraseId": 501,
+    "eng": "The cat is in the house.",
+    "fren": "Le chat est dans la maison",
+    "vocals": [{ "clipId": 4, "title": "02_2_Phrases_clipId-4-0" }]
+  },
+  {
+    "phraseId": 502,
+    "eng": "The cat is on the house.",
+    "fren": "Le chat est sur la maison",
+    "vocals": [{ "clipId": 5, "title": "02_2_Phrases_clipId-5-0" }]
+  },
+  {
+    "phraseId": 503,
+    "eng": "The apples are in the bowl.",
+    "fren": "Les pommes sont dans le bol",
+    "vocals": [{ "clipId": 6, "title": "02_2_Phrases_clipId-6-0" }]
+  },
+  {
+    "phraseId": 504,
+    "eng": "The bowl is on the table.",
+    "fren": "Le bol est sur la table",
+    "vocals": [{ "clipId": 7, "title": "02_2_Phrases_clipId-7-0" }]
+  },
+  {
+    "phraseId": 505,
+    "eng": "The table is in the kitchen.",
+    "fren": "La table est dans la cuisine",
+    "vocals": [{ "clipId": 8, "title": "02_2_Phrases_clipId-8-0" }]
+  },
+  {
+    "phraseId": 506,
+    "eng": "The kitchen is in the house.",
+    "fren": "La cuisine est dans la maison",
+    "vocals": [{ "clipId": 9, "title": "02_2_Phrases_clipId-9-0" }]
+  },
+  {
+    "phraseId": 507,
+    "eng": "The boy is in the house.",
+    "fren": "Le garçon est dans la maison",
+    "vocals": [{ "clipId": 10, "title": "02_2_Phrases_clipId-10-0" }]
+  },
+  {
+    "phraseId": 508,
+    "eng": "The girl is in the apartment.",
+    "fren": "La fille est dans l'appartement",
+    "vocals": [{ "clipId": 11, "title": "02_2_Phrases_clipId-11-0" }]
+  },
+  {
+    "phraseId": 509,
+    "eng": "The family is in the house.",
+    "fren": "La famille est dans la maison",
+    "vocals": [{ "clipId": 12, "title": "02_2_Phrases_clipId-12-0" }]
+  },
+  {
+    "phraseId": 510,
+    "eng": "The woman is in the apartment.",
+    "fren": "La femme est dans l'appartement",
+    "vocals": [{ "clipId": 13, "title": "02_2_Phrases_clipId-13-0" }]
+  },
+  {
+    "phraseId": 511,
+    "eng": "This door is large.",
+    "fren": "Cette porte est grande",
+    "vocals": [{ "clipId": 14, "title": "02_2_Phrases_clipId-14-0" }]
+  },
+  {
+    "phraseId": 512,
+    "eng": "This door is small.",
+    "fren": "Cette porte est petite",
+    "vocals": [{ "clipId": 15, "title": "02_2_Phrases_clipId-15-0" }]
+  },
+  {
+    "phraseId": 513,
+    "eng": "This window is large.",
+    "fren": "Cette fenêtre est grande",
+    "vocals": [{ "clipId": 16, "title": "02_2_Phrases_clipId-16-0" }]
+  },
+  {
+    "phraseId": 514,
+    "eng": "This window is small.",
+    "fren": "Cette fenêtre est petite",
+    "vocals": [{ "clipId": 17, "title": "02_2_Phrases_clipId-17-0" }]
+  },
+  {
+    "phraseId": 515,
+    "eng": "The tree is big.",
+    "fren": "L'arbre est gros",
+    "vocals": [{ "clipId": 18, "title": "02_2_Phrases_clipId-18-0" }]
+  },
+  {
+    "phraseId": 516,
+    "eng": "The tree is tall.",
+    "fren": "L'arbre est grand",
+    "vocals": [{ "clipId": 19, "title": "02_2_Phrases_clipId-19-0" }]
+  },
+  {
+    "phraseId": 517,
+    "eng": "The book is big.",
+    "fren": "Le livre est gros",
+    "vocals": [{ "clipId": 20, "title": "02_2_Phrases_clipId-20-0" }]
+  },
+  {
+    "phraseId": 518,
+    "eng": "The book is large.",
+    "fren": "Le livre est grand",
+    "vocals": [{ "clipId": 21, "title": "02_2_Phrases_clipId-21-0" }]
+  },
+  {
+    "phraseId": 519,
+    "eng": "She is hugging her grandmother.",
+    "fren": "Elle sert sa grand-mère dans ses bras",
+    "vocals": [{ "clipId": 22, "title": "02_2_Phrases_clipId-22-0" }]
+  },
+  {
+    "phraseId": 520,
+    "eng": "He is kissing his son.",
+    "fren": "Il embrasse son fils",
+    "vocals": [{ "clipId": 23, "title": "02_2_Phrases_clipId-23-0" }]
+  },
+  {
+    "phraseId": 521,
+    "eng": "She is kissing her husband.",
+    "fren": "Elle embrasse son mari",
+    "vocals": [{ "clipId": 24, "title": "02_2_Phrases_clipId-24-0" }]
+  },
+  {
+    "phraseId": 522,
+    "eng": "The woman loves her husband.",
+    "fren": "La femme aime son mari",
+    "vocals": [{ "clipId": 25, "title": "02_2_Phrases_clipId-25-0" }]
+  },
+  {
+    "phraseId": 523,
+    "eng": "Parents love their children.",
+    "fren": "Les parents aiment leurs enfants",
+    "vocals": [{ "clipId": 26, "title": "02_2_Phrases_clipId-26-0" }]
+  },
+  {
+    "phraseId": 524,
+    "eng": "The boy loves his grandfather.",
+    "fren": "Le garçon aime son grand-père",
+    "vocals": [{ "clipId": 27, "title": "02_2_Phrases_clipId-27-0" }]
+  },
+  {
+    "phraseId": 525,
+    "eng": "The girl loves her dog.",
+    "fren": "La fille aime son chien",
+    "vocals": [{ "clipId": 28, "title": "02_2_Phrases_clipId-28-0" }]
+  },
+  {
+    "phraseId": 526,
+    "eng": "The cat is under the table.",
+    "fren": "Le chat est sous la table",
+    "vocals": [{ "clipId": 29, "title": "02_2_Phrases_clipId-29-0" }]
+  },
+  {
+    "phraseId": 527,
+    "eng": "The dog is under the shirt.",
+    "fren": "Le chien est sous la chemise",
+    "vocals": [{ "clipId": 30, "title": "02_2_Phrases_clipId-30-0" }]
+  },
+  {
+    "phraseId": 528,
+    "eng": "The boys are under the bed.",
+    "fren": "Les garçons sont sous le lit",
+    "vocals": [{ "clipId": 31, "title": "02_2_Phrases_clipId-31-0" }]
+  },
+  {
+    "phraseId": 529,
+    "eng": "The man is on the car.",
+    "fren": "L'homme est sur la voiture",
+    "vocals": [{ "clipId": 32, "title": "02_2_Phrases_clipId-32-0" }]
+  },
+  {
+    "phraseId": 530,
+    "eng": "The man is in the car.",
+    "fren": "L'homme est dans la voiture",
+    "vocals": [{ "clipId": 33, "title": "02_2_Phrases_clipId-33-0" }]
+  },
+  {
+    "phraseId": 531,
+    "eng": "The man is under the car.",
+    "fren": "L'homme est sous la voiture",
+    "vocals": [{ "clipId": 34, "title": "02_2_Phrases_clipId-34-0" }]
+  },
+  {
+    "phraseId": 532,
+    "eng": "The girl is on the bed.",
+    "fren": "La fille est sur le lit",
+    "vocals": [{ "clipId": 35, "title": "02_2_Phrases_clipId-35-0" }]
+  },
+  {
+    "phraseId": 533,
+    "eng": "The girl is under the bed.",
+    "fren": "La fille est sous le lit",
+    "vocals": [{ "clipId": 36, "title": "02_2_Phrases_clipId-36-0" }]
+  },
+  {
+    "phraseId": 534,
+    "eng": "The boy is sitting.",
+    "fren": "Le garçon est assis",
+    "vocals": [{ "clipId": 37, "title": "02_2_Phrases_clipId-37-0" }]
+  },
+  {
+    "phraseId": 535,
+    "eng": "The girl is sitting.",
+    "fren": "La fille est assise",
+    "vocals": [{ "clipId": 38, "title": "02_2_Phrases_clipId-38-0" }]
+  },
+  {
+    "phraseId": 536,
+    "eng": "The man is standing.",
+    "fren": "L'homme est debout",
+    "vocals": [{ "clipId": 39, "title": "02_2_Phrases_clipId-39-0" }]
+  },
+  {
+    "phraseId": 537,
+    "eng": "The man is sitting.",
+    "fren": "L'homme est assis",
+    "vocals": [{ "clipId": 40, "title": "02_2_Phrases_clipId-40-0" }]
+  },
+  {
+    "phraseId": 538,
+    "eng": "The woman is standing.",
+    "fren": "La femme est debout",
+    "vocals": [{ "clipId": 41, "title": "02_2_Phrases_clipId-41-0" }]
+  },
+  {
+    "phraseId": 539,
+    "eng": "The woman is seated.",
+    "fren": "La femme et assise",
+    "vocals": [{ "clipId": 42, "title": "02_2_Phrases_clipId-42-0" }]
+  },
+  {
+    "phraseId": 540,
+    "eng": "The girl is sitting on the bridge.",
+    "fren": "la fille est assise sur le pont",
+    "vocals": [{ "clipId": 0, "title": "02_3_Phrases_clipId-0-0" }]
+  },
+  {
+    "phraseId": 541,
+    "eng": "The man is standing in the street.",
+    "fren": "l'homme est debout dans la rue",
+    "vocals": [{ "clipId": 1, "title": "02_3_Phrases_clipId-1-0" }]
+  },
+  {
+    "phraseId": 542,
+    "eng": "The girls are standing on the bridge.",
+    "fren": "les filles sont debout sur le pont",
+    "vocals": [{ "clipId": 2, "title": "02_3_Phrases_clipId-2-0" }]
+  },
+  {
+    "phraseId": 543,
+    "eng": "The woman is sitting in the park.",
+    "fren": "la femme est assise dans le parc",
+    "vocals": [{ "clipId": 3, "title": "02_3_Phrases_clipId-3-0" }]
+  },
+  {
+    "phraseId": 544,
+    "eng": "This street is in Paris.",
+    "fren": "cette rue est à Paris",
+    "vocals": [{ "clipId": 4, "title": "02_3_Phrases_clipId-4-0" }]
+  },
+  {
+    "phraseId": 545,
+    "eng": "This city is in France.",
+    "fren": "cette ville est en France",
+    "vocals": [{ "clipId": 5, "title": "02_3_Phrases_clipId-5-0" }]
+  },
+  {
+    "phraseId": 546,
+    "eng": "This bridge is in New York.",
+    "fren": "Ce pont est a New York",
+    "vocals": [{ "clipId": 6, "title": "02_3_Phrases_clipId-6-0" }]
+  },
+  {
+    "phraseId": 547,
+    "eng": "This city is in the United States.",
+    "fren": "cette ville est aux États-Unis",
+    "vocals": [{ "clipId": 7, "title": "02_3_Phrases_clipId-7-0" }]
+  },
+  {
+    "phraseId": 548,
+    "eng": "They are from France.",
+    "fren": "ils sont de France",
+    "vocals": [{ "clipId": 8, "title": "02_3_Phrases_clipId-8-0" }]
+  },
+  {
+    "phraseId": 549,
+    "eng": "He is from France.",
+    "fren": "il est de France",
+    "vocals": [{ "clipId": 9, "title": "02_3_Phrases_clipId-9-0" }]
+  },
+  {
+    "phraseId": 550,
+    "eng": "She is from France.",
+    "fren": "elle est de France",
+    "vocals": [{ "clipId": 10, "title": "02_3_Phrases_clipId-10-0" }]
+  },
+  {
+    "phraseId": 551,
+    "eng": "They come from the United States.",
+    "fren": "ils sont des États-Unis",
+    "vocals": [{ "clipId": 11, "title": "02_3_Phrases_clipId-11-0" }]
+  },
+  {
+    "phraseId": 552,
+    "eng": "He comes from the United States.",
+    "fren": "il est des États-Unis",
+    "vocals": [{ "clipId": 12, "title": "02_3_Phrases_clipId-12-0" }]
+  },
+  {
+    "phraseId": 553,
+    "eng": "She comes from the United States.",
+    "fren": "elle est des États-Unis",
+    "vocals": [{ "clipId": 13, "title": "02_3_Phrases_clipId-13-0" }]
+  },
+  {
+    "phraseId": 554,
+    "eng": "The boy is near the house.",
+    "fren": "le garçon est près de la maison",
+    "vocals": [{ "clipId": 14, "title": "02_3_Phrases_clipId-14-0" }]
+  },
+  {
+    "phraseId": 555,
+    "eng": "The girl is far from the house.",
+    "fren": "la fille est loin de la maison",
+    "vocals": [{ "clipId": 15, "title": "02_3_Phrases_clipId-15-0" }]
+  },
+  {
+    "phraseId": 556,
+    "eng": "The dog is near the house.",
+    "fren": "le chien est près de la maison",
+    "vocals": [{ "clipId": 16, "title": "02_3_Phrases_clipId-16-0" }]
+  },
+  {
+    "phraseId": 557,
+    "eng": "The horse is far from the house.",
+    "fren": "le cheval est loin de la maison",
+    "vocals": [{ "clipId": 17, "title": "02_3_Phrases_clipId-17-0" }]
+  },
+  {
+    "phraseId": 558,
+    "eng": "The name of this country is Italy.",
+    "fren": "le nom de ce pays est l'Italie",
+    "vocals": [{ "clipId": 18, "title": "02_3_Phrases_clipId-18-0" }]
+  },
+  {
+    "phraseId": 559,
+    "eng": "The name of this country is Japan.",
+    "fren": "le nom de ce pays est le Japon",
+    "vocals": [{ "clipId": 19, "title": "02_3_Phrases_clipId-19-0" }]
+  },
+  {
+    "phraseId": 560,
+    "eng": "The name of this country is Egypt.",
+    "fren": "le nom de ce pays est l'Égypte",
+    "vocals": [{ "clipId": 20, "title": "02_3_Phrases_clipId-20-0" }]
+  },
+  {
+    "phraseId": 561,
+    "eng": "The name of this country is Russia.",
+    "fren": "le nom de ce pays est la Russie",
+    "vocals": [{ "clipId": 21, "title": "02_3_Phrases_clipId-21-0" }]
+  },
+  {
+    "phraseId": 562,
+    "eng": "Japan is close to China.",
+    "fren": "le Japon est près de la Chine",
+    "vocals": [{ "clipId": 22, "title": "02_3_Phrases_clipId-22-0" }]
+  },
+  {
+    "phraseId": 563,
+    "eng": "Japan is far from Brazil.",
+    "fren": "le Japon est loin du Brésil",
+    "vocals": [{ "clipId": 23, "title": "02_3_Phrases_clipId-23-0" }]
+  },
+  {
+    "phraseId": 564,
+    "eng": "Italy is close to France.",
+    "fren": "l'Italie est près de la France",
+    "vocals": [{ "clipId": 24, "title": "02_3_Phrases_clipId-24-0" }]
+  },
+  {
+    "phraseId": 565,
+    "eng": "Italy is far from Brazil.",
+    "fren": "l'Italie est loin du Brésil",
+    "vocals": [{ "clipId": 25, "title": "02_3_Phrases_clipId-25-0" }]
+  },
+  {
+    "phraseId": 566,
+    "eng": "Her socks are grey.",
+    "fren": "Ses chaussettes sont grises.",
+    "vocals": [{ "clipId": 0, "title": "02_4_Phrases_clipId-0-0" }]
+  },
+  {
+    "phraseId": 567,
+    "eng": "Her socks are purple.",
+    "fren": "Ses chaussettes sont violettes.",
+    "vocals": [{ "clipId": 1, "title": "02_4_Phrases_clipId-1-0" }]
+  },
+  {
+    "phraseId": 568,
+    "eng": "His sweater is purple.",
+    "fren": "Son pull est violets.",
+    "vocals": [{ "clipId": 2, "title": "02_4_Phrases_clipId-2-0" }]
+  },
+  {
+    "phraseId": 569,
+    "eng": "His sweater is grey.",
+    "fren": "Son pull est gris.",
+    "vocals": [{ "clipId": 3, "title": "02_4_Phrases_clipId-3-0" }]
+  },
+  {
+    "phraseId": 570,
+    "eng": "The tall man is wearing a tie.",
+    "fren": "L'homme grand porte une cravate.",
+    "vocals": [{ "clipId": 4, "title": "02_4_Phrases_clipId-4-0" }]
+  },
+  {
+    "phraseId": 571,
+    "eng": "The little man is wearing a sweater.",
+    "fren": "Le petit homme porte un pull.",
+    "vocals": [{ "clipId": 5, "title": "02_4_Phrases_clipId-5-0" }]
+  },
+  {
+    "phraseId": 572,
+    "eng": "The tall woman is wearing jeans.",
+    "fren": "La femme grande porte un jean.",
+    "vocals": [{ "clipId": 6, "title": "02_4_Phrases_clipId-6-0" }]
+  },
+  {
+    "phraseId": 573,
+    "eng": "The small woman is wearing a t-shirt.",
+    "fren": "La petite femme porte un t-shirt.",
+    "vocals": [{ "clipId": 7, "title": "02_4_Phrases_clipId-7-0" }]
+  },
+  {
+    "phraseId": 574,
+    "eng": "The tall man is wearing a black suit.",
+    "fren": "Le grand porte un costume noir.",
+    "vocals": [{ "clipId": 8, "title": "02_4_Phrases_clipId-8-0" }]
+  },
+  {
+    "phraseId": 575,
+    "eng": "The little man is wearing a black suit.",
+    "fren": "Le petit homme porte un costume noir.",
+    "vocals": [{ "clipId": 9, "title": "02_4_Phrases_clipId-9-0" }]
+  },
+  {
+    "phraseId": 576,
+    "eng": "The tall woman is wearing a grey suit.",
+    "fren": "La femme grande porte un tailleur gris.",
+    "vocals": [{ "clipId": 10, "title": "02_4_Phrases_clipId-10-0" }]
+  },
+  {
+    "phraseId": 577,
+    "eng": "The small woman is wearing a grey suit.",
+    "fren": "La petite femme porte un tailleur gris.",
+    "vocals": [{ "clipId": 11, "title": "02_4_Phrases_clipId-11-0" }]
+  },
+  {
+    "phraseId": 578,
+    "eng": "His trousers are blue.",
+    "fren": "Son pantalon est bleu.",
+    "vocals": [{ "clipId": 12, "title": "02_4_Phrases_clipId-12-0" }]
+  },
+  {
+    "phraseId": 579,
+    "eng": "His t-shirt is orange.",
+    "fren": "Son t-shirt est orange.",
+    "vocals": [{ "clipId": 13, "title": "02_4_Phrases_clipId-13-0" }]
+  },
+  {
+    "phraseId": 580,
+    "eng": "His coat is blue.",
+    "fren": "Son manteau est bleu.",
+    "vocals": [{ "clipId": 14, "title": "02_4_Phrases_clipId-14-0" }]
+  },
+  {
+    "phraseId": 581,
+    "eng": "Her dress is orange.",
+    "fren": "Sa robe est orange.",
+    "vocals": [{ "clipId": 15, "title": "02_4_Phrases_clipId-15-0" }]
+  },
+  {
+    "phraseId": 582,
+    "eng": "She has black hair.",
+    "fren": "Elle a les cheveux noirs.",
+    "vocals": [{ "clipId": 16, "title": "02_4_Phrases_clipId-16-0" }]
+  },
+  {
+    "phraseId": 583,
+    "eng": "She has grey hair.",
+    "fren": "Elle a les cheveux gris.",
+    "vocals": [{ "clipId": 17, "title": "02_4_Phrases_clipId-17-0" }]
+  },
+  {
+    "phraseId": 584,
+    "eng": "He has red hair.",
+    "fren": "Il a les cheveux roux.",
+    "vocals": [{ "clipId": 18, "title": "02_4_Phrases_clipId-18-0" }]
+  },
+  {
+    "phraseId": 585,
+    "eng": "She has brown hair.",
+    "fren": "Elle a les cheveux bruns.",
+    "vocals": [{ "clipId": 19, "title": "02_4_Phrases_clipId-19-0" }]
+  },
+  {
+    "phraseId": 586,
+    "eng": "He has blond hair.",
+    "fren": "Il a les cheveux blonds.",
+    "vocals": [{ "clipId": 20, "title": "02_4_Phrases_clipId-20-0" }]
+  },
+  {
+    "phraseId": 587,
+    "eng": "He has white hair.",
+    "fren": "Il a les cheveux blancs.",
+    "vocals": [{ "clipId": 21, "title": "02_4_Phrases_clipId-21-0" }]
+  },
+  {
+    "phraseId": 588,
+    "eng": "The belt is pink.",
+    "fren": "La ceinture est rose.",
+    "vocals": [{ "clipId": 22, "title": "02_4_Phrases_clipId-22-0" }]
+  },
+  {
+    "phraseId": 589,
+    "eng": "The house is brown.",
+    "fren": "La maison est marron.",
+    "vocals": [{ "clipId": 23, "title": "02_4_Phrases_clipId-23-0" }]
+  },
+  {
+    "phraseId": 590,
+    "eng": "The house is pink.",
+    "fren": "La maison est rose.",
+    "vocals": [{ "clipId": 24, "title": "02_4_Phrases_clipId-24-0" }]
+  },
+  {
+    "phraseId": 591,
+    "eng": "The belt is brown.",
+    "fren": "La ceinture est marron.",
+    "vocals": [{ "clipId": 25, "title": "02_4_Phrases_clipId-25-0" }]
+  },
+  {
+    "phraseId": 592,
+    "eng": "The girl is cold.",
+    "fren": "La fille A froid.",
+    "vocals": [{ "clipId": 26, "title": "02_4_Phrases_clipId-26-0" }]
+  },
+  {
+    "phraseId": 593,
+    "eng": "The boy is hot.",
+    "fren": "Le garçon a chaud.",
+    "vocals": [{ "clipId": 27, "title": "02_4_Phrases_clipId-27-0" }]
+  },
+  {
+    "phraseId": 594,
+    "eng": "The man is cold.",
+    "fren": "L'homme a froid.",
+    "vocals": [{ "clipId": 28, "title": "02_4_Phrases_clipId-28-0" }]
+  },
+  {
+    "phraseId": 595,
+    "eng": "The woman is hot.",
+    "fren": "La femme a chaud.",
+    "vocals": [{ "clipId": 29, "title": "02_4_Phrases_clipId-29-0" }]
+  },
+  {
+    "phraseId": 596,
+    "eng": "The man is cold.",
+    "fren": "L'homme a froid.",
+    "vocals": [{ "clipId": 30, "title": "02_4_Phrases_clipId-30-0" }]
+  },
+  {
+    "phraseId": 597,
+    "eng": "The boy is thirsty.",
+    "fren": "Le garçon a soif.",
+    "vocals": [{ "clipId": 31, "title": "02_4_Phrases_clipId-31-0" }]
+  },
+  {
+    "phraseId": 598,
+    "eng": "The woman is hungry.",
+    "fren": "La femme a faim.",
+    "vocals": [{ "clipId": 32, "title": "02_4_Phrases_clipId-32-0" }]
+  },
+  {
+    "phraseId": 599,
+    "eng": "The girl is thirsty.",
+    "fren": "La fille a soif.",
+    "vocals": [{ "clipId": 33, "title": "02_4_Phrases_clipId-33-0" }]
+  },
+  {
+    "phraseId": 600,
+    "eng": "The boy is tired.",
+    "fren": "Le garçon est fatigué.",
+    "vocals": [{ "clipId": 34, "title": "02_4_Phrases_clipId-34-0" }]
+  },
+  {
+    "phraseId": 601,
+    "eng": "The girl is sick.",
+    "fren": "La fille est malade.",
+    "vocals": [{ "clipId": 35, "title": "02_4_Phrases_clipId-35-0" }]
+  },
+  {
+    "phraseId": 602,
+    "eng": "The man is sick.",
+    "fren": "L'homme est malade.",
+    "vocals": [{ "clipId": 36, "title": "02_4_Phrases_clipId-36-0" }]
+  },
+  {
+    "phraseId": 603,
+    "eng": "The woman is tired.",
+    "fren": "La femme est fatiguée.",
+    "vocals": [{ "clipId": 37, "title": "02_4_Phrases_clipId-37-0" }]
+  },
+  {
+    "phraseId": 604,
+    "eng": "Who is playing?",
+    "fren": "Qui joue.",
+    "vocals": [{ "clipId": 0, "title": "02_1_Speaking_clipId-0-0" }]
+  },
+  {
+    "phraseId": 605,
+    "eng": "Who is sleeping?",
+    "fren": "Qui dort.",
+    "vocals": [{ "clipId": 1, "title": "02_1_Speaking_clipId-1-0" }]
+  },
+  {
+    "phraseId": 606,
+    "eng": "Who is eating?",
+    "fren": "Qui mange.",
+    "vocals": [{ "clipId": 2, "title": "02_1_Speaking_clipId-2-0" }]
+  },
+  {
+    "phraseId": 607,
+    "eng": "Who is drinking?",
+    "fren": "Qui boit.",
+    "vocals": [{ "clipId": 3, "title": "02_1_Speaking_clipId-3-0" }]
+  },
+  {
+    "phraseId": 608,
+    "eng": "That's my mother.",
+    "fren": "C'est ma mère.",
+    "vocals": [{ "clipId": 4, "title": "02_1_Speaking_clipId-4-0" }]
+  },
+  {
+    "phraseId": 609,
+    "eng": "He is my father.",
+    "fren": "C'est mon père.",
+    "vocals": [{ "clipId": 5, "title": "02_1_Speaking_clipId-5-0" }]
+  },
+  {
+    "phraseId": 610,
+    "eng": "That's my son.",
+    "fren": "C'est mon fils.",
+    "vocals": [{ "clipId": 6, "title": "02_1_Speaking_clipId-6-0" }]
+  },
+  {
+    "phraseId": 611,
+    "eng": "That's my daughter.",
+    "fren": "C'est ma fille.",
+    "vocals": [{ "clipId": 7, "title": "02_1_Speaking_clipId-7-0" }]
+  },
+  {
+    "phraseId": 612,
+    "eng": "This is my bike.",
+    "fren": "C'est mon vélo.",
+    "vocals": [{ "clipId": 8, "title": "02_1_Speaking_clipId-8-0" }]
+  },
+  {
+    "phraseId": 613,
+    "eng": "This is my bed.",
+    "fren": "C'est mon lit.",
+    "vocals": [{ "clipId": 9, "title": "02_1_Speaking_clipId-9-0" }]
+  },
+  {
+    "phraseId": 614,
+    "eng": "He's my friend.",
+    "fren": "C'est mon ami.",
+    "vocals": [{ "clipId": 10, "title": "02_1_Speaking_clipId-10-0" }]
+  },
+  {
+    "phraseId": 615,
+    "eng": "These are my friends.",
+    "fren": "Ce sont mes amis.",
+    "vocals": [{ "clipId": 11, "title": "02_1_Speaking_clipId-11-0" }]
+  },
+  {
+    "phraseId": 616,
+    "eng": "He's my brother.",
+    "fren": "C'est mon frère.",
+    "vocals": [{ "clipId": 12, "title": "02_1_Speaking_clipId-12-0" }]
+  },
+  {
+    "phraseId": 617,
+    "eng": "These are my brothers.",
+    "fren": "Ce sont mes frères.",
+    "vocals": [{ "clipId": 13, "title": "02_1_Speaking_clipId-13-0" }]
+  },
+  {
+    "phraseId": 618,
+    "eng": "That's my sister.",
+    "fren": "C'est ma sœur.",
+    "vocals": [{ "clipId": 14, "title": "02_1_Speaking_clipId-14-0" }]
+  },
+  {
+    "phraseId": 619,
+    "eng": "These are my sisters.",
+    "fren": "Ce sont mes sœurs.",
+    "vocals": [{ "clipId": 15, "title": "02_1_Speaking_clipId-15-0" }]
+  },
+  {
+    "phraseId": 620,
+    "eng": "These are my parents.",
+    "fren": "Ce sont mes parents.",
+    "vocals": [{ "clipId": 16, "title": "02_1_Speaking_clipId-16-0" }]
+  },
+  {
+    "phraseId": 621,
+    "eng": "This is my baby.",
+    "fren": "C'est mon bébé.",
+    "vocals": [{ "clipId": 17, "title": "02_1_Speaking_clipId-17-0" }]
+  },
+  {
+    "phraseId": 622,
+    "eng": "These are my children.",
+    "fren": "Ce sont mes enfants.",
+    "vocals": [{ "clipId": 18, "title": "02_1_Speaking_clipId-18-0" }]
+  },
+  {
+    "phraseId": 623,
+    "eng": "These are my sons.",
+    "fren": "Ce sont mes fils.",
+    "vocals": [{ "clipId": 19, "title": "02_1_Speaking_clipId-19-0" }]
+  },
+  {
+    "phraseId": 624,
+    "eng": "This is our daughter.",
+    "fren": "C'est notre fille.",
+    "vocals": [{ "clipId": 20, "title": "02_1_Speaking_clipId-20-0" }]
+  },
+  {
+    "phraseId": 625,
+    "eng": "These are our children.",
+    "fren": "Ce sont nos enfants.",
+    "vocals": [{ "clipId": 21, "title": "02_1_Speaking_clipId-21-0" }]
+  },
+  {
+    "phraseId": 626,
+    "eng": "He is our father.",
+    "fren": "C'est notre père.",
+    "vocals": [{ "clipId": 22, "title": "02_1_Speaking_clipId-22-0" }]
+  },
+  {
+    "phraseId": 627,
+    "eng": "These are our parents.",
+    "fren": "Ce sont nos parents.",
+    "vocals": [{ "clipId": 23, "title": "02_1_Speaking_clipId-23-0" }]
+  },
+  {
+    "phraseId": 628,
+    "eng": "We have 2 sons.",
+    "fren": "Nous avons deux fils.",
+    "vocals": [{ "clipId": 24, "title": "02_1_Speaking_clipId-24-0" }]
+  },
+  {
+    "phraseId": 629,
+    "eng": "We have 4 daughters.",
+    "fren": "Nous avons quatre filles.",
+    "vocals": [{ "clipId": 25, "title": "02_1_Speaking_clipId-25-0" }]
+  },
+  {
+    "phraseId": 630,
+    "eng": "We have 1 son and 3 daughters.",
+    "fren": "Nous avons un fils et trois filles.",
+    "vocals": [{ "clipId": 26, "title": "02_1_Speaking_clipId-26-0" }]
+  },
+  {
+    "phraseId": 631,
+    "eng": "He is 6 years old.",
+    "fren": "Il a six ans.",
+    "vocals": [{ "clipId": 27, "title": "02_1_Speaking_clipId-27-0" }]
+  },
+  {
+    "phraseId": 632,
+    "eng": "She is 7 years old.",
+    "fren": "Elle a sept ans.",
+    "vocals": [{ "clipId": 28, "title": "02_1_Speaking_clipId-28-0" }]
+  },
+  {
+    "phraseId": 633,
+    "eng": "I am 4 years old.",
+    "fren": "J'ai quatre ans.",
+    "vocals": [{ "clipId": 29, "title": "02_1_Speaking_clipId-29-0" }]
+  },
+  {
+    "phraseId": 634,
+    "eng": "I am 10 years old.",
+    "fren": "J'ai dix ans.",
+    "vocals": [{ "clipId": 30, "title": "02_1_Speaking_clipId-30-0" }]
+  },
+  {
+    "phraseId": 635,
+    "eng": "How old is he?",
+    "fren": "Quel âge a-t-il.",
+    "vocals": [{ "clipId": 31, "title": "02_1_Speaking_clipId-31-0" }]
+  },
+  {
+    "phraseId": 636,
+    "eng": "He is 12 years old.",
+    "fren": "Il a douze ans.",
+    "vocals": [{ "clipId": 32, "title": "02_1_Speaking_clipId-32-0" }]
+  },
+  {
+    "phraseId": 637,
+    "eng": "How old are you?",
+    "fren": "Quel âge as-tu.",
+    "vocals": [{ "clipId": 33, "title": "02_1_Speaking_clipId-33-0" }]
+  },
+  {
+    "phraseId": 638,
+    "eng": "I am 5 years old.",
+    "fren": "J'ai cinq ans.",
+    "vocals": [{ "clipId": 34, "title": "02_1_Speaking_clipId-34-0" }]
+  },
+  {
+    "phraseId": 639,
+    "eng": "How old is she?",
+    "fren": "Quel âge a-t-elle.",
+    "vocals": [{ "clipId": 35, "title": "02_1_Speaking_clipId-35-0" }]
+  },
+  {
+    "phraseId": 640,
+    "eng": "She is 9 years old.",
+    "fren": "Elle a neuf ans.",
+    "vocals": [{ "clipId": 36, "title": "02_1_Speaking_clipId-36-0" }]
+  },
+  {
+    "phraseId": 641,
+    "eng": "I am 9 years old.",
+    "fren": "J'ai neuf ans.",
+    "vocals": [{ "clipId": 37, "title": "02_1_Speaking_clipId-37-0" }]
+  },
+  {
+    "phraseId": 642,
+    "eng": "You are my friend.",
+    "fren": "Tu es mon ami.",
+    "vocals": [{ "clipId": 38, "title": "02_1_Speaking_clipId-38-0" }]
+  },
+  {
+    "phraseId": 643,
+    "eng": "You are my doctor.",
+    "fren": "Vous êtes mon médecin.",
+    "vocals": [{ "clipId": 39, "title": "02_1_Speaking_clipId-39-0" }]
+  },
+  {
+    "phraseId": 644,
+    "eng": "You are my wife.",
+    "fren": "Tu es ma femme.",
+    "vocals": [{ "clipId": 40, "title": "02_1_Speaking_clipId-40-0" }]
+  },
+  {
+    "phraseId": 645,
+    "eng": "You are my teacher.",
+    "fren": "Vous êtes mon professeur.",
+    "vocals": [{ "clipId": 41, "title": "02_1_Speaking_clipId-41-0" }]
+  },
+  {
+    "phraseId": 646,
+    "eng": "Are you asleep?",
+    "fren": "Est-ce que tu dors.",
+    "vocals": [{ "clipId": 42, "title": "02_1_Speaking_clipId-42-0" }]
+  },
+  {
+    "phraseId": 647,
+    "eng": "No.",
+    "fren": "Non.",
+    "vocals": [{ "clipId": 43, "title": "02_1_Speaking_clipId-43-0" }]
+  },
+  {
+    "phraseId": 648,
+    "eng": "What are you doing?",
+    "fren": "Qu'est-ce que tu fais.",
+    "vocals": [{ "clipId": 44, "title": "02_1_Speaking_clipId-44-0" }]
+  },
+  {
+    "phraseId": 649,
+    "eng": "I am reading.",
+    "fren": "Je lis.",
+    "vocals": [{ "clipId": 45, "title": "02_1_Speaking_clipId-45-0" }]
+  },
+  {
+    "phraseId": 650,
+    "eng": "Are you eating?",
+    "fren": "Est-ce que vous mangez.",
+    "vocals": [{ "clipId": 46, "title": "02_1_Speaking_clipId-46-0" }]
+  },
+  {
+    "phraseId": 651,
+    "eng": "What are you doing?",
+    "fren": "Qu'est-ce que vous faites.",
+    "vocals": [{ "clipId": 47, "title": "02_1_Speaking_clipId-47-0" }]
+  },
+  {
+    "phraseId": 652,
+    "eng": "I am writing.",
+    "fren": "J'écris.",
+    "vocals": [{ "clipId": 48, "title": "02_1_Speaking_clipId-48-0" }]
+  },
+  {
+    "phraseId": 653,
+    "eng": "I love my mother.",
+    "fren": "J'aime ma mère.",
+    "vocals": [{ "clipId": 0, "title": "02_2_Speaking_clipId-0-0" }]
+  },
+  {
+    "phraseId": 654,
+    "eng": "I love my brother.",
+    "fren": "J'aime mon frère.",
+    "vocals": [{ "clipId": 1, "title": "02_2_Speaking_clipId-1-0" }]
+  },
+  {
+    "phraseId": 655,
+    "eng": "I love my sister.",
+    "fren": "J'aime ma sœur.",
+    "vocals": [{ "clipId": 2, "title": "02_2_Speaking_clipId-2-0" }]
+  },
+  {
+    "phraseId": 656,
+    "eng": "I love my grandfather.",
+    "fren": "J'aime mon grand-père.",
+    "vocals": [{ "clipId": 3, "title": "02_2_Speaking_clipId-3-0" }]
+  },
+  {
+    "phraseId": 657,
+    "eng": "Excuse me, is this your book?",
+    "fren": "Excusez-moi est-ce que c'est votre livre.",
+    "vocals": [{ "clipId": 4, "title": "02_2_Speaking_clipId-4-0" }]
+  },
+  {
+    "phraseId": 658,
+    "eng": "Yes, it's my book.",
+    "fren": "Oui c'est mon livre.",
+    "vocals": [{ "clipId": 5, "title": "02_2_Speaking_clipId-5-0" }]
+  },
+  {
+    "phraseId": 659,
+    "eng": "Excuse me, is that your hat?",
+    "fren": "Excusez-moi est-ce que c'est votre chapeau.",
+    "vocals": [{ "clipId": 6, "title": "02_2_Speaking_clipId-6-0" }]
+  },
+  {
+    "phraseId": 660,
+    "eng": "No, it's not my hat.",
+    "fren": "Non ce n'est pas mon chapeau.",
+    "vocals": [{ "clipId": 7, "title": "02_2_Speaking_clipId-7-0" }]
+  },
+  {
+    "phraseId": 661,
+    "eng": "Excuse me are these your books?",
+    "fren": "Excusez-moi est-ce que ce sont vos livres.",
+    "vocals": [{ "clipId": 8, "title": "02_2_Speaking_clipId-8-0" }]
+  },
+  {
+    "phraseId": 662,
+    "eng": "Yes, these are my books.",
+    "fren": "Oui ce sont mes livres.",
+    "vocals": [{ "clipId": 9, "title": "02_2_Speaking_clipId-9-0" }]
+  },
+  {
+    "phraseId": 663,
+    "eng": "Are these your pens?",
+    "fren": "Est-ce que ce sont tes stylos.",
+    "vocals": [{ "clipId": 10, "title": "02_2_Speaking_clipId-10-0" }]
+  },
+  {
+    "phraseId": 664,
+    "eng": "No, these are not my pens.",
+    "fren": "Non ce ne sont pas mes stylos.",
+    "vocals": [{ "clipId": 11, "title": "02_2_Speaking_clipId-11-0" }]
+  },
+  {
+    "phraseId": 665,
+    "eng": "Is that your sister?",
+    "fren": "Est-ce que c'est ta sœur.",
+    "vocals": [{ "clipId": 12, "title": "02_2_Speaking_clipId-12-0" }]
+  },
+  {
+    "phraseId": 666,
+    "eng": "Yes, that's my sister.",
+    "fren": "Oui c'est ma sœur.",
+    "vocals": [{ "clipId": 13, "title": "02_2_Speaking_clipId-13-0" }]
+  },
+  {
+    "phraseId": 667,
+    "eng": "Is this your ball?",
+    "fren": "Est-ce que c'est ta balle.",
+    "vocals": [{ "clipId": 14, "title": "02_2_Speaking_clipId-14-0" }]
+  },
+  {
+    "phraseId": 668,
+    "eng": "Yes, that's my ball.",
+    "fren": "Oui c'est ma balle.",
+    "vocals": [{ "clipId": 15, "title": "02_2_Speaking_clipId-15-0" }]
+  },
+  {
+    "phraseId": 669,
+    "eng": "Where are my keys?",
+    "fren": "Où sont mes clés.",
+    "vocals": [{ "clipId": 16, "title": "02_2_Speaking_clipId-16-0" }]
+  },
+  {
+    "phraseId": 670,
+    "eng": "Your keys are in the car.",
+    "fren": "Tes clés sont dans la voiture.",
+    "vocals": [{ "clipId": 17, "title": "02_2_Speaking_clipId-17-0" }]
+  },
+  {
+    "phraseId": 671,
+    "eng": "Excuse me, where is my coat?",
+    "fren": "Excusez-moi où est mon manteau.",
+    "vocals": [{ "clipId": 18, "title": "02_2_Speaking_clipId-18-0" }]
+  },
+  {
+    "phraseId": 672,
+    "eng": "Your coat is on the chair.",
+    "fren": "Votre manteau est sur la chaise.",
+    "vocals": [{ "clipId": 19, "title": "02_2_Speaking_clipId-19-0" }]
+  },
+  {
+    "phraseId": 673,
+    "eng": "Where are my books?",
+    "fren": "Où sont mes livres.",
+    "vocals": [{ "clipId": 20, "title": "02_2_Speaking_clipId-20-0" }]
+  },
+  {
+    "phraseId": 674,
+    "eng": "Your books are on the chair.",
+    "fren": "Tes livres sont sur la chaise.",
+    "vocals": [{ "clipId": 21, "title": "02_2_Speaking_clipId-21-0" }]
+  },
+  {
+    "phraseId": 675,
+    "eng": "Where is my cup?",
+    "fren": "Où est ma tasse.",
+    "vocals": [{ "clipId": 22, "title": "02_2_Speaking_clipId-22-0" }]
+  },
+  {
+    "phraseId": 676,
+    "eng": "Your cup is in the sink.",
+    "fren": "Ta tasse c'est dans l'évier.",
+    "vocals": [{ "clipId": 23, "title": "02_2_Speaking_clipId-23-0" }]
+  },
+  {
+    "phraseId": 677,
+    "eng": "Is that your brother?",
+    "fren": "Est-ce que c'est ton frère.",
+    "vocals": [{ "clipId": 24, "title": "02_2_Speaking_clipId-24-0" }]
+  },
+  {
+    "phraseId": 678,
+    "eng": "Yes, that's my brother.",
+    "fren": "Oui c'est mon frère.",
+    "vocals": [{ "clipId": 25, "title": "02_2_Speaking_clipId-25-0" }]
+  },
+  {
+    "phraseId": 679,
+    "eng": "Where is my newspaper?",
+    "fren": "Où est mon journal.",
+    "vocals": [{ "clipId": 26, "title": "02_2_Speaking_clipId-26-0" }]
+  },
+  {
+    "phraseId": 680,
+    "eng": "Your newspaper is on the table.",
+    "fren": "Votre journal est sur la table.",
+    "vocals": [{ "clipId": 27, "title": "02_2_Speaking_clipId-27-0" }]
+  },
+  {
+    "phraseId": 681,
+    "eng": "Where are the shoes.",
+    "fren": "Où sont les chaussures.",
+    "vocals": [{ "clipId": 28, "title": "02_2_Speaking_clipId-28-0" }]
+  },
+  {
+    "phraseId": 682,
+    "eng": "The shoes are under the bed.",
+    "fren": "Les chaussures sont sous le lit.",
+    "vocals": [{ "clipId": 29, "title": "02_2_Speaking_clipId-29-0" }]
+  },
+  {
+    "phraseId": 683,
+    "eng": "Where is the newspaper?",
+    "fren": "Où est le journal.",
+    "vocals": [{ "clipId": 30, "title": "02_2_Speaking_clipId-30-0" }]
+  },
+  {
+    "phraseId": 684,
+    "eng": "The newspaper is on the bed.",
+    "fren": "Le journal est sur le lit.",
+    "vocals": [{ "clipId": 31, "title": "02_2_Speaking_clipId-31-0" }]
+  },
+  {
+    "phraseId": 685,
+    "eng": "Where are the cups?",
+    "fren": "Où sont les tasses.",
+    "vocals": [{ "clipId": 32, "title": "02_2_Speaking_clipId-32-0" }]
+  },
+  {
+    "phraseId": 686,
+    "eng": "The cups are in the sink.",
+    "fren": "Les tasses sont dans l'évier.",
+    "vocals": [{ "clipId": 33, "title": "02_2_Speaking_clipId-33-0" }]
+  },
+  {
+    "phraseId": 687,
+    "eng": "Where are the plates?",
+    "fren": "Où sont les assiettes.",
+    "vocals": [{ "clipId": 34, "title": "02_2_Speaking_clipId-34-0" }]
+  },
+  {
+    "phraseId": 688,
+    "eng": "The plates are in the sink.",
+    "fren": "Les assiettes sont dans l'évier.",
+    "vocals": [{ "clipId": 35, "title": "02_2_Speaking_clipId-35-0" }]
+  },
+  {
+    "phraseId": 689,
+    "eng": "I live in an apartment.",
+    "fren": "J'habite dans un appartement",
+    "vocals": [{ "clipId": 0, "title": "02_3_Speaking_clipId-0-0" }]
+  },
+  {
+    "phraseId": 690,
+    "eng": "I live in a house.",
+    "fren": "J'habite dans une maison",
+    "vocals": [{ "clipId": 1, "title": "02_3_Speaking_clipId-1-0" }]
+  },
+  {
+    "phraseId": 691,
+    "eng": "We live in an apartment.",
+    "fren": "Nous habitons dans un appartement",
+    "vocals": [{ "clipId": 2, "title": "02_3_Speaking_clipId-2-0" }]
+  },
+  {
+    "phraseId": 692,
+    "eng": "We live in a house.",
+    "fren": "Nous habitons dans une maison",
+    "vocals": [{ "clipId": 3, "title": "02_3_Speaking_clipId-3-0" }]
+  },
+  {
+    "phraseId": 693,
+    "eng": "Where do you live?",
+    "fren": "Où est-ce que tu habites",
+    "vocals": [{ "clipId": 4, "title": "02_3_Speaking_clipId-4-0" }]
+  },
+  {
+    "phraseId": 694,
+    "eng": "I live in Moscow.",
+    "fren": "J'habite à Moscou",
+    "vocals": [{ "clipId": 5, "title": "02_3_Speaking_clipId-5-0" }]
+  },
+  {
+    "phraseId": 695,
+    "eng": "I live in Paris.",
+    "fren": "J'habite à Paris",
+    "vocals": [{ "clipId": 6, "title": "02_3_Speaking_clipId-6-0" }]
+  },
+  {
+    "phraseId": 696,
+    "eng": "Where do you live?",
+    "fren": "Où est-ce que vous habitez",
+    "vocals": [{ "clipId": 7, "title": "02_3_Speaking_clipId-7-0" }]
+  },
+  {
+    "phraseId": 697,
+    "eng": "We live in Rome.",
+    "fren": "Nous habitons à Rome",
+    "vocals": [{ "clipId": 8, "title": "02_3_Speaking_clipId-8-0" }]
+  },
+  {
+    "phraseId": 698,
+    "eng": "We live in Moscow.",
+    "fren": "Nous habitons à Moscou",
+    "vocals": [{ "clipId": 9, "title": "02_3_Speaking_clipId-9-0" }]
+  },
+  {
+    "phraseId": 699,
+    "eng": "We live in Paris.",
+    "fren": "Nous habitons à Paris",
+    "vocals": [{ "clipId": 10, "title": "02_3_Speaking_clipId-10-0" }]
+  },
+  {
+    "phraseId": 700,
+    "eng": "What country are you from?",
+    "fren": "De quel pays es-tu",
+    "vocals": [{ "clipId": 11, "title": "02_3_Speaking_clipId-11-0" }]
+  },
+  {
+    "phraseId": 701,
+    "eng": "I come from the United States",
+    "fren": "Je suis des États-Unis",
+    "vocals": [{ "clipId": 12, "title": "02_3_Speaking_clipId-12-0" }]
+  },
+  {
+    "phraseId": 702,
+    "eng": "What country are you from?",
+    "fren": "De quel pays êtes-vous",
+    "vocals": [{ "clipId": 13, "title": "02_3_Speaking_clipId-13-0" }]
+  },
+  {
+    "phraseId": 703,
+    "eng": "I am from Egypt.",
+    "fren": "Je suis d'Égypte",
+    "vocals": [{ "clipId": 14, "title": "02_3_Speaking_clipId-14-0" }]
+  },
+  {
+    "phraseId": 704,
+    "eng": "We are from France.",
+    "fren": "Nous sommes de France",
+    "vocals": [{ "clipId": 15, "title": "02_3_Speaking_clipId-15-0" }]
+  },
+  {
+    "phraseId": 705,
+    "eng": "We are from China.",
+    "fren": "Nous sommes de Chine",
+    "vocals": [{ "clipId": 16, "title": "02_3_Speaking_clipId-16-0" }]
+  },
+  {
+    "phraseId": 706,
+    "eng": "I am near the tree.",
+    "fren": "Je suis près de l'arbre",
+    "vocals": [{ "clipId": 17, "title": "02_3_Speaking_clipId-17-0" }]
+  },
+  {
+    "phraseId": 707,
+    "eng": "I am far from the tree.",
+    "fren": "Je suis loin de l'arbre",
+    "vocals": [{ "clipId": 18, "title": "02_3_Speaking_clipId-18-0" }]
+  },
+  {
+    "phraseId": 708,
+    "eng": "I am near the bridge.",
+    "fren": "Je suis près du pont",
+    "vocals": [{ "clipId": 19, "title": "02_3_Speaking_clipId-19-0" }]
+  },
+  {
+    "phraseId": 709,
+    "eng": "I am far from the bridge.",
+    "fren": "Je suis loin du pont",
+    "vocals": [{ "clipId": 20, "title": "02_3_Speaking_clipId-20-0" }]
+  },
+  {
+    "phraseId": 710,
+    "eng": "I am a doctor.",
+    "fren": "Je suis médecin",
+    "vocals": [{ "clipId": 21, "title": "02_3_Speaking_clipId-21-0" }]
+  },
+  {
+    "phraseId": 711,
+    "eng": "My name is Nicolette Vincent.",
+    "fren": "Je m'appelle Nicolette Vincent",
+    "vocals": [{ "clipId": 22, "title": "02_3_Speaking_clipId-22-0" }]
+  },
+  {
+    "phraseId": 712,
+    "eng": "I am a police officer.",
+    "fren": "Je suis policier",
+    "vocals": [{ "clipId": 23, "title": "02_3_Speaking_clipId-23-0" }]
+  },
+  {
+    "phraseId": 713,
+    "eng": "My name is André Rémy.",
+    "fren": "Je m'appelle André Rémy",
+    "vocals": [{ "clipId": 24, "title": "02_3_Speaking_clipId-24-0" }]
+  },
+  {
+    "phraseId": 714,
+    "eng": "I am a teacher.",
+    "fren": "Je suis maîtresse",
+    "vocals": [{ "clipId": 25, "title": "02_3_Speaking_clipId-25-0" }]
+  },
+  {
+    "phraseId": 715,
+    "eng": "My name is Suzanne Simon.",
+    "fren": "Je m'appelle Suzanne Simon",
+    "vocals": [{ "clipId": 26, "title": "02_3_Speaking_clipId-26-0" }]
+  },
+  {
+    "phraseId": 716,
+    "eng": "I am from Russia.",
+    "fren": "Je suis de Russie",
+    "vocals": [{ "clipId": 27, "title": "02_3_Speaking_clipId-27-0" }]
+  },
+  {
+    "phraseId": 717,
+    "eng": "My name is Victor Popof",
+    "fren": "Je m'appelle Victor Popof",
+    "vocals": [{ "clipId": 28, "title": "02_3_Speaking_clipId-28-0" }]
+  },
+  {
+    "phraseId": 718,
+    "eng": "What's your name?",
+    "fren": "Comment t'appelles-tu",
+    "vocals": [{ "clipId": 29, "title": "02_3_Speaking_clipId-29-0" }]
+  },
+  {
+    "phraseId": 719,
+    "eng": "My name is Alexandre.",
+    "fren": "Je m'appelle Alexandre",
+    "vocals": [{ "clipId": 30, "title": "02_3_Speaking_clipId-30-0" }]
+  },
+  {
+    "phraseId": 720,
+    "eng": "Delighted.",
+    "fren": "Enchanté",
+    "vocals": [{ "clipId": 31, "title": "02_3_Speaking_clipId-31-0" }]
+  },
+  {
+    "phraseId": 721,
+    "eng": "What is your name?",
+    "fren": "Comment vous appelez-vous",
+    "vocals": [{ "clipId": 32, "title": "02_3_Speaking_clipId-32-0" }]
+  },
+  {
+    "phraseId": 722,
+    "eng": "My name is Maurice Lambert.",
+    "fren": "Je m'appelle Maurice Lambert",
+    "vocals": [{ "clipId": 33, "title": "02_3_Speaking_clipId-33-0" }]
+  },
+  {
+    "phraseId": 723,
+    "eng": "My name is Lise Gauthier.",
+    "fren": "Je m'appelle lise Gauthier",
+    "vocals": [{ "clipId": 34, "title": "02_3_Speaking_clipId-34-0" }]
+  },
+  {
+    "phraseId": 724,
+    "eng": "He's my brother.",
+    "fren": "C'est mon frère",
+    "vocals": [{ "clipId": 35, "title": "02_3_Speaking_clipId-35-0" }]
+  },
+  {
+    "phraseId": 725,
+    "eng": "What is his name?",
+    "fren": "Comment s'appelle-t-il",
+    "vocals": [{ "clipId": 36, "title": "02_3_Speaking_clipId-36-0" }]
+  },
+  {
+    "phraseId": 726,
+    "eng": "His name is Luc.",
+    "fren": "Il s'appelle Luc",
+    "vocals": [{ "clipId": 37, "title": "02_3_Speaking_clipId-37-0" }]
+  },
+  {
+    "phraseId": 727,
+    "eng": "That's my sister.",
+    "fren": "C'est ma sœur",
+    "vocals": [{ "clipId": 38, "title": "02_3_Speaking_clipId-38-0" }]
+  },
+  {
+    "phraseId": 728,
+    "eng": "What is her name?",
+    "fren": "Comment s'appelle-t-elle",
+    "vocals": [{ "clipId": 39, "title": "02_3_Speaking_clipId-39-0" }]
+  },
+  {
+    "phraseId": 729,
+    "eng": "Her name is Françoise.",
+    "fren": "Elle s'appelle Françoise",
+    "vocals": [{ "clipId": 40, "title": "02_3_Speaking_clipId-40-0" }]
+  },
+  {
+    "phraseId": 730,
+    "eng": "farewell / goodbye",
+    "fren": "Au revoir",
+    "vocals": [
+      { "clipId": 41, "title": "02_3_Speaking_clipId-41-0" },
+      { "clipId": 2, "title": "02_4_Conversation_clipId-2-0" },
+      { "clipId": 2, "title": "02_4_Conversation_clipId-2-1" }
+    ]
+  },
+  {
+    "phraseId": 731,
+    "eng": "Hello!",
+    "fren": "Bonjour",
+    "vocals": [
+      { "clipId": 42, "title": "02_3_Speaking_clipId-42-0" },
+      { "clipId": 46, "title": "02_4_Speaking_clipId-46-0" }
+    ]
+  },
+  {
+    "phraseId": 732,
+    "eng": "Hello,What's your name?",
+    "fren": "Bonjour comment t'appelles-tu",
+    "vocals": [{ "clipId": 43, "title": "02_3_Speaking_clipId-43-0" }]
+  },
+  {
+    "phraseId": 733,
+    "eng": "My name is Alexandre Gauthier.",
+    "fren": "Je m'appelle Alexandre Gauthier",
+    "vocals": [{ "clipId": 44, "title": "02_3_Speaking_clipId-44-0" }]
+  },
+  {
+    "phraseId": 734,
+    "eng": "This is my room.",
+    "fren": "C'est ma chambre",
+    "vocals": [{ "clipId": 45, "title": "02_3_Speaking_clipId-45-0" }]
+  },
+  {
+    "phraseId": 735,
+    "eng": "This is my kitchen.",
+    "fren": "C'est ma cuisine",
+    "vocals": [{ "clipId": 46, "title": "02_3_Speaking_clipId-46-0" }]
+  },
+  {
+    "phraseId": 736,
+    "eng": "My dress is pink.",
+    "fren": "Ma robe est rose",
+    "vocals": [{ "clipId": 0, "title": "02_4_Speaking_clipId-0-0" }]
+  },
+  {
+    "phraseId": 737,
+    "eng": "My shoes are brown.",
+    "fren": "Mes chaussures sont marrons",
+    "vocals": [{ "clipId": 1, "title": "02_4_Speaking_clipId-1-0" }]
+  },
+  {
+    "phraseId": 738,
+    "eng": "My belt is pink.",
+    "fren": "Ma ceinture est rose",
+    "vocals": [{ "clipId": 2, "title": "02_4_Speaking_clipId-2-0" }]
+  },
+  {
+    "phraseId": 739,
+    "eng": "The tie is brown.",
+    "fren": "La cravate est marron",
+    "vocals": [{ "clipId": 3, "title": "02_4_Speaking_clipId-3-0" }]
+  },
+  {
+    "phraseId": 740,
+    "eng": "I am tall.",
+    "fren": "Je suis grand",
+    "vocals": [{ "clipId": 4, "title": "02_4_Speaking_clipId-4-0" }]
+  },
+  {
+    "phraseId": 741,
+    "eng": "I have brown hair.",
+    "fren": "J'ai les cheveux bruns",
+    "vocals": [{ "clipId": 5, "title": "02_4_Speaking_clipId-5-0" }]
+  },
+  {
+    "phraseId": 742,
+    "eng": "I am short.",
+    "fren": "Je suis petite",
+    "vocals": [{ "clipId": 6, "title": "02_4_Speaking_clipId-6-0" }]
+  },
+  {
+    "phraseId": 743,
+    "eng": "I have red hair.",
+    "fren": "J'ai les cheveux roux",
+    "vocals": [{ "clipId": 7, "title": "02_4_Speaking_clipId-7-0" }]
+  },
+  {
+    "phraseId": 744,
+    "eng": "What color is his sweater?",
+    "fren": "De quelle couleur est son pull",
+    "vocals": [{ "clipId": 8, "title": "02_4_Speaking_clipId-8-0" }]
+  },
+  {
+    "phraseId": 745,
+    "eng": "His sweater is blue.",
+    "fren": "Sont pull est bleu",
+    "vocals": [{ "clipId": 9, "title": "02_4_Speaking_clipId-9-0" }]
+  },
+  {
+    "phraseId": 746,
+    "eng": "What color is your suit?",
+    "fren": "De quelle couleur est ton costume",
+    "vocals": [{ "clipId": 10, "title": "02_4_Speaking_clipId-10-0" }]
+  },
+  {
+    "phraseId": 747,
+    "eng": "My suit is gray.",
+    "fren": "Mon costume est gris",
+    "vocals": [{ "clipId": 11, "title": "02_4_Speaking_clipId-11-0" }]
+  },
+  {
+    "phraseId": 748,
+    "eng": "What color is her hair?",
+    "fren": "De quelle couleur sont ses cheveux",
+    "vocals": [{ "clipId": 12, "title": "02_4_Speaking_clipId-12-0" }]
+  },
+  {
+    "phraseId": 749,
+    "eng": "Her hair is brown.",
+    "fren": "Ses cheveux sont bruns",
+    "vocals": [{ "clipId": 13, "title": "02_4_Speaking_clipId-13-0" }]
+  },
+  {
+    "phraseId": 750,
+    "eng": "My hat is blue.",
+    "fren": "Mon chapeau est bleu",
+    "vocals": [{ "clipId": 14, "title": "02_4_Speaking_clipId-14-0" }]
+  },
+  {
+    "phraseId": 751,
+    "eng": "My tie is orange.",
+    "fren": "Ma cravate et orange",
+    "vocals": [{ "clipId": 15, "title": "02_4_Speaking_clipId-15-0" }]
+  },
+  {
+    "phraseId": 752,
+    "eng": "My belt is brown.",
+    "fren": "Ma ceinture est marron",
+    "vocals": [{ "clipId": 16, "title": "02_4_Speaking_clipId-16-0" }]
+  },
+  {
+    "phraseId": 753,
+    "eng": "My sweater is purple.",
+    "fren": "Mon pull est violet",
+    "vocals": [{ "clipId": 17, "title": "02_4_Speaking_clipId-17-0" }]
+  },
+  {
+    "phraseId": 754,
+    "eng": "I'm hungry.",
+    "fren": "J'ai faim",
+    "vocals": [{ "clipId": 18, "title": "02_4_Speaking_clipId-18-0" }]
+  },
+  {
+    "phraseId": 755,
+    "eng": "I am thirsty.",
+    "fren": "J'ai soif",
+    "vocals": [{ "clipId": 19, "title": "02_4_Speaking_clipId-19-0" }]
+  },
+  {
+    "phraseId": 756,
+    "eng": "I'm hot.",
+    "fren": "J'ai chaud",
+    "vocals": [{ "clipId": 20, "title": "02_4_Speaking_clipId-20-0" }]
+  },
+  {
+    "phraseId": 757,
+    "eng": "I am cold.",
+    "fren": "J'ai froid",
+    "vocals": [{ "clipId": 21, "title": "02_4_Speaking_clipId-21-0" }]
+  },
+  {
+    "phraseId": 758,
+    "eng": "Are you thirsty?",
+    "fren": "Est-ce que tu as soif",
+    "vocals": [{ "clipId": 22, "title": "02_4_Speaking_clipId-22-0" }]
+  },
+  {
+    "phraseId": 759,
+    "eng": "Yes, I'm thirsty.",
+    "fren": "Oui j'ai soif",
+    "vocals": [{ "clipId": 23, "title": "02_4_Speaking_clipId-23-0" }]
+  },
+  {
+    "phraseId": 760,
+    "eng": "Are you cold?",
+    "fren": "Est-ce que vous avez froid",
+    "vocals": [{ "clipId": 24, "title": "02_4_Speaking_clipId-24-0" }]
+  },
+  {
+    "phraseId": 761,
+    "eng": "No, we are not cold.",
+    "fren": "Non nous n'avons pas froid",
+    "vocals": [{ "clipId": 25, "title": "02_4_Speaking_clipId-25-0" }]
+  },
+  {
+    "phraseId": 762,
+    "eng": "Are you hungry?",
+    "fren": "Est-ce que vous avez faim",
+    "vocals": [{ "clipId": 26, "title": "02_4_Speaking_clipId-26-0" }]
+  },
+  {
+    "phraseId": 763,
+    "eng": "No, I'm not hungry.",
+    "fren": "Non je n'ai pas faim",
+    "vocals": [{ "clipId": 27, "title": "02_4_Speaking_clipId-27-0" }]
+  },
+  {
+    "phraseId": 764,
+    "eng": "Are you hot?",
+    "fren": "Est-ce que vous avez chaud",
+    "vocals": [{ "clipId": 28, "title": "02_4_Speaking_clipId-28-0" }]
+  },
+  {
+    "phraseId": 765,
+    "eng": "Yes, we are hot.",
+    "fren": "Oui nous avons chaud",
+    "vocals": [{ "clipId": 29, "title": "02_4_Speaking_clipId-29-0" }]
+  },
+  {
+    "phraseId": 766,
+    "eng": "Yes, I'm cold.",
+    "fren": "Oui j'ai froid",
+    "vocals": [{ "clipId": 30, "title": "02_4_Speaking_clipId-30-0" }]
+  },
+  {
+    "phraseId": 767,
+    "eng": "Are you thirsty?",
+    "fren": "Est-ce que vous avez soif",
+    "vocals": [{ "clipId": 31, "title": "02_4_Speaking_clipId-31-0" }]
+  },
+  {
+    "phraseId": 768,
+    "eng": "No, we are not thirsty.",
+    "fren": "Non nous n'avons pas soif",
+    "vocals": [{ "clipId": 32, "title": "02_4_Speaking_clipId-32-0" }]
+  },
+  {
+    "phraseId": 769,
+    "eng": "Are you hot?",
+    "fren": "Est-ce que tu as chaud",
+    "vocals": [{ "clipId": 33, "title": "02_4_Speaking_clipId-33-0" }]
+  },
+  {
+    "phraseId": 770,
+    "eng": "No, I am not hot.",
+    "fren": "Non je n'ai pas chaud",
+    "vocals": [{ "clipId": 34, "title": "02_4_Speaking_clipId-34-0" }]
+  },
+  {
+    "phraseId": 771,
+    "eng": "Yes, we are hungry.",
+    "fren": "Oui nous avons faim",
+    "vocals": [{ "clipId": 35, "title": "02_4_Speaking_clipId-35-0" }]
+  },
+  {
+    "phraseId": 772,
+    "eng": "I'm tired.",
+    "fren": "Je suis fatigué",
+    "vocals": [
+      { "clipId": 36, "title": "02_4_Speaking_clipId-36-0" },
+      { "clipId": 36, "title": "02_4_Speaking_clipId-36-1" }
+    ]
+  },
+  {
+    "phraseId": 773,
+    "eng": "Are you sick?",
+    "fren": "Est-ce que tu es malade",
+    "vocals": [{ "clipId": 37, "title": "02_4_Speaking_clipId-37-0" }]
+  },
+  {
+    "phraseId": 774,
+    "eng": "No, I’m fine.",
+    "fren": "Non je vais bien",
+    "vocals": [{ "clipId": 38, "title": "02_4_Speaking_clipId-38-0" }]
+  },
+  {
+    "phraseId": 775,
+    "eng": "Are you tired?",
+    "fren": "Est-ce que tu es fatigué",
+    "vocals": [{ "clipId": 39, "title": "02_4_Speaking_clipId-39-0" }]
+  },
+  {
+    "phraseId": 776,
+    "eng": "I'm sick.",
+    "fren": "Je suis malade",
+    "vocals": [
+      { "clipId": 40, "title": "02_4_Speaking_clipId-40-0" },
+      { "clipId": 7, "title": "02_4_Conversation_clipId-7-0" }
+    ]
+  },
+  {
+    "phraseId": 777,
+    "eng": "And you, how are you?",
+    "fren": "Et toi comment vas-tu",
+    "vocals": [{ "clipId": 41, "title": "02_4_Speaking_clipId-41-0" }]
+  },
+  {
+    "phraseId": 778,
+    "eng": "I’m doing well",
+    "fren": "Moi je vais bien",
+    "vocals": [
+      { "clipId": 42, "title": "02_4_Speaking_clipId-42-0" },
+      { "clipId": 9, "title": "02_4_Conversation_clipId-9-0" }
+    ]
+  },
+  {
+    "phraseId": 779,
+    "eng": "Hi!",
+    "fren": "Salut",
+    "vocals": [{ "clipId": 43, "title": "02_4_Speaking_clipId-43-0" }]
+  },
+  {
+    "phraseId": 780,
+    "eng": "How are you?",
+    "fren": "Comment vas-tu",
+    "vocals": [
+      { "clipId": 44, "title": "02_4_Speaking_clipId-44-0" },
+      { "clipId": 6, "title": "02_4_Conversation_clipId-6-0" },
+      { "clipId": 6, "title": "02_4_Conversation_clipId-6-1" }
+    ]
+  },
+  {
+    "phraseId": 781,
+    "eng": "I'm doing well.",
+    "fren": "Je vais bien",
+    "vocals": [
+      { "clipId": 45, "title": "02_4_Speaking_clipId-45-0" },
+      { "clipId": 1, "title": "02_4_Conversation_clipId-1-0" }
+    ]
+  },
+  {
+    "phraseId": 782,
+    "eng": "How are you?",
+    "fren": "Comment allez-vous",
+    "vocals": [{ "clipId": 47, "title": "02_4_Speaking_clipId-47-0" }]
+  },
+  {
+    "phraseId": 783,
+    "eng": "Hi Mom.",
+    "fren": "Salut maman",
+    "vocals": [
+      { "clipId": 48, "title": "02_4_Speaking_clipId-48-0" },
+      { "clipId": 4, "title": "02_4_Conversation_clipId-4-0" }
+    ]
+  },
+  {
+    "phraseId": 784,
+    "eng": "Hi Dad.",
+    "fren": "Salut papa",
+    "vocals": [{ "clipId": 49, "title": "02_4_Speaking_clipId-49-0" }]
+  },
+  {
+    "phraseId": 785,
+    "eng": "Hello Marie.",
+    "fren": "Salut Marie",
+    "vocals": [
+      { "clipId": 50, "title": "02_4_Speaking_clipId-50-0" },
+      { "clipId": 5, "title": "02_4_Conversation_clipId-5-0" }
+    ]
+  },
+  {
+    "phraseId": 786,
+    "eng": "Hi Grandma.",
+    "fren": "Salut grand-mère",
+    "vocals": [
+      { "clipId": 51, "title": "02_4_Speaking_clipId-51-0" },
+      { "clipId": 10, "title": "02_4_Conversation_clipId-10-0" }
+    ]
+  },
+  {
+    "phraseId": 787,
+    "eng": "Hi Grandpa.",
+    "fren": "Salut grand-père",
+    "vocals": [{ "clipId": 52, "title": "02_4_Speaking_clipId-52-0" }]
+  },
+  {
+    "phraseId": 788,
+    "eng": "Are you hungry?",
+    "fren": "Est-ce que tu as faim",
+    "vocals": [{ "clipId": 53, "title": "02_4_Speaking_clipId-53-0" }]
+  },
+  {
+    "phraseId": 789,
+    "eng": "Yes, I'm hungry.",
+    "fren": "Oui j'ai faim",
+    "vocals": [{ "clipId": 54, "title": "02_4_Speaking_clipId-54-0" }]
+  },
+  {
+    "phraseId": 790,
+    "eng": "He is our son.",
+    "fren": "C'est notre fils",
+    "vocals": [{ "clipId": 0, "title": "02_1_Conversation_clipId-0-0" }]
+  },
+  {
+    "phraseId": 791,
+    "eng": "That's my son.",
+    "fren": "C'est mon fils",
+    "vocals": [{ "clipId": 1, "title": "02_1_Conversation_clipId-1-0" }]
+  },
+  {
+    "phraseId": 792,
+    "eng": "She is our mother.",
+    "fren": "C'est notre mère",
+    "vocals": [{ "clipId": 2, "title": "02_1_Conversation_clipId-2-0" }]
+  },
+  {
+    "phraseId": 793,
+    "eng": "That's my mother.",
+    "fren": "C'est ma mère",
+    "vocals": [{ "clipId": 3, "title": "02_1_Conversation_clipId-3-0" }]
+  },
+  {
+    "phraseId": 794,
+    "eng": "These are our children.",
+    "fren": "Ce sont nos enfants",
+    "vocals": [{ "clipId": 4, "title": "02_1_Conversation_clipId-4-0" }]
+  },
+  {
+    "phraseId": 795,
+    "eng": "These are our parents.",
+    "fren": "Ce sont nos parents",
+    "vocals": [{ "clipId": 5, "title": "02_1_Conversation_clipId-5-0" }]
+  },
+  {
+    "phraseId": 796,
+    "eng": "Are you asleep?",
+    "fren": "Est-ce que tu dors",
+    "vocals": [{ "clipId": 6, "title": "02_1_Conversation_clipId-6-0" }]
+  },
+  {
+    "phraseId": 797,
+    "eng": "No.",
+    "fren": "Non",
+    "vocals": [{ "clipId": 7, "title": "02_1_Conversation_clipId-7-0" }]
+  },
+  {
+    "phraseId": 798,
+    "eng": "What are you doing?",
+    "fren": "Qu'est-ce que tu fais",
+    "vocals": [{ "clipId": 8, "title": "02_1_Conversation_clipId-8-0" }]
+  },
+  {
+    "phraseId": 799,
+    "eng": "I am reading.",
+    "fren": "Je lis",
+    "vocals": [{ "clipId": 9, "title": "02_1_Conversation_clipId-9-0" }]
+  },
+  {
+    "phraseId": 800,
+    "eng": "Are you eating?",
+    "fren": "Est-ce que vous mangez",
+    "vocals": [{ "clipId": 10, "title": "02_1_Conversation_clipId-10-0" }]
+  },
+  {
+    "phraseId": 801,
+    "eng": "What are you doing?",
+    "fren": "Qu'est-ce que vous faites",
+    "vocals": [{ "clipId": 11, "title": "02_1_Conversation_clipId-11-0" }]
+  },
+  {
+    "phraseId": 802,
+    "eng": "I am writing.",
+    "fren": "J'écris",
+    "vocals": [{ "clipId": 12, "title": "02_1_Conversation_clipId-12-0" }]
+  },
+  {
+    "phraseId": 803,
+    "eng": "Is that your brother?",
+    "fren": "Est-ce que c'est ton frère",
+    "vocals": [{ "clipId": 0, "title": "02_2_Conversation_clipId-0-0" }]
+  },
+  {
+    "phraseId": 804,
+    "eng": "Yes, that's my brother.",
+    "fren": "Oui c'est mon frère",
+    "vocals": [{ "clipId": 1, "title": "02_2_Conversation_clipId-1-0" }]
+  },
+  {
+    "phraseId": 805,
+    "eng": "Where is my diary?",
+    "fren": "Où est mon journal",
+    "vocals": [{ "clipId": 2, "title": "02_2_Conversation_clipId-2-0" }]
+  },
+  {
+    "phraseId": 806,
+    "eng": "Your newspaper is on the table.",
+    "fren": "Votre journal est sur la table",
+    "vocals": [{ "clipId": 3, "title": "02_2_Conversation_clipId-3-0" }]
+  },
+  {
+    "phraseId": 807,
+    "eng": "where are the shoes?",
+    "fren": "Où sont les chaussures",
+    "vocals": [{ "clipId": 4, "title": "02_2_Conversation_clipId-4-0" }]
+  },
+  {
+    "phraseId": 808,
+    "eng": "The shoes are under the bed.",
+    "fren": "Les chaussures sont sous le lit",
+    "vocals": [{ "clipId": 5, "title": "02_2_Conversation_clipId-5-0" }]
+  },
+  {
+    "phraseId": 809,
+    "eng": "Where is the newspaper?",
+    "fren": "Où est le journal",
+    "vocals": [{ "clipId": 6, "title": "02_2_Conversation_clipId-6-0" }]
+  },
+  {
+    "phraseId": 810,
+    "eng": "The newspaper is on the bed.",
+    "fren": "Le journal est sur le lit",
+    "vocals": [{ "clipId": 7, "title": "02_2_Conversation_clipId-7-0" }]
+  },
+  {
+    "phraseId": 811,
+    "eng": "Hello, my name is Victor. ",
+    "fren": "bonjour je m'appelle Victor",
+    "vocals": [{ "clipId": 0, "title": "02_3_Conversation_clipId-0-0" }]
+  },
+  {
+    "phraseId": 812,
+    "eng": "Hello, my name is Line.",
+    "fren": "bonjour je m'appelle line",
+    "vocals": [{ "clipId": 1, "title": "02_3_Conversation_clipId-1-0" }]
+  },
+  {
+    "phraseId": 813,
+    "eng": "Hello, my name is Isabella.",
+    "fren": "bonjour je m'appelle Isabella",
+    "vocals": [{ "clipId": 2, "title": "02_3_Conversation_clipId-2-0" }]
+  },
+  {
+    "phraseId": 814,
+    "eng": "Hello, my name is Pierre",
+    "fren": "bonjour je m'appelle Pierre",
+    "vocals": [{ "clipId": 3, "title": "02_3_Conversation_clipId-3-0" }]
+  },
+  {
+    "phraseId": 815,
+    "eng": "I live in Moscow, Russia",
+    "fren": "j'habite à Moscou en Russie",
+    "vocals": [{ "clipId": 4, "title": "02_3_Conversation_clipId-4-0" }]
+  },
+  {
+    "phraseId": 816,
+    "eng": " en Chine.,I live in Beijing, China.",
+    "fren": "J'habite à Beijing",
+    "vocals": [{ "clipId": 5, "title": "02_3_Conversation_clipId-5-0" }]
+  },
+  {
+    "phraseId": 817,
+    "eng": "I live in Rome, Italy",
+    "fren": "j'habite à Rome en Italie",
+    "vocals": [{ "clipId": 6, "title": "02_3_Conversation_clipId-6-0" }]
+  },
+  {
+    "phraseId": 818,
+    "eng": "I live in Paris, France",
+    "fren": "j'habite à Paris en France",
+    "vocals": [{ "clipId": 7, "title": "02_3_Conversation_clipId-7-0" }]
+  },
+  {
+    "phraseId": 819,
+    "eng": "This is my room",
+    "fren": "c'est ma chambre",
+    "vocals": [
+      { "clipId": 8, "title": "02_3_Conversation_clipId-8-0" },
+      { "clipId": 8, "title": "02_3_Conversation_clipId-8-1" }
+    ]
+  },
+  {
+    "phraseId": 820,
+    "eng": "This is my kitchen",
+    "fren": "c'est ma cuisine",
+    "vocals": [
+      { "clipId": 9, "title": "02_3_Conversation_clipId-9-0" },
+      { "clipId": 9, "title": "02_3_Conversation_clipId-9-1" }
+    ]
+  },
+  {
+    "phraseId": 821,
+    "eng": "That's my mother. Her name is Mais. She cooks;",
+    "fren": "c'est ma mère. elle s'appelle mais. elle cuisine",
+    "vocals": [{ "clipId": 10, "title": "02_3_Conversation_clipId-10-0" }]
+  },
+  {
+    "phraseId": 822,
+    "eng": "This is my brother, his name is Vladimir. He is sleeping in his room;",
+    "fren": "c'est mon frère il s'appelle Vladimir. il dort dans sa chambre",
+    "vocals": [{ "clipId": 11, "title": "02_3_Conversation_clipId-11-0" }]
+  },
+  {
+    "phraseId": 823,
+    "eng": "That's my father, his name is Bertrand. He's eating in the dining room;",
+    "fren": "c'est mon père il s'appelle Bertrand. il mange dans la salle à manger",
+    "vocals": [{ "clipId": 12, "title": "02_3_Conversation_clipId-12-0" }]
+  },
+  {
+    "phraseId": 824,
+    "eng": "This is my sister, her name is Julia. She's playing in the park;",
+    "fren": "c'est ma sœur elle s'appelle Julia. elle joue dans le parc",
+    "vocals": [{ "clipId": 13, "title": "02_3_Conversation_clipId-13-0" }]
+  },
+  {
+    "phraseId": 825,
+    "eng": "Hello Mrs. Gauthier, how are you?",
+    "fren": "Bonjour madame Gauthier comment allez-vous",
+    "vocals": [{ "clipId": 0, "title": "02_4_Conversation_clipId-0-0" }]
+  },
+  {
+    "phraseId": 826,
+    "eng": "Hello Sophie, how are you?",
+    "fren": "Bonjour Sophie comment vas-tu",
+    "vocals": [{ "clipId": 3, "title": "02_4_Conversation_clipId-3-0" }]
+  },
+  {
+    "phraseId": 827,
+    "eng": "And you, how are you?",
+    "fren": "Et toi. comment vas-tu",
+    "vocals": [{ "clipId": 8, "title": "02_4_Conversation_clipId-8-0" }]
+  }
+]

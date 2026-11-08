@@ -1,0 +1,38 @@
+#startTheApp {
+  width: 22em;
+  padding: 1em;
+  height: fit-content;
+}
+
+#startTheApp .message {
+  text-wrap: balance;
+  text-align: center;
+  line-height: 1.4;
+}
+
+#startTheApp ul {
+  font-size: 1.2em;
+  list-style: none;
+  margin: 1em auto 2em;
+  width: fit-content;
+}
+
+#startTheApp li {
+  margin: .5em
+}
+
+#startTheApp button {
+  display: block;
+  font-size: 1.2em;
+  margin: auto;
+}
+
+.rememberMostRecent {
+  position: absolute;
+  bottom: 1em;
+  left: 0;
+  width: fit-content;
+  right: 0;
+  margin: auto;
+  font-size: 1.1em;
+}
