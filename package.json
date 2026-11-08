@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --env-file=.env --ignore *.json server",
-    "dev": "nodemon --env-file=.env --ignore *.json server"
+    "start": "react-scripts start json-server",
+    "server-json": "react-scripts start json-server",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
     "proxy": "http://127.0.0.1:5000",
   "keywords": [],
