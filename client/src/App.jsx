@@ -160,9 +160,8 @@ function App() {
     //  Get favorites from localStorage
     const favorites = JSON.parse(
       localStorage.getItem(`${window.languageChoice}_favorites`)
-    ) || {
-      favorites: [],
-    }
+    ) || []
+    
 
     setFavorites(favorites)
     window.PHRASE_DATA.forEach(clip => {
