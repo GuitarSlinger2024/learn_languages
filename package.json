@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
+    "dev": "react-scripts start json-server",
     "start": "react-scripts start json-server",
     "server-json": "react-scripts start json-server",
     "build": "react-scripts build",
